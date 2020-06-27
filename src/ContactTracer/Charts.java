@@ -1,5 +1,11 @@
 package ContactTracer;
 
+import static Simulation.ASimulator.GENERATOR;
+import static Simulation.ASimulator.appLaunch;
+import static Simulation.ASimulator.checkManually;
+import static Simulation.ASimulator.openChart;
+import static Simulation.ASimulator.options;
+import static Simulation.ASimulator.simulationDay;
 import SourceDS.LinkedList;
 import java.awt.BasicStroke;
 import java.awt.Color;
@@ -7,6 +13,7 @@ import java.awt.geom.Ellipse2D;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
+import javax.swing.JOptionPane;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartFrame;
 import org.jfree.chart.JFreeChart;
@@ -18,6 +25,8 @@ import org.jfree.chart.renderer.category.LineAndShapeRenderer;
 import org.jfree.chart.util.DefaultShadowGenerator;
 
 public class Charts extends javax.swing.JFrame {
+    
+    public static boolean checkManuallyReturn = true;
     
     public Charts(){
         
@@ -36,6 +45,7 @@ public class Charts extends javax.swing.JFrame {
         pnlReport = new javax.swing.JPanel();
         jButton2 = new javax.swing.JButton();
         datelabel = new javax.swing.JLabel();
+        jButton3 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
@@ -58,6 +68,13 @@ public class Charts extends javax.swing.JFrame {
                 jButton2ActionPerformed(evt, infectedList, infectedIDWithDate, recoveredNumberWithDate, deadNumberWithDate);
             }
         });
+        
+        jButton3.setText("Next");
+        jButton3.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton3ActionPerformed(evt, total);
+            }
+        });
 
         datelabel.setText("Date: " + date + "     Currently being cured: " + currentWard + "     Total COVID-19 patients: " + total);
         datelabel.addInputMethodListener(new java.awt.event.InputMethodListener() {
@@ -78,6 +95,8 @@ public class Charts extends javax.swing.JFrame {
                                 .addComponent(jButton1)
                                 .addGap(72, 72, 72)
                                 .addComponent(jButton2)
+                                .addGap(72, 72, 72)
+                                .addComponent(jButton3)
                                 .addGap(219, 219, 219))
                         .addGroup(layout.createSequentialGroup()
                                 .addComponent(pnlReport, javax.swing.GroupLayout.PREFERRED_SIZE, 1200, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -103,7 +122,8 @@ public class Charts extends javax.swing.JFrame {
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                                         .addComponent(jButton1)
-                                        .addComponent(jButton2))
+                                        .addComponent(jButton2)
+                                        .addComponent(jButton3))
                                 .addContainerGap())
         );
 
@@ -169,7 +189,56 @@ public class Charts extends javax.swing.JFrame {
         pnlReport.add(chartpanel);
         pnlReport.updateUI();
     }//GEN-LAST:event_jButton2ActionPerformed
+    
+    // BUG BUG BUG BUG BUG BUG BUG BUG BUG BUG BUG BUG BUG BUG
+    private void jButton3ActionPerformed(java.awt.event.ActionEvent evt, int total) {//GEN-FIRST:event_jButton1ActionPerformed
+        int ops;
+        
+        if(total > GENERATOR.population - (5*GENERATOR.population/10)){
+            JOptionPane.showMessageDialog(null, "Your whole city is half infected. Simulation ends.");
+            System.exit(0);
+        } else {
+            
+            if(Simulation.ASimulator.simulationDay == 0) {
+                ops = JOptionPane.showConfirmDialog(null, "Continue the simulation?", "El-Corona", JOptionPane.YES_NO_OPTION);
+                if(ops == JOptionPane.YES_OPTION){
+                    Simulation.ASimulator.simulationDay += 30;
+                    Simulation.ASimulator.checkManually = true;
+                    setVisible(false);
+                    return;
+                } else {
+                    JOptionPane.showMessageDialog(null, "Simulation Ended");
+                    System.exit(0);
+                }
+            } 
+            else {
+                ops = JOptionPane.showOptionDialog(null, "Do you want to trace manually?", "Contact Tracer",
+                        JOptionPane.DEFAULT_OPTION, JOptionPane.INFORMATION_MESSAGE, null, options, options[0]);
+                switch(ops){
+                    case 0:
+                        appLaunch(InputManualGUI.class);
+                        setVisible(false);
+                        return;
 
+                    case 1:
+                        checkManuallyReturn = false;
+                        setVisible(false);
+                        return;
+
+                    case 2:
+                        checkManually = false;
+                        Simulation.ASimulator.checkManually = false;
+                        Simulation.ASimulator.openChart = false;
+                        setVisible(false);
+                        return;
+
+                    default:
+                        return;
+                }
+            }
+        }
+    }
+    
     private void datelabelInputMethodTextChanged(java.awt.event.InputMethodEvent evt) {//GEN-FIRST:event_datelabelInputMethodTextChanged
 
     }//GEN-LAST:event_datelabelInputMethodTextChanged
@@ -180,22 +249,22 @@ public class Charts extends javax.swing.JFrame {
         /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
          * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
          */
-        try {
-            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
-                if ("Nimbus".equals(info.getName())) {
-                    javax.swing.UIManager.setLookAndFeel(info.getClassName());
-                    break;
-                }
-            }
-        } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(Charts.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(Charts.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(Charts.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(Charts.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        }
+//        try {
+//            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
+//                if ("Nimbus".equals(info.getName())) {
+//                    javax.swing.UIManager.setLookAndFeel(info.getClassName());
+//                    break;
+//                }
+//            }
+//        } catch (ClassNotFoundException ex) {
+//            java.util.logging.Logger.getLogger(Charts.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+//        } catch (InstantiationException ex) {
+//            java.util.logging.Logger.getLogger(Charts.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+//        } catch (IllegalAccessException ex) {
+//            java.util.logging.Logger.getLogger(Charts.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+//        } catch (javax.swing.UnsupportedLookAndFeelException ex) {
+//            java.util.logging.Logger.getLogger(Charts.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+//        }
         //</editor-fold>
         //</editor-fold>
         //</editor-fold>
@@ -213,6 +282,7 @@ public class Charts extends javax.swing.JFrame {
     private javax.swing.JLabel datelabel;
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton2;
+    private javax.swing.JButton jButton3;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel pnlReport;
     // End of variables declaration//GEN-END:variables
