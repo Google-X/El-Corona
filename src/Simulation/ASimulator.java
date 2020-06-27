@@ -22,6 +22,7 @@ import java.util.Scanner;
 import java.util.Set;
 import javafx.application.Platform;
 import javafx.stage.Stage;
+import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
 public class ASimulator {
@@ -42,6 +43,8 @@ public class ASimulator {
     final static int dayToSimulate = 30; // When demo, put more than 14, contact tracer will be carried out after 14
     final static int r0Metric = 4;
     final static int fourteenDay = 14;
+    public static int simulationDay;
+    public static String[] options = {"Yes", "No", "Stop for all"};
     public static boolean patientFound = false;
     public static boolean MCO = false;
     public static boolean checkManually = true;
@@ -74,10 +77,14 @@ public class ASimulator {
     
     public static void main(String[] args) throws ParseException {
         
-        if(JOptionPane.showConfirmDialog(null, "FIRST THING FIRST, GUI MODE?", "El-Corona Setup", JOptionPane.YES_NO_OPTION) == JOptionPane.YES_OPTION){
+        int ops = JOptionPane.showConfirmDialog(null, "FIRST THING FIRST, GUI MODE?", "El-Corona Setup", JOptionPane.YES_NO_OPTION);
+        if(ops == JOptionPane.YES_OPTION){
             GUIMode = true;
             TRACER.setGUIMode();
-        } 
+        } else if (ops == JOptionPane.CLOSED_OPTION) {
+            JOptionPane.showMessageDialog(null, "Simulation stopped.");
+            System.exit(0);
+        }
         
         // Generate map first
         Map map = new Map();
@@ -91,7 +98,7 @@ public class ASimulator {
         
         // Generate or retrieve Human Information
         GENERATOR.generateID();
-        int simulationDay = dayToSimulate;
+        simulationDay = dayToSimulate;
         List<String> infectedList = new ArrayList<>();
         List<String> recoveredList = new ArrayList<>();
         List<String> deadList = new ArrayList<>();
@@ -269,9 +276,9 @@ public class ASimulator {
                                 infectedIDwithDate.get(TIME.getDate()).addLastNode(String.format("%05d", firstInfected));
                             }
                             
-                            List[] possibleInfectedPlacesAndHumanID = placesAndHumanIDS(firstInfected);
-                            TRACER.getTree(firstInfected, 1.0, TIME.getDateInFormat());
-                            TRACER.getClosedRelationTree(firstInfected, 1.0);
+//                            List[] possibleInfectedPlacesAndHumanID = placesAndHumanIDS(firstInfected);
+//                            TRACER.getTree(firstInfected, 1.0, TIME.getDateInFormat());
+//                            TRACER.getClosedRelationTree(firstInfected, 1.0);
                             c++;
                         }
                     } catch (NullPointerException nep){}
@@ -315,20 +322,15 @@ public class ASimulator {
                 Set<String> keys = infectedIDwithDate.keySet();
                 List<String> list = new ArrayList<>(keys); 
                 Collections.sort(list);
-//                for(String date : list) {
-//                    infectedIDwithDate.get(date).showList();
-//                    System.out.println();
-//                }
 
                 if(total > GENERATOR.population - (5*GENERATOR.population/10)) {
-                    System.out.println("Your whole city is half infected. Well done. Simulation ends.");
+                    
                     if(GUIMode){
                         CHARTS.start(TIME.getDate(), list, infectedIDwithDate, recoveredNumberwithDate, deadNumberwithDate, todayInfectedList.size(), todayRecoveredList.size(), todayDeadList.size(), infectedList.size(), total);
-                        System.out.println("[Press any key to end]");
-                        s.nextLine();
-                        s.nextLine();
-                    } 
-                    System.exit(0);
+                    } else {
+                        System.out.println("Your whole city is half infected. Simulation ends.");
+                        System.exit(0);
+                    }
                 }
                 
                 if(GUIMode){
@@ -336,19 +338,10 @@ public class ASimulator {
                         CHARTS.start(TIME.getDate(), list, infectedIDwithDate, recoveredNumberwithDate, deadNumberwithDate, todayInfectedList.size(), todayRecoveredList.size(), todayDeadList.size(), infectedList.size(), total);
                     } else {
                         if(simulationDay == 0){
+                            // BUG BUG BUG BUG BUG BUG BUG BUG BUG BUG BUG BUG BUG BUG
                             CHARTS.start(TIME.getDate(), list, infectedIDwithDate, recoveredNumberwithDate, deadNumberwithDate, todayInfectedList.size(), todayRecoveredList.size(), todayDeadList.size(), infectedList.size(), total);
-                            s.nextLine();
-                            System.out.print("To shutdown [Press any key, Y/y to continue the simulation]: ");
-                            switch(s.nextLine()){
-                                case "y":
-                                case "Y":
-                                    simulationDay += 30;
-                                    checkManually = true;
-                                    break;
-                                case "\n":
-                                default:
-                                    System.exit(0);
-                            }
+                            checkManually = true;
+                            // TO DO CONFIRMATION BOX IN CHART CLASS
                         }
                     }
                 } else {
@@ -368,33 +361,38 @@ public class ASimulator {
                     }
                 }
                 
-//              /* Ask user whether they want to check manualy
+//              Ask user whether they want to check manualy
                 ASK:
                 while(checkManually){
-                    System.out.print("\nDo you want to check manually? X: Stop for all (Y/N): ");
-                    char choice = s.next().charAt(0);
                     
-                    switch(choice){
-                        case 'Y':
-                        case 'y':
-                            if(GUIMode){
-                                appLaunch(InputManualGUI.class);
-                                break ASK;
-                            } else {
+                    if(GUIMode){
+                        // BUG BUG BUG BUG BUG BUG BUG BUG BUG BUG BUG BUG BUG BUG
+                        // TO DO IN CHARTS
+                        if(CHARTS.checkManuallyReturn == false) {
+                            CHARTS.checkManuallyReturn = true;
+                            break;
+                        }
+                    } else {
+                    
+                        System.out.print("\nDo you want to check manually? X: Stop for all (Y/N): ");
+                        char choice = s.next().charAt(0);
+
+                        switch(choice){
+                            case 'Y':
+                            case 'y':
                                 FINDER = new InputManual();
                                 FINDER.find();
-                            }
-                            break;
-                        case 'X':
-                        case 'x':
-                            checkManually = false;
-                            openChart = false;
-                            break;
-                        default:
-                            break ASK;
+                                break;
+                            case 'X':
+                            case 'x':
+                                checkManually = false;
+                                openChart = false;
+                                break;
+                            default:
+                                break ASK;
+                        }
                     }
                 }
-//              */
             }
             
             // Next day
