@@ -1,0 +1,17 @@
+HUMAN ID: 08102     GENDER: Female     AGE CATEGORY: Adult     ROLE: Teacher
+========================================================================================
+
+[19-06-2020] : Kindergarden [06:08:15] --> MoonBucks [10:56:29] --> 
+[20-06-2020] : Museum [18:05:16] --> 
+[21-06-2020] : 
+[22-06-2020] : Kindergarden [06:06:54] --> FoodCourt [10:55:23] --> 
+[23-06-2020] : Kindergarden [06:08:08] --> 
+[24-06-2020] : Kindergarden [06:07:18] --> 
+[25-06-2020] : Kindergarden [06:07:08] --> MoonBucks [10:52:04] --> 
+[26-06-2020] : Kindergarden [06:06:46] --> SlowMart [10:51:19] --> 
+[27-06-2020] : 
+[28-06-2020] : Museum [18:01:02] --> 
+[29-06-2020] : Kindergarden [06:08:16] --> 
+[30-06-2020] : Kindergarden [06:07:47] --> Ali's Nasi Kandar [10:54:56] --> 
+[01-07-2020] : Kindergarden [06:07:03] --> JanBank [10:55:45] --> 
+[02-07-2020] : Kindergarden [06:07:47] --> 

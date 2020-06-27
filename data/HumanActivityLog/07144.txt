@@ -1,0 +1,17 @@
+HUMAN ID: 07144     GENDER: Female     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : MRT Station [06:00:17] --> MoonBucks [08:24:20] --> GayaGrocery [17:59:35] --> 
+[20-06-2020] : MoonBucks [08:22:54] --> Fibre [13:09:57] --> Police Station [17:57:11] --> 
+[21-06-2020] : MoonBucks [08:22:44] --> 
+[22-06-2020] : MoonBucks [08:23:34] --> 
+[23-06-2020] : MoonBucks [08:23:08] --> 
+[24-06-2020] : MoonBucks [08:22:00] --> Fibre [13:09:17] --> SlowMart [17:57:07] --> 
+[25-06-2020] : MoonBucks [08:21:08] --> Post Office [13:07:28] --> 
+[26-06-2020] : MoonBucks [08:20:53] --> RHP [13:05:32] --> 
+[27-06-2020] : KTM Station [06:00:14] --> MoonBucks [08:23:32] --> GayaGrocery [17:54:40] --> 
+[28-06-2020] : MoonBucks [08:21:29] --> 
+[29-06-2020] : MRT Station [06:00:22] --> MoonBucks [08:23:15] --> 
+[30-06-2020] : MoonBucks [08:22:57] --> 
+[01-07-2020] : MoonBucks [08:22:36] --> GayaGrocery [13:12:03] --> RHP [17:59:54] --> 
+[02-07-2020] : KTM Station [06:00:13] --> MoonBucks [08:22:03] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 08458     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : Orange [08:35:33] --> FoodCourt [13:22:48] --> MoonBucks [18:10:13] --> 
+[20-06-2020] : MoonBucks [18:08:02] --> 
+[21-06-2020] : Library [20:29:46] --> 
+[22-06-2020] : Orange [08:34:36] --> GayaGrocery [10:58:18] --> MoonBucks [13:22:23] --> RHP [18:08:41] --> 
+[23-06-2020] : MRT Station [06:11:09] --> Orange [08:33:59] --> MoonBucks [13:20:12] --> FoodCourt [18:05:50] --> 
+[24-06-2020] : Orange [08:32:48] --> Fibre [10:56:17] --> Ali's Nasi Kandar [13:20:32] --> 
+[25-06-2020] : Orange [08:32:36] --> MoonBucks [10:55:10] --> 
+[26-06-2020] : KTM Station [06:09:52] --> Orange [08:31:33] --> Ali's Nasi Kandar [13:16:26] --> Post Office [18:04:11] --> 
+[27-06-2020] : IKEY [13:19:58] --> JJPTRv2 [18:05:34] --> Library [20:28:56] --> 
+[28-06-2020] : Pharmarcy [10:55:02] --> 2 Akhir [13:18:17] --> 
+[29-06-2020] : Orange [08:34:13] --> 
+[30-06-2020] : KTM Station [06:10:57] --> Orange [08:33:44] --> GayaGrocery [10:57:41] --> GayaGrocery [18:08:40] --> 
+[01-07-2020] : MRT Station [06:10:14] --> Orange [08:33:27] --> Pharmarcy [10:58:51] --> FoodCourt [13:22:57] --> JanBank [18:11:18] --> 
+[02-07-2020] : MRT Station [06:10:58] --> Orange [08:33:10] --> FoodCourt [13:19:32] --> 

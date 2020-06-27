@@ -1,0 +1,17 @@
+HUMAN ID: 07550     GENDER: Female     AGE CATEGORY: Adult     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : MRT Station [06:03:41] --> Post Office [08:27:24] --> Post Office [13:15:27] --> 
+[20-06-2020] : MRT Station [06:03:49] --> Post Office [08:26:16] --> JJPTRv2 [13:13:23] --> 
+[21-06-2020] : KTM Station [06:03:03] --> Fibre [17:59:12] --> 
+[22-06-2020] : Post Office [08:26:47] --> Pharmarcy [13:14:39] --> 
+[23-06-2020] : MRT Station [06:03:29] --> 
+[24-06-2020] : 
+[25-06-2020] : Post Office [08:24:40] --> Post Office [17:58:09] --> 
+[26-06-2020] : Post Office [08:24:03] --> Ali's Nasi Kandar [13:08:41] --> Police Station [17:56:31] --> 
+[27-06-2020] : KTM Station [06:03:40] --> Post Office [08:26:55] --> SlowMart [13:11:59] --> Ali's Nasi Kandar [17:57:58] --> 
+[28-06-2020] : KTM Station [06:01:31] --> Post Office [08:25:00] --> RHP [13:10:46] --> 
+[29-06-2020] : MRT Station [06:03:36] --> Post Office [08:26:34] --> Pharmarcy [13:15:53] --> 
+[30-06-2020] : MRT Station [06:02:53] --> Post Office [08:26:21] --> 
+[01-07-2020] : KTM Station [06:02:24] --> 
+[02-07-2020] : Post Office [08:25:30] --> FoodCourt [13:12:00] --> Pharmarcy [17:59:14] --> 

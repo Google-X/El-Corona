@@ -1,0 +1,17 @@
+HUMAN ID: 07525     GENDER: Male     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : KTM Station [08:27:12] --> 
+[20-06-2020] : KTM Station [06:03:39] --> KTM Station [08:26:05] --> 
+[21-06-2020] : MRT Station [06:02:54] --> KTM Station [08:25:48] --> 
+[22-06-2020] : 
+[23-06-2020] : KTM Station [08:26:27] --> MoonBucks [17:58:02] --> 
+[24-06-2020] : KTM Station [08:25:13] --> Fibre [13:12:46] --> 
+[25-06-2020] : KTM Station [08:24:27] --> 
+[26-06-2020] : KTM Station [08:23:51] --> 
+[27-06-2020] : KTM Station [08:26:46] --> Pharmarcy [17:57:43] --> 
+[28-06-2020] : KTM Station [08:24:48] --> Ali's Nasi Kandar [17:56:06] --> 
+[29-06-2020] : MRT Station [06:03:26] --> KTM Station [08:26:20] --> 
+[30-06-2020] : 
+[01-07-2020] : MRT Station [06:02:17] --> KTM Station [08:25:48] --> Ali's Nasi Kandar [13:15:10] --> 
+[02-07-2020] : KTM Station [06:03:22] --> KTM Station [08:25:17] --> Fibre [17:59:03] --> 

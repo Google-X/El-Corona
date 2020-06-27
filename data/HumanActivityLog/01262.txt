@@ -1,0 +1,17 @@
+HUMAN ID: 01262     GENDER: Female     AGE CATEGORY: Adult     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : MRT Station [07:34:43] --> KTM Station [09:59:11] --> MoonBucks [17:10:02] --> 
+[20-06-2020] : KTM Station [09:57:28] --> Post Office [17:08:18] --> 
+[21-06-2020] : KTM Station [09:56:31] --> 
+[22-06-2020] : KTM Station [09:58:04] --> 
+[23-06-2020] : KTM Station [09:57:10] --> FoodCourt [17:05:24] --> 
+[24-06-2020] : KTM Station [09:55:30] --> 
+[25-06-2020] : KTM Station [09:55:32] --> 
+[26-06-2020] : 
+[27-06-2020] : KTM Station [09:58:54] --> FoodCourt [17:06:26] --> 
+[28-06-2020] : KTM Station [07:32:28] --> KTM Station [09:56:01] --> 
+[29-06-2020] : KTM Station [09:57:19] --> 
+[30-06-2020] : KTM Station [09:57:46] --> JanBank [17:08:03] --> 
+[01-07-2020] : MRT Station [07:33:34] --> KTM Station [09:57:39] --> Police Station [17:11:31] --> 
+[02-07-2020] : KTM Station [07:33:22] --> KTM Station [09:56:14] --> 

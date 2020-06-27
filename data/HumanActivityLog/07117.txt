@@ -1,0 +1,17 @@
+HUMAN ID: 07117     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [08:24:05] --> Post Office [10:48:01] --> FoodCourt [13:11:51] --> 
+[20-06-2020] : 2 Akhir [13:09:38] --> Moonlings [20:20:21] --> 
+[21-06-2020] : Moonlings [13:08:35] --> 
+[22-06-2020] : KTM Station [08:23:22] --> FoodCourt [10:47:02] --> FoodCourt [13:11:00] --> 
+[23-06-2020] : KTM Station [08:22:54] --> MoonBucks [13:09:04] --> 
+[24-06-2020] : KTM Station [08:21:46] --> SlowMart [10:45:11] --> MoonBucks [13:09:02] --> 
+[25-06-2020] : KTM Station [08:20:52] --> FoodCourt [13:07:12] --> 
+[26-06-2020] : KTM Station [08:20:39] --> SlowMart [10:43:19] --> 
+[27-06-2020] : Library [20:17:45] --> 
+[28-06-2020] : Park [20:16:59] --> 
+[29-06-2020] : KTM Station [08:23:00] --> 
+[30-06-2020] : KTM Station [08:22:42] --> FoodCourt [13:10:20] --> 
+[01-07-2020] : KTM Station [08:22:24] --> FoodCourt [10:47:20] --> Ali's Nasi Kandar [13:11:49] --> 
+[02-07-2020] : KTM Station [08:21:48] --> MoonBucks [13:08:31] --> 

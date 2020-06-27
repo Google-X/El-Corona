@@ -1,0 +1,17 @@
+HUMAN ID: 08874     GENDER: Female     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : KTM Station [06:14:39] --> FoodCourt [08:38:58] --> Fibre [13:26:24] --> 
+[20-06-2020] : FoodCourt [08:37:55] --> FoodCourt [13:24:24] --> 
+[21-06-2020] : KTM Station [06:13:37] --> FoodCourt [08:36:29] --> 
+[22-06-2020] : FoodCourt [08:37:51] --> 
+[23-06-2020] : MRT Station [06:14:40] --> Post Office [13:23:35] --> 
+[24-06-2020] : FoodCourt [08:35:57] --> 
+[25-06-2020] : KTM Station [06:13:37] --> FoodCourt [08:35:55] --> MoonBucks [13:21:56] --> 
+[26-06-2020] : FoodCourt [08:34:50] --> 
+[27-06-2020] : KTM Station [06:14:48] --> FoodCourt [08:38:05] --> FoodCourt [13:23:14] --> 
+[28-06-2020] : FoodCourt [08:36:18] --> 
+[29-06-2020] : KTM Station [06:14:42] --> FoodCourt [08:37:39] --> 
+[30-06-2020] : KTM Station [06:14:22] --> FoodCourt [08:37:25] --> 
+[01-07-2020] : FoodCourt [08:37:06] --> 
+[02-07-2020] : KTM Station [06:14:14] --> FoodCourt [08:36:33] --> JanBank [13:23:07] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 04579     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Hospital [08:02:42] --> 
+[20-06-2020] : 2 Akhir [19:59:17] --> 
+[21-06-2020] : 
+[22-06-2020] : MRT Station [05:38:00] --> Hospital [08:01:49] --> FoodCourt [12:49:46] --> 
+[23-06-2020] : KTM Station [05:38:49] --> Hospital [08:01:55] --> FoodCourt [10:25:06] --> Ali's Nasi Kandar [12:47:44] --> 
+[24-06-2020] : Hospital [08:00:32] --> FoodCourt [10:23:21] --> 
+[25-06-2020] : Ali's Nasi Kandar [12:46:05] --> 
+[26-06-2020] : KTM Station [05:36:48] --> JJPTRv2 [10:21:54] --> 
+[27-06-2020] : JJPTRv2 [10:25:55] --> 
+[28-06-2020] : 
+[29-06-2020] : KTM Station [05:38:21] --> Hospital [08:02:29] --> GayaGrocery [10:25:35] --> MoonBucks [12:51:09] --> 
+[30-06-2020] : Hospital [08:01:42] --> SlowMart [10:25:41] --> FoodCourt [12:48:40] --> 
+[01-07-2020] : MRT Station [05:37:58] --> Hospital [08:00:49] --> 
+[02-07-2020] : Hospital [08:00:05] --> Post Office [10:23:56] --> MoonBucks [12:47:18] --> 

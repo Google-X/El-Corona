@@ -1,0 +1,17 @@
+HUMAN ID: 04226     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [05:35:47] --> JJPTRv2 [10:24:13] --> Ali's Nasi Kandar [12:48:09] --> 
+[20-06-2020] : Moonlings [19:56:13] --> 
+[21-06-2020] : 
+[22-06-2020] : FoodCourt [12:46:49] --> 
+[23-06-2020] : MRT Station [05:35:49] --> Pharmarcy [10:22:14] --> FoodCourt [12:44:58] --> 
+[24-06-2020] : KTM Station [05:35:15] --> 
+[25-06-2020] : KTM Station [05:34:44] --> 
+[26-06-2020] : KTM Station [05:33:47] --> Ali's Nasi Kandar [12:42:09] --> Park [19:52:03] --> 
+[27-06-2020] : Fibre [10:23:05] --> 
+[28-06-2020] : Moonlings [19:52:33] --> 
+[29-06-2020] : KTM Station [05:35:22] --> Ali's Nasi Kandar [10:22:44] --> FoodCourt [12:48:22] --> 
+[30-06-2020] : KTM Station [05:35:14] --> 
+[01-07-2020] : MRT Station [05:34:50] --> FoodCourt [12:46:55] --> 
+[02-07-2020] : Ali's Nasi Kandar [12:44:26] --> 

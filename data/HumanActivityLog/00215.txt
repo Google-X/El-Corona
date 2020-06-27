@@ -1,0 +1,17 @@
+HUMAN ID: 00215     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [09:50:22] --> 
+[20-06-2020] : Police Station [09:48:52] --> 
+[21-06-2020] : Police Station [09:47:39] --> 
+[22-06-2020] : Police Station [09:49:08] --> 
+[23-06-2020] : Police Station [09:48:34] --> 
+[24-06-2020] : Police Station [09:46:36] --> 
+[25-06-2020] : Police Station [09:47:18] --> 
+[26-06-2020] : Police Station [09:46:04] --> 
+[27-06-2020] : Police Station [09:49:50] --> 
+[28-06-2020] : Police Station [09:47:28] --> 
+[29-06-2020] : Police Station [09:48:25] --> 
+[30-06-2020] : Police Station [09:48:58] --> 
+[01-07-2020] : Police Station [09:48:37] --> 
+[02-07-2020] : Police Station [09:47:21] --> 

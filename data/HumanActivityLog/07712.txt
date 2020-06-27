@@ -1,0 +1,17 @@
+HUMAN ID: 07712     GENDER: Female     AGE CATEGORY: Adult     ROLE: Teacher
+========================================================================================
+
+[19-06-2020] : Kindergarden [06:05:03] --> Fibre [10:53:19] --> 
+[20-06-2020] : 2 Akhir [18:02:05] --> 
+[21-06-2020] : RHP [10:50:16] --> Library [18:00:35] --> 
+[22-06-2020] : Kindergarden [06:03:44] --> Ali's Nasi Kandar [10:52:04] --> 
+[23-06-2020] : Kindergarden [06:04:54] --> Fibre [17:59:41] --> 
+[24-06-2020] : Kindergarden [06:04:23] --> MoonBucks [10:50:11] --> 
+[25-06-2020] : Kindergarden [06:03:58] --> GayaGrocery [17:59:22] --> 
+[26-06-2020] : Kindergarden [06:03:40] --> JanBank [10:48:22] --> 
+[27-06-2020] : 
+[28-06-2020] : Fibre [10:49:06] --> 
+[29-06-2020] : Kindergarden [06:04:51] --> MoonBucks [10:52:25] --> 
+[30-06-2020] : Kindergarden [06:04:15] --> JanBank [10:51:39] --> 
+[01-07-2020] : Kindergarden [06:03:46] --> FoodCourt [10:52:31] --> 
+[02-07-2020] : Kindergarden [06:04:44] --> 

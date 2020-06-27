@@ -1,0 +1,17 @@
+HUMAN ID: 06404     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [05:54:03] --> Petrocad [08:18:06] --> Ali's Nasi Kandar [13:05:58] --> 
+[20-06-2020] : Ali's Nasi Kandar [10:40:28] --> 2 Akhir [20:14:12] --> 
+[21-06-2020] : 2 Akhir [20:11:57] --> 
+[22-06-2020] : Petrocad [08:17:02] --> 
+[23-06-2020] : Petrocad [08:17:08] --> JJPTRv2 [10:39:42] --> 
+[24-06-2020] : Petrocad [08:15:44] --> GayaGrocery [10:39:23] --> 
+[25-06-2020] : KTM Station [05:52:57] --> Petrocad [08:14:54] --> Fibre [10:37:46] --> Ali's Nasi Kandar [13:01:29] --> 
+[26-06-2020] : KTM Station [05:52:28] --> Petrocad [08:14:57] --> 
+[27-06-2020] : Museum [13:02:36] --> 
+[28-06-2020] : 2 Akhir [20:10:52] --> 
+[29-06-2020] : MRT Station [05:53:59] --> Petrocad [08:17:03] --> RHP [10:41:12] --> Ali's Nasi Kandar [13:05:53] --> 
+[30-06-2020] : MRT Station [05:53:16] --> Petrocad [08:16:43] --> FoodCourt [13:04:40] --> 
+[01-07-2020] : KTM Station [05:52:53] --> Petrocad [08:16:44] --> FoodCourt [13:05:17] --> 
+[02-07-2020] : Petrocad [08:15:40] --> Ali's Nasi Kandar [13:02:34] --> 

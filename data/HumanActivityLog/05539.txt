@@ -1,0 +1,17 @@
+HUMAN ID: 05539     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Engineer
+========================================================================================
+
+[19-06-2020] : Petrocad [08:10:49] --> FoodCourt [12:58:57] --> 
+[20-06-2020] : 
+[21-06-2020] : 
+[22-06-2020] : Petrocad [08:10:00] --> Ali's Nasi Kandar [12:57:29] --> 
+[23-06-2020] : Petrocad [08:09:58] --> RHP [10:32:56] --> Ali's Nasi Kandar [12:55:33] --> 
+[24-06-2020] : MRT Station [05:46:14] --> Petrocad [08:08:31] --> JanBank [10:31:47] --> Ali's Nasi Kandar [12:55:32] --> 
+[25-06-2020] : Petrocad [08:07:36] --> 
+[26-06-2020] : MRT Station [05:44:46] --> Petrocad [08:08:06] --> 
+[27-06-2020] : JanBank [10:33:54] --> 
+[28-06-2020] : IKEY [20:03:43] --> 
+[29-06-2020] : MRT Station [05:46:34] --> Petrocad [08:10:29] --> Ali's Nasi Kandar [10:33:54] --> MoonBucks [12:58:58] --> 
+[30-06-2020] : KTM Station [05:45:59] --> Petrocad [08:09:55] --> SlowMart [10:33:41] --> MoonBucks [12:56:47] --> 
+[01-07-2020] : Petrocad [08:09:16] --> MoonBucks [12:58:16] --> 
+[02-07-2020] : Petrocad [08:08:41] --> Fibre [10:31:51] --> Ali's Nasi Kandar [12:55:19] --> 

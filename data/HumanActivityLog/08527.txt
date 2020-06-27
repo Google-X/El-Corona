@@ -1,0 +1,17 @@
+HUMAN ID: 08527     GENDER: Male     AGE CATEGORY: Adult     ROLE: Teacher
+========================================================================================
+
+[19-06-2020] : Kindergarden [06:11:45] --> Post Office [10:59:59] --> 
+[20-06-2020] : SlowMart [10:58:12] --> 
+[21-06-2020] : Library [18:07:12] --> 
+[22-06-2020] : Kindergarden [06:10:36] --> Post Office [10:58:46] --> 
+[23-06-2020] : Kindergarden [06:11:40] --> Police Station [10:57:20] --> 
+[24-06-2020] : Kindergarden [06:10:47] --> Post Office [10:56:51] --> 
+[25-06-2020] : Kindergarden [06:10:39] --> 
+[26-06-2020] : Kindergarden [06:10:25] --> 
+[27-06-2020] : 
+[28-06-2020] : IKEY [18:04:30] --> 
+[29-06-2020] : Kindergarden [06:11:40] --> 
+[30-06-2020] : Kindergarden [06:11:27] --> Post Office [10:58:24] --> 
+[01-07-2020] : Kindergarden [06:10:43] --> FoodCourt [10:59:25] --> 
+[02-07-2020] : Kindergarden [06:11:28] --> 

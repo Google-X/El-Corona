@@ -1,0 +1,17 @@
+HUMAN ID: 08448     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : JanBank [08:35:30] --> FoodCourt [10:59:22] --> Ali's Nasi Kandar [13:22:41] --> 
+[20-06-2020] : SlowMart [18:07:57] --> 2 Akhir [20:31:28] --> 
+[21-06-2020] : Library [20:29:41] --> 
+[22-06-2020] : JanBank [08:34:31] --> Ali's Nasi Kandar [13:22:19] --> Post Office [18:08:36] --> 
+[23-06-2020] : KTM Station [06:11:04] --> JanBank [08:33:53] --> FoodCourt [10:56:42] --> 
+[24-06-2020] : KTM Station [06:10:09] --> JanBank [08:32:46] --> GayaGrocery [10:56:12] --> FoodCourt [13:20:28] --> 
+[25-06-2020] : JanBank [08:32:31] --> Ali's Nasi Kandar [10:55:07] --> Fibre [18:05:33] --> 
+[26-06-2020] : KTM Station [06:09:46] --> JanBank [08:31:29] --> FoodCourt [13:16:17] --> 
+[27-06-2020] : IKEY [20:28:49] --> 
+[28-06-2020] : 
+[29-06-2020] : JanBank [08:34:06] --> MoonBucks [10:58:36] --> 
+[30-06-2020] : KTM Station [06:10:49] --> JanBank [08:33:39] --> GayaGrocery [10:57:38] --> 
+[01-07-2020] : JanBank [08:33:23] --> GayaGrocery [18:11:11] --> 
+[02-07-2020] : MRT Station [06:10:50] --> JanBank [08:33:06] --> SlowMart [18:06:38] --> 

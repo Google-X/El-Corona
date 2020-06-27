@@ -1,0 +1,17 @@
+HUMAN ID: 07406     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [08:26:18] --> MoonBucks [13:14:10] --> RHP [18:01:31] --> 
+[20-06-2020] : 2 Akhir [13:12:12] --> 
+[21-06-2020] : IKEY [13:10:59] --> Museum [20:20:44] --> 
+[22-06-2020] : MRT Station [08:25:43] --> 
+[23-06-2020] : MRT Station [08:25:22] --> Ali's Nasi Kandar [13:11:30] --> 
+[24-06-2020] : MRT Station [08:24:04] --> MoonBucks [13:11:42] --> 
+[25-06-2020] : MRT Station [08:23:16] --> GayaGrocery [10:46:08] --> MoonBucks [13:09:53] --> 
+[26-06-2020] : MRT Station [08:22:56] --> 
+[27-06-2020] : Library [20:20:13] --> 
+[28-06-2020] : Post Office [10:46:49] --> Park [20:19:26] --> 
+[29-06-2020] : MRT Station [08:25:25] --> FoodCourt [13:14:37] --> JJPTRv2 [18:00:37] --> 
+[30-06-2020] : MRT Station [08:25:20] --> Ali's Nasi Kandar [13:12:44] --> 
+[01-07-2020] : MRT Station [08:24:50] --> 
+[02-07-2020] : MRT Station [08:24:10] --> Ali's Nasi Kandar [10:46:48] --> MoonBucks [13:10:44] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 02645     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [12:35:15] --> 
+[20-06-2020] : 
+[21-06-2020] : 2 Akhir [19:41:22] --> 
+[22-06-2020] : MRT Station [05:21:59] --> GayaGrocery [10:09:24] --> Ali's Nasi Kandar [12:33:51] --> 
+[23-06-2020] : MRT Station [05:21:56] --> GayaGrocery [10:09:02] --> Ali's Nasi Kandar [12:31:57] --> 
+[24-06-2020] : MRT Station [05:22:35] --> RHP [10:07:25] --> MoonBucks [12:31:28] --> 
+[25-06-2020] : FoodCourt [12:29:58] --> 
+[26-06-2020] : MRT Station [05:21:13] --> GayaGrocery [10:05:49] --> FoodCourt [12:29:21] --> Moonlings [19:38:33] --> 
+[27-06-2020] : 
+[28-06-2020] : Post Office [10:07:21] --> 
+[29-06-2020] : KTM Station [05:21:46] --> 
+[30-06-2020] : Ali's Nasi Kandar [10:09:39] --> MoonBucks [12:32:43] --> 
+[01-07-2020] : KTM Station [05:21:39] --> GayaGrocery [10:09:25] --> MoonBucks [12:33:52] --> 
+[02-07-2020] : Pharmarcy [10:07:31] --> 

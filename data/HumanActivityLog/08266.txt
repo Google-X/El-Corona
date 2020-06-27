@@ -1,0 +1,17 @@
+HUMAN ID: 08266     GENDER: Female     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : MoonBucks [08:33:53] --> 
+[20-06-2020] : MoonBucks [08:32:42] --> 
+[21-06-2020] : MoonBucks [08:31:40] --> SlowMart [13:18:03] --> 
+[22-06-2020] : MoonBucks [08:32:57] --> 
+[23-06-2020] : KTM Station [06:09:34] --> MoonBucks [08:32:30] --> Post Office [13:18:43] --> 
+[24-06-2020] : MRT Station [06:08:39] --> MoonBucks [08:31:19] --> MoonBucks [13:18:59] --> 
+[25-06-2020] : KTM Station [06:08:32] --> MoonBucks [08:30:57] --> Ali's Nasi Kandar [13:16:45] --> 
+[26-06-2020] : MRT Station [06:08:06] --> MoonBucks [08:30:03] --> FoodCourt [13:14:42] --> 
+[27-06-2020] : MoonBucks [08:33:17] --> 
+[28-06-2020] : KTM Station [06:07:25] --> 
+[29-06-2020] : MoonBucks [08:32:30] --> 
+[30-06-2020] : MoonBucks [08:32:22] --> MoonBucks [13:19:43] --> 
+[01-07-2020] : MRT Station [06:08:32] --> MoonBucks [08:31:51] --> 
+[02-07-2020] : MRT Station [06:09:17] --> MoonBucks [08:31:26] --> 

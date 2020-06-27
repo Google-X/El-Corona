@@ -1,0 +1,17 @@
+HUMAN ID: 05832     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:13:21] --> 
+[20-06-2020] : Police Station [08:12:39] --> 
+[21-06-2020] : Police Station [08:11:45] --> 
+[22-06-2020] : Police Station [08:12:26] --> RHP [13:00:02] --> 
+[23-06-2020] : Police Station [08:12:18] --> 
+[24-06-2020] : Police Station [08:11:07] --> 
+[25-06-2020] : 
+[26-06-2020] : Police Station [08:10:26] --> 
+[27-06-2020] : Police Station [08:12:46] --> JJPTRv2 [17:43:53] --> 
+[28-06-2020] : Police Station [08:10:31] --> GayaGrocery [17:42:20] --> 
+[29-06-2020] : Police Station [08:12:40] --> Fibre [13:01:03] --> 
+[30-06-2020] : Police Station [08:12:09] --> 
+[01-07-2020] : Police Station [08:12:03] --> 
+[02-07-2020] : Police Station [08:11:09] --> 

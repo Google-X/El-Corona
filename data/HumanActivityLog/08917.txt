@@ -1,0 +1,17 @@
+HUMAN ID: 08917     GENDER: Female     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [08:39:27] --> Ali's Nasi Kandar [13:26:43] --> 
+[20-06-2020] : Ali's Nasi Kandar [08:38:19] --> 
+[21-06-2020] : KTM Station [06:14:03] --> Ali's Nasi Kandar [08:36:49] --> 
+[22-06-2020] : Ali's Nasi Kandar [08:38:07] --> RHP [13:26:37] --> 
+[23-06-2020] : Ali's Nasi Kandar [08:37:46] --> Ali's Nasi Kandar [13:23:56] --> 
+[24-06-2020] : KTM Station [06:13:41] --> 
+[25-06-2020] : Ali's Nasi Kandar [08:36:12] --> 
+[26-06-2020] : Ali's Nasi Kandar [08:35:11] --> SlowMart [13:20:22] --> 
+[27-06-2020] : MRT Station [06:15:04] --> Ali's Nasi Kandar [08:38:22] --> Pharmarcy [13:23:37] --> 
+[28-06-2020] : Ali's Nasi Kandar [08:36:45] --> FoodCourt [13:22:25] --> 
+[29-06-2020] : MRT Station [06:15:12] --> Ali's Nasi Kandar [08:38:02] --> 
+[30-06-2020] : Ali's Nasi Kandar [08:37:50] --> Pharmarcy [13:25:24] --> 
+[01-07-2020] : Ali's Nasi Kandar [08:37:21] --> 
+[02-07-2020] : MRT Station [06:14:36] --> Ali's Nasi Kandar [08:36:53] --> 

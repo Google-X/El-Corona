@@ -1,0 +1,17 @@
+HUMAN ID: 07366     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [06:02:14] --> Orange [08:26:04] --> SlowMart [10:50:20] --> FoodCourt [13:13:51] --> 
+[20-06-2020] : Moonlings [20:22:23] --> 
+[21-06-2020] : Fibre [10:47:24] --> 
+[22-06-2020] : KTM Station [06:01:16] --> Orange [08:25:20] --> SlowMart [10:49:04] --> FoodCourt [13:13:09] --> 
+[23-06-2020] : MRT Station [06:01:54] --> Orange [08:25:02] --> JanBank [10:47:42] --> FoodCourt [13:11:08] --> 
+[24-06-2020] : KTM Station [06:01:22] --> Orange [08:23:47] --> Ali's Nasi Kandar [13:11:19] --> 
+[25-06-2020] : Orange [08:23:02] --> FoodCourt [13:09:32] --> 
+[26-06-2020] : KTM Station [06:00:44] --> Orange [08:22:37] --> Ali's Nasi Kandar [13:07:11] --> 
+[27-06-2020] : 2 Akhir [20:19:53] --> 
+[28-06-2020] : Park [13:09:13] --> IKEY [20:19:07] --> 
+[29-06-2020] : MRT Station [06:02:03] --> Orange [08:25:05] --> Police Station [10:49:32] --> SlowMart [18:00:09] --> 
+[30-06-2020] : Orange [08:24:51] --> SlowMart [10:48:56] --> Ali's Nasi Kandar [13:12:22] --> 
+[01-07-2020] : KTM Station [06:01:00] --> Orange [08:24:28] --> FoodCourt [13:13:48] --> 
+[02-07-2020] : Orange [08:23:49] --> 

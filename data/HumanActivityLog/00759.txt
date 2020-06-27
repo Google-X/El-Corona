@@ -1,0 +1,17 @@
+HUMAN ID: 00759     GENDER: Female     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : MRT Station [07:30:35] --> GayaGrocery [09:54:58] --> 
+[20-06-2020] : MRT Station [07:30:20] --> GayaGrocery [09:53:27] --> Pharmarcy [17:03:49] --> 
+[21-06-2020] : GayaGrocery [09:52:17] --> GayaGrocery [17:02:42] --> 
+[22-06-2020] : GayaGrocery [09:53:39] --> 
+[23-06-2020] : GayaGrocery [09:52:54] --> 
+[24-06-2020] : GayaGrocery [09:51:17] --> Post Office [17:03:49] --> 
+[25-06-2020] : GayaGrocery [09:51:25] --> 
+[26-06-2020] : GayaGrocery [09:50:25] --> 
+[27-06-2020] : GayaGrocery [09:54:29] --> 
+[28-06-2020] : GayaGrocery [09:52:08] --> 
+[29-06-2020] : GayaGrocery [09:52:59] --> 
+[30-06-2020] : KTM Station [07:30:41] --> GayaGrocery [09:53:51] --> 
+[01-07-2020] : GayaGrocery [09:52:56] --> 
+[02-07-2020] : GayaGrocery [09:51:48] --> 

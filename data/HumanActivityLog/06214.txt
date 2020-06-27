@@ -1,0 +1,17 @@
+HUMAN ID: 06214     GENDER: Male     AGE CATEGORY: Adult     ROLE: Engineer
+========================================================================================
+
+[19-06-2020] : MRT Station [08:16:32] --> FoodCourt [13:04:17] --> 
+[20-06-2020] : 
+[21-06-2020] : 2 Akhir [13:01:03] --> 2 Akhir [20:10:20] --> 
+[22-06-2020] : MRT Station [08:15:16] --> MoonBucks [13:03:13] --> 
+[23-06-2020] : MRT Station [08:15:33] --> SlowMart [10:38:10] --> 
+[24-06-2020] : MRT Station [08:14:04] --> Post Office [10:37:37] --> FoodCourt [13:01:29] --> 
+[25-06-2020] : MRT Station [08:13:07] --> MoonBucks [10:35:57] --> Ali's Nasi Kandar [12:59:56] --> 
+[26-06-2020] : MRT Station [08:13:31] --> SlowMart [10:35:23] --> Ali's Nasi Kandar [12:58:13] --> 
+[27-06-2020] : Library [20:10:18] --> 
+[28-06-2020] : 
+[29-06-2020] : MRT Station [08:15:41] --> MoonBucks [13:04:20] --> 
+[30-06-2020] : MRT Station [08:15:12] --> MoonBucks [10:39:06] --> MoonBucks [13:02:57] --> 
+[01-07-2020] : MRT Station [08:15:12] --> JJPTRv2 [10:39:07] --> 
+[02-07-2020] : MRT Station [08:14:19] --> Ali's Nasi Kandar [13:01:08] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 01409     GENDER: Male     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : KTM Station [07:35:48] --> SlowMart [17:11:22] --> 
+[20-06-2020] : MRT Station [07:35:52] --> FoodCourt [09:58:46] --> 
+[21-06-2020] : MRT Station [07:35:33] --> FoodCourt [09:57:49] --> 
+[22-06-2020] : KTM Station [07:34:58] --> FoodCourt [09:59:15] --> 
+[23-06-2020] : MRT Station [07:35:17] --> FoodCourt [09:58:21] --> Ali's Nasi Kandar [17:06:36] --> 
+[24-06-2020] : MRT Station [07:34:44] --> FoodCourt [09:56:47] --> 
+[25-06-2020] : MRT Station [07:34:31] --> 
+[26-06-2020] : MRT Station [07:33:57] --> 
+[27-06-2020] : 
+[28-06-2020] : MRT Station [07:33:35] --> FoodCourt [09:57:10] --> RHP [17:05:38] --> 
+[29-06-2020] : MRT Station [07:36:00] --> 
+[30-06-2020] : KTM Station [07:35:53] --> FoodCourt [09:59:00] --> 
+[01-07-2020] : MRT Station [07:34:49] --> FoodCourt [09:58:46] --> 
+[02-07-2020] : FoodCourt [09:57:19] --> 

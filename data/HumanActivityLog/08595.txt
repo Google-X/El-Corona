@@ -1,0 +1,17 @@
+HUMAN ID: 08595     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : KTM Station [06:12:24] --> JanBank [08:36:42] --> SlowMart [18:11:03] --> 
+[20-06-2020] : 
+[21-06-2020] : 
+[22-06-2020] : MRT Station [06:11:10] --> JanBank [08:35:36] --> Ali's Nasi Kandar [13:23:52] --> 
+[23-06-2020] : JanBank [08:35:12] --> FoodCourt [10:57:58] --> 
+[24-06-2020] : JanBank [08:33:51] --> MoonBucks [13:21:42] --> 
+[25-06-2020] : JanBank [08:33:51] --> Post Office [10:56:18] --> SlowMart [18:06:49] --> 
+[26-06-2020] : MRT Station [06:10:53] --> JanBank [08:32:43] --> RHP [10:55:34] --> Ali's Nasi Kandar [13:17:44] --> JanBank [18:05:23] --> 
+[27-06-2020] : Police Station [10:59:16] --> 
+[28-06-2020] : Moonlings [13:19:29] --> 
+[29-06-2020] : KTM Station [06:12:20] --> JanBank [08:35:16] --> RHP [10:59:57] --> MoonBucks [13:24:24] --> 
+[30-06-2020] : MRT Station [06:11:56] --> JanBank [08:34:53] --> Fibre [10:59:04] --> Ali's Nasi Kandar [13:22:27] --> SlowMart [18:09:43] --> 
+[01-07-2020] : MRT Station [06:11:17] --> JanBank [08:34:44] --> Police Station [18:12:40] --> 
+[02-07-2020] : MRT Station [06:11:58] --> JanBank [08:34:26] --> Fibre [10:57:02] --> Ali's Nasi Kandar [13:20:36] --> GayaGrocery [18:07:52] --> 

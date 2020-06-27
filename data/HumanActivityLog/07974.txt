@@ -1,0 +1,17 @@
+HUMAN ID: 07974     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [06:07:09] --> Museum [08:31:13] --> Ali's Nasi Kandar [10:55:36] --> Ali's Nasi Kandar [13:18:49] --> 
+[20-06-2020] : GayaGrocery [10:53:20] --> Moonlings [13:17:00] --> Library [20:27:38] --> 
+[21-06-2020] : Moonlings [20:25:46] --> 
+[22-06-2020] : KTM Station [06:05:50] --> Museum [08:30:29] --> FoodCourt [13:18:33] --> 
+[23-06-2020] : MRT Station [06:07:06] --> Museum [08:30:11] --> GayaGrocery [10:52:41] --> Ali's Nasi Kandar [13:16:07] --> JJPTRv2 [18:01:46] --> 
+[24-06-2020] : KTM Station [06:06:21] --> Museum [08:29:00] --> 
+[25-06-2020] : Museum [08:28:09] --> 
+[26-06-2020] : MRT Station [06:05:45] --> Museum [08:27:41] --> FoodCourt [13:12:15] --> Police Station [18:00:02] --> IKEY [20:24:11] --> 
+[27-06-2020] : RHP [18:01:28] --> Park [20:24:59] --> 
+[28-06-2020] : IKEY [13:14:15] --> Moonlings [20:24:24] --> 
+[29-06-2020] : Museum [08:30:14] --> Ali's Nasi Kandar [13:19:16] --> 
+[30-06-2020] : Museum [08:30:07] --> FoodCourt [13:17:24] --> 
+[01-07-2020] : KTM Station [06:05:53] --> Museum [08:29:28] --> Ali's Nasi Kandar [13:19:16] --> 
+[02-07-2020] : KTM Station [06:06:42] --> Museum [08:29:00] --> 

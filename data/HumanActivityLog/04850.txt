@@ -1,0 +1,17 @@
+HUMAN ID: 04850     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [05:41:02] --> Airport [08:05:00] --> Post Office [10:29:15] --> Library [20:02:06] --> 
+[20-06-2020] : Library [12:50:21] --> 
+[21-06-2020] : IKEY [19:59:28] --> 
+[22-06-2020] : Airport [08:04:06] --> 
+[23-06-2020] : KTM Station [05:41:05] --> Airport [08:04:05] --> FoodCourt [12:50:06] --> 
+[24-06-2020] : KTM Station [05:40:30] --> Airport [08:02:38] --> 
+[25-06-2020] : MRT Station [05:40:19] --> Airport [08:02:03] --> MoonBucks [10:24:13] --> FoodCourt [12:48:24] --> 
+[26-06-2020] : Airport [08:02:12] --> Police Station [10:24:06] --> IKEY [19:57:15] --> 
+[27-06-2020] : JanBank [10:28:17] --> 
+[28-06-2020] : Library [12:48:16] --> Park [19:57:43] --> 
+[29-06-2020] : MRT Station [05:40:32] --> Airport [08:04:47] --> Police Station [10:27:55] --> Ali's Nasi Kandar [12:53:18] --> 
+[30-06-2020] : Airport [08:04:12] --> 
+[01-07-2020] : KTM Station [05:40:08] --> Airport [08:03:16] --> SlowMart [10:27:35] --> 
+[02-07-2020] : MRT Station [05:40:22] --> Airport [08:02:40] --> Ali's Nasi Kandar [12:49:31] --> 

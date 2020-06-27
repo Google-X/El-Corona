@@ -1,0 +1,17 @@
+HUMAN ID: 07773     GENDER: Female     AGE CATEGORY: Adult     ROLE: Waiter
+========================================================================================
+
+[19-06-2020] : MRT Station [06:05:32] --> FoodCourt [08:29:25] --> 
+[20-06-2020] : MRT Station [06:05:54] --> 
+[21-06-2020] : FoodCourt [08:27:43] --> 
+[22-06-2020] : FoodCourt [08:28:39] --> GayaGrocery [13:16:43] --> 
+[23-06-2020] : FoodCourt [08:28:27] --> Fibre [13:14:29] --> 
+[24-06-2020] : FoodCourt [08:27:05] --> Pharmarcy [13:15:02] --> 
+[25-06-2020] : KTM Station [06:04:26] --> FoodCourt [08:26:33] --> JanBank [13:12:51] --> 
+[26-06-2020] : MRT Station [06:04:11] --> FoodCourt [08:26:06] --> JanBank [13:10:28] --> Post Office [17:58:37] --> 
+[27-06-2020] : MRT Station [06:05:24] --> FoodCourt [08:28:53] --> Fibre [13:14:01] --> 
+[28-06-2020] : KTM Station [06:03:20] --> FoodCourt [08:27:06] --> RHP [13:12:41] --> 
+[29-06-2020] : FoodCourt [08:28:29] --> MoonBucks [13:17:48] --> 
+[30-06-2020] : MRT Station [06:04:45] --> FoodCourt [08:28:20] --> 
+[01-07-2020] : MRT Station [06:04:17] --> FoodCourt [08:27:54] --> 
+[02-07-2020] : FoodCourt [08:27:18] --> 

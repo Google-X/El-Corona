@@ -1,0 +1,17 @@
+HUMAN ID: 06341     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Engineer
+========================================================================================
+
+[19-06-2020] : Petrocad [08:17:31] --> MoonBucks [13:05:25] --> Museum [20:14:28] --> 
+[20-06-2020] : Park [13:02:56] --> 
+[21-06-2020] : IKEY [13:02:02] --> 
+[22-06-2020] : KTM Station [05:52:29] --> Petrocad [08:16:31] --> JJPTRv2 [10:40:02] --> MoonBucks [13:04:21] --> 
+[23-06-2020] : Petrocad [08:16:37] --> 
+[24-06-2020] : Petrocad [08:15:07] --> MoonBucks [13:02:34] --> 
+[25-06-2020] : Petrocad [08:14:21] --> Ali's Nasi Kandar [10:37:13] --> FoodCourt [13:00:55] --> 
+[26-06-2020] : KTM Station [05:51:52] --> Petrocad [08:14:26] --> 
+[27-06-2020] : Library [13:02:02] --> Library [20:11:16] --> 
+[28-06-2020] : 2 Akhir [20:10:23] --> 
+[29-06-2020] : MRT Station [05:53:29] --> Petrocad [08:16:42] --> Police Station [10:40:45] --> MoonBucks [13:05:29] --> 
+[30-06-2020] : Petrocad [08:16:11] --> MoonBucks [10:40:18] --> FoodCourt [13:04:05] --> 
+[01-07-2020] : Petrocad [08:16:11] --> MoonBucks [13:04:46] --> 
+[02-07-2020] : Petrocad [08:15:10] --> FoodCourt [13:02:06] --> 

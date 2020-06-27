@@ -1,0 +1,17 @@
+HUMAN ID: 08500     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : KTM Station [06:11:27] --> Kindergarden [08:35:51] --> 
+[20-06-2020] : IKEY [20:31:52] --> 
+[21-06-2020] : Museum [20:30:08] --> 
+[22-06-2020] : Kindergarden [08:34:58] --> 
+[23-06-2020] : Kindergarden [08:34:17] --> Post Office [10:57:06] --> 
+[24-06-2020] : Kindergarden [08:33:06] --> 
+[25-06-2020] : Kindergarden [08:32:57] --> SlowMart [10:55:31] --> Ali's Nasi Kandar [13:18:42] --> SlowMart [18:06:00] --> 
+[26-06-2020] : MRT Station [06:10:14] --> Kindergarden [08:31:57] --> RHP [18:04:35] --> Moonlings [20:28:13] --> 
+[27-06-2020] : 2 Akhir [13:20:17] --> Museum [20:29:16] --> 
+[28-06-2020] : RHP [18:04:17] --> Museum [20:28:59] --> 
+[29-06-2020] : KTM Station [06:11:29] --> Kindergarden [08:34:36] --> JanBank [10:59:02] --> MoonBucks [13:23:29] --> 
+[30-06-2020] : KTM Station [06:11:18] --> Kindergarden [08:34:06] --> SlowMart [10:58:05] --> FoodCourt [13:21:39] --> 
+[01-07-2020] : KTM Station [06:10:35] --> Kindergarden [08:33:49] --> 
+[02-07-2020] : KTM Station [06:11:14] --> Kindergarden [08:33:32] --> MoonBucks [13:19:51] --> 

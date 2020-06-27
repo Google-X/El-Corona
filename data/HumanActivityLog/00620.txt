@@ -1,0 +1,17 @@
+HUMAN ID: 00620     GENDER: Female     AGE CATEGORY: Adult     ROLE: Baker
+========================================================================================
+
+[19-06-2020] : KTM Station [07:29:27] --> MoonBucks [09:53:52] --> 
+[20-06-2020] : MoonBucks [09:52:25] --> 
+[21-06-2020] : KTM Station [07:28:42] --> MoonBucks [09:51:00] --> 
+[22-06-2020] : KTM Station [07:28:48] --> MoonBucks [09:52:27] --> SlowMart [17:03:32] --> 
+[23-06-2020] : MRT Station [07:28:58] --> MoonBucks [09:51:48] --> 
+[24-06-2020] : MoonBucks [09:50:03] --> JJPTRv2 [17:02:44] --> 
+[25-06-2020] : MRT Station [07:27:55] --> MoonBucks [09:50:25] --> 
+[26-06-2020] : MoonBucks [09:49:11] --> 
+[27-06-2020] : KTM Station [07:29:29] --> MoonBucks [09:53:13] --> 
+[28-06-2020] : MRT Station [07:27:10] --> MoonBucks [09:50:45] --> 
+[29-06-2020] : MoonBucks [09:51:47] --> 
+[30-06-2020] : Post Office [17:02:32] --> 
+[01-07-2020] : MRT Station [07:28:17] --> MoonBucks [17:06:17] --> 
+[02-07-2020] : MRT Station [07:28:11] --> MoonBucks [09:50:39] --> Pharmarcy [17:01:35] --> 

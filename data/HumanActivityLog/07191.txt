@@ -1,0 +1,17 @@
+HUMAN ID: 07191     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : KTM Station [06:00:39] --> Kindergarden [08:24:43] --> 
+[20-06-2020] : IKEY [20:21:03] --> 
+[21-06-2020] : Park [13:09:15] --> 
+[22-06-2020] : Kindergarden [08:23:57] --> Ali's Nasi Kandar [13:11:42] --> 
+[23-06-2020] : Kindergarden [08:23:32] --> JanBank [10:46:06] --> 
+[24-06-2020] : KTM Station [05:59:54] --> Kindergarden [08:22:26] --> Ali's Nasi Kandar [13:09:41] --> 
+[25-06-2020] : KTM Station [05:59:31] --> Kindergarden [08:21:33] --> Pharmarcy [10:44:23] --> 
+[26-06-2020] : Kindergarden [08:21:15] --> Pharmarcy [10:44:03] --> FoodCourt [13:05:48] --> 
+[27-06-2020] : Library [20:18:26] --> 
+[28-06-2020] : Library [13:07:49] --> Park [20:17:42] --> 
+[29-06-2020] : MRT Station [06:00:42] --> Kindergarden [08:23:39] --> 
+[30-06-2020] : Kindergarden [08:23:26] --> 
+[01-07-2020] : Kindergarden [08:23:02] --> MoonBucks [10:47:57] --> Ali's Nasi Kandar [13:12:26] --> 
+[02-07-2020] : KTM Station [06:00:37] --> Kindergarden [08:22:27] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 06169     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : Airport [08:16:05] --> Ali's Nasi Kandar [10:40:07] --> Ali's Nasi Kandar [13:03:55] --> Park [20:12:50] --> 
+[20-06-2020] : JanBank [10:38:29] --> 
+[21-06-2020] : Library [13:00:43] --> 2 Akhir [20:10:00] --> 
+[22-06-2020] : Airport [08:14:55] --> FoodCourt [13:02:54] --> 
+[23-06-2020] : Airport [08:15:06] --> Fibre [10:37:48] --> Ali's Nasi Kandar [13:01:08] --> 
+[24-06-2020] : MRT Station [05:51:38] --> Airport [08:13:46] --> Ali's Nasi Kandar [13:01:07] --> 
+[25-06-2020] : Airport [08:12:43] --> MoonBucks [12:59:33] --> 
+[26-06-2020] : KTM Station [05:50:27] --> Airport [08:13:08] --> Ali's Nasi Kandar [12:57:54] --> 2 Akhir [20:08:35] --> 
+[27-06-2020] : Moonlings [20:09:56] --> 
+[28-06-2020] : Library [20:08:54] --> 
+[29-06-2020] : Airport [08:15:19] --> FoodCourt [13:03:54] --> 
+[30-06-2020] : Airport [08:14:55] --> FoodCourt [13:02:35] --> 
+[01-07-2020] : KTM Station [05:50:59] --> Airport [08:14:50] --> Ali's Nasi Kandar [13:03:21] --> 
+[02-07-2020] : Airport [08:13:57] --> 

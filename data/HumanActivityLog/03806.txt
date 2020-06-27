@@ -1,0 +1,17 @@
+HUMAN ID: 03806     GENDER: Female     AGE CATEGORY: Adult     ROLE: Teacher
+========================================================================================
+
+[19-06-2020] : Kindergarden [07:56:01] --> GayaGrocery [10:20:41] --> Ali's Nasi Kandar [17:31:33] --> 
+[20-06-2020] : Post Office [10:18:07] --> Park [19:52:32] --> 
+[21-06-2020] : Museum [19:51:04] --> 
+[22-06-2020] : Kindergarden [07:55:30] --> RHP [17:30:21] --> 
+[23-06-2020] : Kindergarden [07:55:16] --> 
+[24-06-2020] : Kindergarden [07:54:04] --> JJPTRv2 [10:16:43] --> 
+[25-06-2020] : Kindergarden [07:54:03] --> FoodCourt [10:15:13] --> 
+[26-06-2020] : Kindergarden [07:53:37] --> FoodCourt [10:15:29] --> RHP [17:25:51] --> 
+[27-06-2020] : Library [19:50:22] --> 
+[28-06-2020] : Museum [19:48:57] --> 
+[29-06-2020] : Kindergarden [07:55:57] --> 
+[30-06-2020] : Kindergarden [07:55:18] --> 
+[01-07-2020] : Kindergarden [07:54:29] --> JanBank [10:18:47] --> Fibre [17:32:32] --> 
+[02-07-2020] : Kindergarden [07:53:40] --> Ali's Nasi Kandar [10:17:18] --> 

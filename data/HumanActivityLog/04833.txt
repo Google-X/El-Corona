@@ -1,0 +1,17 @@
+HUMAN ID: 04833     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : KTM Station [08:04:51] --> Police Station [10:29:04] --> FoodCourt [12:53:05] --> Moonlings [20:01:57] --> 
+[20-06-2020] : Post Office [10:26:55] --> Park [12:50:15] --> 
+[21-06-2020] : 
+[22-06-2020] : KTM Station [08:03:56] --> Ali's Nasi Kandar [12:51:46] --> 
+[23-06-2020] : KTM Station [08:03:59] --> FoodCourt [12:49:56] --> 
+[24-06-2020] : KTM Station [08:02:33] --> MoonBucks [12:49:22] --> 
+[25-06-2020] : KTM Station [08:01:58] --> MoonBucks [12:48:13] --> 
+[26-06-2020] : KTM Station [08:02:04] --> Ali's Nasi Kandar [12:46:57] --> Park [19:57:06] --> 
+[27-06-2020] : 2 Akhir [19:58:49] --> 
+[28-06-2020] : 2 Akhir [12:48:06] --> 
+[29-06-2020] : KTM Station [08:04:38] --> FoodCourt [12:53:09] --> 
+[30-06-2020] : KTM Station [08:04:01] --> 
+[01-07-2020] : KTM Station [08:03:09] --> JanBank [10:27:26] --> 
+[02-07-2020] : KTM Station [08:02:28] --> MoonBucks [12:49:20] --> 

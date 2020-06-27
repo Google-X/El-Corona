@@ -1,0 +1,17 @@
+HUMAN ID: 05883     GENDER: Male     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : 
+[20-06-2020] : Ali's Nasi Kandar [08:13:01] --> 
+[21-06-2020] : Ali's Nasi Kandar [08:12:10] --> 
+[22-06-2020] : Ali's Nasi Kandar [08:12:46] --> Post Office [13:00:28] --> Pharmarcy [17:47:57] --> 
+[23-06-2020] : Ali's Nasi Kandar [08:12:45] --> 
+[24-06-2020] : Ali's Nasi Kandar [08:11:33] --> 
+[25-06-2020] : Ali's Nasi Kandar [08:10:16] --> 
+[26-06-2020] : Ali's Nasi Kandar [08:10:52] --> Police Station [17:43:20] --> 
+[27-06-2020] : Ali's Nasi Kandar [08:13:14] --> 
+[28-06-2020] : Ali's Nasi Kandar [17:42:45] --> 
+[29-06-2020] : Ali's Nasi Kandar [08:12:58] --> 
+[30-06-2020] : Ali's Nasi Kandar [08:12:36] --> Fibre [17:46:23] --> 
+[01-07-2020] : Ali's Nasi Kandar [08:12:28] --> Post Office [13:01:04] --> GayaGrocery [17:49:21] --> 
+[02-07-2020] : Ali's Nasi Kandar [08:11:34] --> Police Station [17:45:47] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 08320     GENDER: Female     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : MRT Station [06:09:59] --> Moonlings [08:34:24] --> 
+[20-06-2020] : KTM Station [06:10:38] --> Moonlings [08:33:11] --> FoodCourt [13:20:01] --> 
+[21-06-2020] : Moonlings [08:32:10] --> 
+[22-06-2020] : MRT Station [06:08:46] --> Moonlings [08:33:23] --> 
+[23-06-2020] : Moonlings [08:32:55] --> Police Station [13:19:12] --> 
+[24-06-2020] : Moonlings [08:31:45] --> 
+[25-06-2020] : Moonlings [08:31:26] --> 
+[26-06-2020] : Moonlings [08:30:27] --> 
+[27-06-2020] : MRT Station [06:10:00] --> Moonlings [08:33:36] --> GayaGrocery [13:18:47] --> 
+[28-06-2020] : Moonlings [08:31:41] --> RHP [13:17:15] --> 
+[29-06-2020] : Moonlings [08:32:57] --> 
+[30-06-2020] : MRT Station [06:09:39] --> Moonlings [08:32:41] --> 
+[01-07-2020] : KTM Station [06:09:05] --> Moonlings [08:32:10] --> Fibre [13:22:00] --> 
+[02-07-2020] : Moonlings [08:31:52] --> 

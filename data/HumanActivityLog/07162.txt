@@ -1,0 +1,17 @@
+HUMAN ID: 07162     GENDER: Male     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : KTM Station [06:00:28] --> JanBank [17:59:42] --> 
+[20-06-2020] : KTM Station [06:00:17] --> Moonlings [08:23:01] --> JanBank [13:10:06] --> JJPTRv2 [17:57:18] --> 
+[21-06-2020] : Moonlings [08:22:54] --> Post Office [17:56:07] --> 
+[22-06-2020] : Moonlings [08:23:43] --> Police Station [13:11:30] --> JanBank [17:58:16] --> 
+[23-06-2020] : MRT Station [06:00:26] --> Moonlings [08:23:18] --> Fibre [13:09:24] --> Ali's Nasi Kandar [17:55:10] --> 
+[24-06-2020] : Moonlings [08:22:11] --> MoonBucks [13:09:25] --> 
+[25-06-2020] : Moonlings [08:21:19] --> Post Office [13:07:41] --> FoodCourt [17:54:59] --> 
+[26-06-2020] : Moonlings [08:21:00] --> 
+[27-06-2020] : Moonlings [08:23:42] --> JJPTRv2 [13:08:52] --> 
+[28-06-2020] : Moonlings [08:21:38] --> Police Station [17:52:53] --> 
+[29-06-2020] : KTM Station [06:00:31] --> Moonlings [08:23:23] --> 
+[30-06-2020] : Moonlings [08:23:10] --> Fibre [17:57:33] --> 
+[01-07-2020] : Moonlings [08:22:48] --> 
+[02-07-2020] : KTM Station [06:00:21] --> JJPTRv2 [17:56:09] --> 

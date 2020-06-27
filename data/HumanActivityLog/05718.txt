@@ -1,0 +1,17 @@
+HUMAN ID: 05718     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : RHP [17:47:23] --> 
+[20-06-2020] : Ali's Nasi Kandar [08:11:43] --> 
+[21-06-2020] : Ali's Nasi Kandar [08:10:55] --> GayaGrocery [17:43:55] --> 
+[22-06-2020] : Ali's Nasi Kandar [17:46:31] --> 
+[23-06-2020] : Ali's Nasi Kandar [08:11:34] --> Pharmarcy [17:42:57] --> 
+[24-06-2020] : Ali's Nasi Kandar [08:10:11] --> Pharmarcy [17:45:43] --> 
+[25-06-2020] : Ali's Nasi Kandar [08:08:55] --> JJPTRv2 [17:42:51] --> 
+[26-06-2020] : Ali's Nasi Kandar [08:09:33] --> 
+[27-06-2020] : Ali's Nasi Kandar [08:11:50] --> RHP [17:42:55] --> 
+[28-06-2020] : Ali's Nasi Kandar [08:09:27] --> Pharmarcy [17:41:20] --> 
+[29-06-2020] : Ali's Nasi Kandar [08:11:45] --> Ali's Nasi Kandar [17:46:49] --> 
+[30-06-2020] : Ali's Nasi Kandar [08:11:08] --> Police Station [17:44:45] --> 
+[01-07-2020] : Ali's Nasi Kandar [08:10:55] --> 
+[02-07-2020] : Ali's Nasi Kandar [08:10:15] --> MoonBucks [17:44:25] --> 

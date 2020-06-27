@@ -1,0 +1,17 @@
+HUMAN ID: 08394     GENDER: Male     AGE CATEGORY: Adult     ROLE: Accountant
+========================================================================================
+
+[19-06-2020] : JJPTRv2 [08:35:04] --> Post Office [10:58:55] --> Ali's Nasi Kandar [13:22:10] --> 
+[20-06-2020] : FoodCourt [18:07:33] --> Moonlings [20:31:05] --> 
+[21-06-2020] : Police Station [10:56:03] --> Library [13:19:07] --> Museum [20:29:15] --> 
+[22-06-2020] : JJPTRv2 [08:34:06] --> FoodCourt [13:21:55] --> 
+[23-06-2020] : JJPTRv2 [08:33:25] --> Ali's Nasi Kandar [13:19:48] --> 
+[24-06-2020] : KTM Station [06:09:41] --> JJPTRv2 [08:32:20] --> 
+[25-06-2020] : JJPTRv2 [08:32:00] --> Ali's Nasi Kandar [13:17:53] --> Post Office [18:05:02] --> 
+[26-06-2020] : JJPTRv2 [08:31:02] --> 
+[27-06-2020] : FoodCourt [18:04:59] --> 
+[28-06-2020] : IKEY [13:17:48] --> RHP [18:03:27] --> 
+[29-06-2020] : MRT Station [06:10:42] --> JJPTRv2 [08:33:36] --> FoodCourt [13:22:36] --> 
+[30-06-2020] : KTM Station [06:10:24] --> JJPTRv2 [08:33:12] --> FoodCourt [13:20:48] --> 
+[01-07-2020] : MRT Station [06:09:40] --> JJPTRv2 [08:32:51] --> MoonBucks [13:22:32] --> 
+[02-07-2020] : MRT Station [06:10:24] --> JJPTRv2 [08:32:34] --> Ali's Nasi Kandar [13:19:00] --> 

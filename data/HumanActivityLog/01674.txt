@@ -1,0 +1,17 @@
+HUMAN ID: 01674     GENDER: Male     AGE CATEGORY: Adult     ROLE: Teacher
+========================================================================================
+
+[19-06-2020] : Kindergarden [07:37:57] --> 
+[20-06-2020] : Museum [19:34:59] --> 
+[21-06-2020] : Library [19:33:23] --> 
+[22-06-2020] : Kindergarden [07:37:22] --> JJPTRv2 [10:01:18] --> 
+[23-06-2020] : Kindergarden [07:37:32] --> MoonBucks [10:00:35] --> 
+[24-06-2020] : Kindergarden [07:36:37] --> 
+[25-06-2020] : Kindergarden [07:36:34] --> 
+[26-06-2020] : Kindergarden [07:36:06] --> 
+[27-06-2020] : GayaGrocery [10:02:13] --> Park [19:33:01] --> 
+[28-06-2020] : Moonlings [19:30:58] --> 
+[29-06-2020] : Kindergarden [07:38:01] --> SlowMart [17:13:25] --> 
+[30-06-2020] : Kindergarden [07:38:18] --> MoonBucks [10:01:08] --> Ali's Nasi Kandar [17:11:36] --> 
+[01-07-2020] : Kindergarden [07:37:02] --> 
+[02-07-2020] : Kindergarden [07:36:36] --> 

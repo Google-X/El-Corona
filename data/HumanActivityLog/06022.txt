@@ -1,0 +1,17 @@
+HUMAN ID: 06022     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : KTM Station [05:50:58] --> Museum [08:14:57] --> Ali's Nasi Kandar [10:38:45] --> Ali's Nasi Kandar [13:02:45] --> 
+[20-06-2020] : 2 Akhir [13:00:12] --> 
+[21-06-2020] : 
+[22-06-2020] : KTM Station [05:49:50] --> Museum [08:13:50] --> FoodCourt [10:37:23] --> 
+[23-06-2020] : MRT Station [05:50:39] --> Museum [08:13:54] --> 
+[24-06-2020] : Museum [08:12:41] --> JJPTRv2 [10:35:59] --> 
+[25-06-2020] : Museum [08:11:24] --> GayaGrocery [10:34:12] --> MoonBucks [12:58:10] --> 
+[26-06-2020] : Museum [08:12:02] --> Ali's Nasi Kandar [12:56:38] --> 
+[27-06-2020] : Park [12:59:28] --> 
+[28-06-2020] : Library [12:58:00] --> Moonlings [20:07:42] --> 
+[29-06-2020] : MRT Station [05:50:40] --> Museum [08:14:04] --> SlowMart [10:37:59] --> MoonBucks [13:02:39] --> 
+[30-06-2020] : Museum [08:13:44] --> Police Station [10:37:31] --> FoodCourt [13:01:10] --> 
+[01-07-2020] : Museum [08:13:40] --> FoodCourt [13:02:03] --> 
+[02-07-2020] : KTM Station [05:50:34] --> Museum [08:12:49] --> 

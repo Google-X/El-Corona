@@ -1,0 +1,17 @@
+HUMAN ID: 06768     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : GayaGrocery [08:21:06] --> 
+[20-06-2020] : GayaGrocery [08:19:56] --> 
+[21-06-2020] : GayaGrocery [08:19:54] --> 
+[22-06-2020] : MoonBucks [13:07:46] --> RHP [17:55:07] --> 
+[23-06-2020] : GayaGrocery [08:19:55] --> 
+[24-06-2020] : GayaGrocery [08:18:55] --> 
+[25-06-2020] : 
+[26-06-2020] : GayaGrocery [08:17:42] --> Fibre [17:50:23] --> 
+[27-06-2020] : GayaGrocery [08:20:26] --> SlowMart [17:51:36] --> 
+[28-06-2020] : GayaGrocery [08:18:27] --> 
+[29-06-2020] : GayaGrocery [08:20:11] --> 
+[30-06-2020] : GayaGrocery [08:19:41] --> 
+[01-07-2020] : GayaGrocery [08:19:34] --> Police Station [13:08:30] --> Ali's Nasi Kandar [17:56:48] --> 
+[02-07-2020] : GayaGrocery [08:18:56] --> Post Office [13:05:35] --> SlowMart [17:53:03] --> 

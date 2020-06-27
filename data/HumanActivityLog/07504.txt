@@ -1,0 +1,17 @@
+HUMAN ID: 07504     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : Orange [08:27:02] --> JanBank [10:51:27] --> MoonBucks [13:14:58] --> Fibre [18:02:27] --> Moonlings [20:23:51] --> 
+[20-06-2020] : JanBank [10:49:22] --> Library [20:23:35] --> 
+[21-06-2020] : 2 Akhir [13:11:46] --> 2 Akhir [20:21:40] --> 
+[22-06-2020] : MRT Station [06:02:15] --> Orange [08:26:22] --> Ali's Nasi Kandar [13:14:21] --> 
+[23-06-2020] : Orange [08:26:15] --> Ali's Nasi Kandar [13:12:18] --> 
+[24-06-2020] : Orange [08:25:01] --> Police Station [10:48:17] --> MoonBucks [13:12:34] --> 
+[25-06-2020] : KTM Station [06:02:17] --> Orange [08:24:13] --> JJPTRv2 [10:47:04] --> 
+[26-06-2020] : Orange [08:23:46] --> Police Station [10:46:39] --> Ali's Nasi Kandar [13:08:16] --> 2 Akhir [20:19:54] --> 
+[27-06-2020] : 
+[28-06-2020] : FoodCourt [10:47:28] --> IKEY [20:20:23] --> 
+[29-06-2020] : Orange [08:26:08] --> GayaGrocery [18:01:40] --> 
+[30-06-2020] : KTM Station [06:02:32] --> Orange [08:26:04] --> 
+[01-07-2020] : Orange [08:25:33] --> Ali's Nasi Kandar [13:14:57] --> 
+[02-07-2020] : MRT Station [06:03:09] --> Orange [08:25:06] --> Ali's Nasi Kandar [10:47:44] --> 

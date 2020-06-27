@@ -1,0 +1,17 @@
+HUMAN ID: 00224     GENDER: Male     AGE CATEGORY: Adult     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : KTM Station [07:26:08] --> KTM Station [09:50:27] --> Police Station [17:01:26] --> 
+[20-06-2020] : KTM Station [07:26:08] --> 
+[21-06-2020] : KTM Station [09:47:42] --> 
+[22-06-2020] : MRT Station [07:25:20] --> KTM Station [09:49:14] --> 
+[23-06-2020] : KTM Station [07:25:31] --> KTM Station [09:48:37] --> 
+[24-06-2020] : KTM Station [07:24:45] --> KTM Station [09:46:40] --> 
+[25-06-2020] : KTM Station [07:24:52] --> KTM Station [09:47:23] --> 
+[26-06-2020] : MRT Station [07:24:19] --> KTM Station [09:46:10] --> 
+[27-06-2020] : KTM Station [09:49:53] --> 
+[28-06-2020] : KTM Station [09:47:34] --> 
+[29-06-2020] : KTM Station [09:48:31] --> 
+[30-06-2020] : KTM Station [09:49:03] --> 
+[01-07-2020] : KTM Station [09:48:40] --> JanBank [17:02:36] --> 
+[02-07-2020] : MRT Station [07:24:51] --> KTM Station [09:47:23] --> 

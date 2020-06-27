@@ -1,0 +1,17 @@
+HUMAN ID: 08115     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : Airport [08:32:32] --> JanBank [10:56:37] --> FoodCourt [13:20:01] --> 
+[20-06-2020] : 
+[21-06-2020] : Ali's Nasi Kandar [10:53:50] --> Moonlings [13:16:44] --> Museum [20:26:54] --> 
+[22-06-2020] : Airport [08:31:47] --> JJPTRv2 [10:55:31] --> MoonBucks [13:19:37] --> 
+[23-06-2020] : KTM Station [06:08:17] --> Airport [08:31:14] --> FoodCourt [18:02:59] --> 
+[24-06-2020] : MRT Station [06:07:24] --> Airport [08:30:03] --> FoodCourt [13:17:52] --> RHP [18:05:14] --> 
+[25-06-2020] : KTM Station [06:07:13] --> Airport [08:29:31] --> SlowMart [10:52:12] --> 
+[26-06-2020] : MRT Station [06:06:50] --> Airport [08:28:47] --> Post Office [10:51:25] --> FoodCourt [13:13:24] --> Museum [20:25:17] --> 
+[27-06-2020] : Museum [13:17:01] --> 
+[28-06-2020] : IKEY [20:25:40] --> 
+[29-06-2020] : Airport [08:31:20] --> RHP [18:06:51] --> 
+[30-06-2020] : KTM Station [06:07:55] --> Airport [08:31:10] --> FoodCourt [13:18:36] --> JJPTRv2 [18:05:46] --> 
+[01-07-2020] : Airport [08:30:32] --> FoodCourt [13:20:15] --> GayaGrocery [18:08:31] --> 
+[02-07-2020] : MRT Station [06:07:57] --> Airport [08:30:14] --> FoodCourt [13:16:49] --> 

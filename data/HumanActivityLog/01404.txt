@@ -1,0 +1,17 @@
+HUMAN ID: 01404     GENDER: Female     AGE CATEGORY: Adult     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : Police Station [17:11:21] --> 
+[20-06-2020] : MRT Station [07:35:51] --> Ali's Nasi Kandar [09:58:45] --> Ali's Nasi Kandar [17:09:37] --> 
+[21-06-2020] : KTM Station [07:35:30] --> Ali's Nasi Kandar [09:57:48] --> 
+[22-06-2020] : KTM Station [07:34:56] --> Ali's Nasi Kandar [09:59:13] --> Post Office [17:10:14] --> 
+[23-06-2020] : MRT Station [07:35:13] --> Ali's Nasi Kandar [09:58:18] --> Post Office [17:06:33] --> 
+[24-06-2020] : 
+[25-06-2020] : JanBank [17:06:43] --> 
+[26-06-2020] : KTM Station [07:33:53] --> Ali's Nasi Kandar [09:55:39] --> Police Station [17:05:45] --> 
+[27-06-2020] : Police Station [17:07:25] --> 
+[28-06-2020] : KTM Station [07:33:33] --> Ali's Nasi Kandar [09:57:09] --> 
+[29-06-2020] : KTM Station [07:35:56] --> 
+[30-06-2020] : KTM Station [07:35:49] --> Ali's Nasi Kandar [09:58:57] --> 
+[01-07-2020] : MRT Station [07:34:46] --> Ali's Nasi Kandar [09:58:43] --> Pharmarcy [17:12:40] --> 
+[02-07-2020] : KTM Station [07:34:35] --> Ali's Nasi Kandar [09:57:19] --> FoodCourt [17:07:52] --> 

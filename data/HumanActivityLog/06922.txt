@@ -1,0 +1,17 @@
+HUMAN ID: 06922     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Shopping Centre Retailer
+========================================================================================
+
+[19-06-2020] : Moonlings [08:22:21] --> JanBank [17:57:39] --> 
+[20-06-2020] : Moonlings [08:21:16] --> 
+[21-06-2020] : Moonlings [08:21:04] --> Pharmarcy [13:07:11] --> 
+[22-06-2020] : Moonlings [08:21:36] --> JanBank [13:09:12] --> 
+[23-06-2020] : Moonlings [08:21:16] --> Police Station [13:07:25] --> Ali's Nasi Kandar [17:53:15] --> 
+[24-06-2020] : Moonlings [08:20:11] --> SlowMart [17:55:10] --> 
+[25-06-2020] : Moonlings [08:19:09] --> JJPTRv2 [13:05:35] --> 
+[26-06-2020] : GayaGrocery [17:51:29] --> 
+[27-06-2020] : Post Office [13:06:49] --> 
+[28-06-2020] : Moonlings [08:19:44] --> Pharmarcy [13:05:43] --> 
+[29-06-2020] : Moonlings [08:21:23] --> MoonBucks [13:10:21] --> 
+[30-06-2020] : Moonlings [08:21:02] --> 
+[01-07-2020] : 
+[02-07-2020] : Moonlings [08:20:02] --> 

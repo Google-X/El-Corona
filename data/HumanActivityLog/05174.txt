@@ -1,0 +1,17 @@
+HUMAN ID: 05174     GENDER: Male     AGE CATEGORY: Adult     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [08:07:39] --> 
+[20-06-2020] : Ali's Nasi Kandar [08:07:24] --> 
+[21-06-2020] : Ali's Nasi Kandar [08:06:27] --> 
+[22-06-2020] : Ali's Nasi Kandar [08:06:54] --> 
+[23-06-2020] : Ali's Nasi Kandar [08:06:48] --> 
+[24-06-2020] : Ali's Nasi Kandar [08:05:30] --> Ali's Nasi Kandar [17:41:07] --> 
+[25-06-2020] : Ali's Nasi Kandar [08:04:42] --> 
+[26-06-2020] : Ali's Nasi Kandar [08:04:54] --> 
+[27-06-2020] : Ali's Nasi Kandar [08:07:25] --> 
+[28-06-2020] : Ali's Nasi Kandar [08:05:00] --> SlowMart [17:36:38] --> 
+[29-06-2020] : Ali's Nasi Kandar [08:07:29] --> GayaGrocery [17:42:14] --> 
+[30-06-2020] : Ali's Nasi Kandar [08:06:57] --> 
+[01-07-2020] : Ali's Nasi Kandar [08:06:00] --> RHP [17:43:40] --> 
+[02-07-2020] : FoodCourt [17:39:46] --> 

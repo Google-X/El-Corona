@@ -1,0 +1,17 @@
+HUMAN ID: 07320     GENDER: Female     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : 
+[20-06-2020] : 
+[21-06-2020] : 
+[22-06-2020] : Police Station [08:25:02] --> Ali's Nasi Kandar [13:12:40] --> 
+[23-06-2020] : Police Station [08:24:44] --> 
+[24-06-2020] : Police Station [08:23:25] --> 
+[25-06-2020] : Police Station [08:22:39] --> 
+[26-06-2020] : Police Station [08:22:15] --> 
+[27-06-2020] : Police Station [08:25:03] --> 
+[28-06-2020] : Police Station [08:23:00] --> 
+[29-06-2020] : Police Station [08:24:42] --> 
+[30-06-2020] : Police Station [08:24:31] --> 
+[01-07-2020] : Police Station [08:24:09] --> 
+[02-07-2020] : Police Station [08:23:26] --> MoonBucks [13:10:06] --> 

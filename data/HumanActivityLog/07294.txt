@@ -1,0 +1,17 @@
+HUMAN ID: 07294     GENDER: Female     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : FoodCourt [08:25:30] --> 
+[20-06-2020] : KTM Station [06:01:32] --> FoodCourt [08:24:17] --> Fibre [17:58:25] --> 
+[21-06-2020] : FoodCourt [08:23:48] --> Fibre [13:10:03] --> JJPTRv2 [17:57:13] --> 
+[22-06-2020] : MRT Station [06:00:46] --> FoodCourt [08:24:50] --> 
+[23-06-2020] : FoodCourt [08:24:33] --> Police Station [13:10:36] --> 
+[24-06-2020] : MRT Station [06:00:47] --> FoodCourt [08:23:15] --> FoodCourt [13:10:35] --> Police Station [17:58:24] --> 
+[25-06-2020] : FoodCourt [08:22:27] --> Ali's Nasi Kandar [17:56:16] --> 
+[26-06-2020] : KTM Station [06:00:08] --> FoodCourt [08:22:06] --> Fibre [17:54:26] --> 
+[27-06-2020] : FoodCourt [08:24:50] --> 
+[28-06-2020] : SlowMart [17:54:03] --> 
+[29-06-2020] : FoodCourt [08:24:29] --> JJPTRv2 [13:13:33] --> 
+[30-06-2020] : KTM Station [06:00:36] --> FoodCourt [08:24:16] --> MoonBucks [13:11:42] --> 
+[01-07-2020] : SlowMart [13:13:10] --> 
+[02-07-2020] : MRT Station [06:01:20] --> FoodCourt [08:23:12] --> FoodCourt [17:57:16] --> 

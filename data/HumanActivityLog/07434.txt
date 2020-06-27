@@ -1,0 +1,17 @@
+HUMAN ID: 07434     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : Petrocad [08:26:30] --> Post Office [10:50:50] --> Ali's Nasi Kandar [13:14:23] --> Library [20:23:22] --> 
+[20-06-2020] : Park [20:22:59] --> 
+[21-06-2020] : 
+[22-06-2020] : Petrocad [08:25:54] --> Police Station [10:49:40] --> Ali's Nasi Kandar [13:13:42] --> 
+[23-06-2020] : MRT Station [06:02:35] --> Petrocad [08:25:40] --> FoodCourt [13:11:47] --> 
+[24-06-2020] : MRT Station [06:02:03] --> Petrocad [08:24:21] --> 
+[25-06-2020] : MRT Station [06:01:43] --> Petrocad [08:23:35] --> Police Station [10:46:24] --> 
+[26-06-2020] : Petrocad [08:23:09] --> Library [20:19:23] --> 
+[27-06-2020] : IKEY [20:20:27] --> 
+[28-06-2020] : 
+[29-06-2020] : MRT Station [06:02:36] --> Petrocad [08:25:35] --> Pharmarcy [10:50:08] --> 
+[30-06-2020] : Petrocad [08:25:32] --> FoodCourt [13:12:57] --> 
+[01-07-2020] : Petrocad [08:25:05] --> 
+[02-07-2020] : Petrocad [08:24:24] --> GayaGrocery [10:47:06] --> 

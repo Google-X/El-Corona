@@ -1,0 +1,17 @@
+HUMAN ID: 05991     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : Orange [08:14:43] --> 
+[20-06-2020] : Moonlings [20:10:44] --> 
+[21-06-2020] : Moonlings [12:59:20] --> 
+[22-06-2020] : KTM Station [05:49:37] --> Orange [08:13:35] --> Ali's Nasi Kandar [13:01:26] --> 
+[23-06-2020] : KTM Station [05:50:21] --> Orange [08:13:39] --> MoonBucks [10:36:26] --> 
+[24-06-2020] : KTM Station [05:50:01] --> Orange [08:12:27] --> FoodCourt [12:59:30] --> 
+[25-06-2020] : MRT Station [05:49:52] --> Orange [08:11:07] --> 
+[26-06-2020] : MRT Station [05:48:58] --> Orange [08:11:42] --> FoodCourt [10:33:33] --> 
+[27-06-2020] : Moonlings [12:59:08] --> 
+[28-06-2020] : Museum [20:07:26] --> 
+[29-06-2020] : KTM Station [05:50:27] --> Orange [08:13:52] --> FoodCourt [10:37:41] --> 
+[30-06-2020] : KTM Station [05:49:54] --> Orange [08:13:27] --> RHP [10:37:16] --> 
+[01-07-2020] : Orange [08:13:20] --> Police Station [10:37:07] --> 
+[02-07-2020] : KTM Station [05:50:19] --> Orange [08:12:35] --> Ali's Nasi Kandar [10:35:33] --> MoonBucks [12:59:06] --> 

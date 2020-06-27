@@ -1,0 +1,17 @@
+HUMAN ID: 08196     GENDER: Male     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : KTM Station [08:33:13] --> 
+[20-06-2020] : MRT Station [06:09:33] --> KTM Station [08:32:09] --> 
+[21-06-2020] : KTM Station [08:31:08] --> 
+[22-06-2020] : KTM Station [06:07:44] --> KTM Station [08:32:30] --> 
+[23-06-2020] : KTM Station [08:31:53] --> 
+[24-06-2020] : MRT Station [06:08:08] --> KTM Station [08:30:40] --> 
+[25-06-2020] : KTM Station [06:07:58] --> KTM Station [08:30:14] --> 
+[26-06-2020] : KTM Station [08:29:27] --> 
+[27-06-2020] : KTM Station [06:08:51] --> KTM Station [08:32:39] --> Post Office [13:17:41] --> 
+[28-06-2020] : KTM Station [08:30:43] --> 
+[29-06-2020] : KTM Station [06:09:03] --> KTM Station [08:31:58] --> 
+[30-06-2020] : KTM Station [08:31:47] --> 
+[01-07-2020] : KTM Station [06:07:58] --> KTM Station [08:31:16] --> Post Office [13:20:50] --> 
+[02-07-2020] : KTM Station [08:30:52] --> 

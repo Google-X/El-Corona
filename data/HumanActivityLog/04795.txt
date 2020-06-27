@@ -1,0 +1,17 @@
+HUMAN ID: 04795     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [08:04:32] --> IKEY [20:01:44] --> 
+[20-06-2020] : SlowMart [10:26:38] --> Moonlings [20:01:06] --> 
+[21-06-2020] : JanBank [10:26:02] --> Museum [19:59:02] --> 
+[22-06-2020] : MRT Station [08:03:37] --> 
+[23-06-2020] : MRT Station [08:03:42] --> Ali's Nasi Kandar [12:49:39] --> 
+[24-06-2020] : MRT Station [08:02:18] --> 
+[25-06-2020] : MRT Station [08:01:40] --> JJPTRv2 [10:23:43] --> FoodCourt [12:47:50] --> 
+[26-06-2020] : MRT Station [08:01:42] --> Pharmarcy [10:23:35] --> Library [19:56:46] --> 
+[27-06-2020] : 
+[28-06-2020] : MoonBucks [10:25:06] --> 
+[29-06-2020] : MRT Station [08:04:22] --> 
+[30-06-2020] : MRT Station [08:03:37] --> Pharmarcy [10:27:34] --> FoodCourt [12:50:33] --> 
+[01-07-2020] : MRT Station [08:02:48] --> MoonBucks [12:52:05] --> 
+[02-07-2020] : MRT Station [08:02:05] --> GayaGrocery [10:25:35] --> FoodCourt [12:49:03] --> 

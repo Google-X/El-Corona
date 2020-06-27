@@ -1,0 +1,17 @@
+HUMAN ID: 06286     GENDER: Female     AGE CATEGORY: Adult     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : MRT Station [08:17:04] --> Ali's Nasi Kandar [13:04:55] --> 
+[20-06-2020] : MRT Station [08:16:01] --> 
+[21-06-2020] : MRT Station [08:15:36] --> 
+[22-06-2020] : MRT Station [08:16:01] --> Pharmarcy [13:03:51] --> 
+[23-06-2020] : MRT Station [08:16:07] --> 
+[24-06-2020] : MRT Station [08:14:42] --> 
+[25-06-2020] : MRT Station [08:13:54] --> Pharmarcy [13:00:32] --> 
+[26-06-2020] : MRT Station [08:14:03] --> Fibre [17:46:44] --> 
+[27-06-2020] : MRT Station [08:16:35] --> FoodCourt [17:47:36] --> 
+[28-06-2020] : MRT Station [08:14:13] --> Ali's Nasi Kandar [17:46:10] --> 
+[29-06-2020] : MRT Station [08:16:14] --> Post Office [13:04:59] --> JJPTRv2 [17:51:07] --> 
+[30-06-2020] : MRT Station [08:15:46] --> SlowMart [13:03:38] --> 
+[01-07-2020] : RHP [13:04:16] --> 
+[02-07-2020] : MRT Station [08:14:48] --> 

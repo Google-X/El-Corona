@@ -1,0 +1,17 @@
+HUMAN ID: 05414     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [08:09:46] --> Ali's Nasi Kandar [10:33:49] --> MoonBucks [12:58:00] --> IKEY [20:06:35] --> 
+[20-06-2020] : Museum [12:54:52] --> Moonlings [20:06:01] --> 
+[21-06-2020] : 2 Akhir [20:03:46] --> 
+[22-06-2020] : MRT Station [08:09:03] --> 
+[23-06-2020] : MRT Station [08:08:56] --> RHP [10:32:02] --> 
+[24-06-2020] : MRT Station [08:07:28] --> Post Office [10:30:36] --> FoodCourt [12:54:25] --> 
+[25-06-2020] : MRT Station [08:06:36] --> JanBank [10:28:53] --> FoodCourt [12:53:09] --> 
+[26-06-2020] : MRT Station [08:07:00] --> Fibre [10:28:47] --> 2 Akhir [20:02:10] --> 
+[27-06-2020] : Park [20:03:41] --> 
+[28-06-2020] : Library [12:52:54] --> 
+[29-06-2020] : MRT Station [08:09:29] --> 
+[30-06-2020] : MRT Station [08:09:02] --> MoonBucks [12:55:56] --> 
+[01-07-2020] : MRT Station [08:08:06] --> MoonBucks [12:57:15] --> 
+[02-07-2020] : MRT Station [08:07:44] --> Post Office [10:30:50] --> 

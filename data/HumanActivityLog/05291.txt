@@ -1,0 +1,17 @@
+HUMAN ID: 05291     GENDER: Female     AGE CATEGORY: Adult     ROLE: Waiter
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [08:08:44] --> Police Station [17:44:10] --> 
+[20-06-2020] : Ali's Nasi Kandar [08:08:23] --> SlowMart [17:42:19] --> 
+[21-06-2020] : Ali's Nasi Kandar [08:07:25] --> 
+[22-06-2020] : Ali's Nasi Kandar [08:08:01] --> 
+[23-06-2020] : Ali's Nasi Kandar [08:07:43] --> Post Office [17:39:22] --> 
+[24-06-2020] : Ali's Nasi Kandar [08:06:29] --> 
+[25-06-2020] : Ali's Nasi Kandar [08:05:40] --> FoodCourt [17:39:25] --> 
+[26-06-2020] : Ali's Nasi Kandar [08:05:57] --> Ali's Nasi Kandar [17:38:43] --> 
+[27-06-2020] : Ali's Nasi Kandar [08:08:16] --> 
+[28-06-2020] : Ali's Nasi Kandar [08:05:50] --> Ali's Nasi Kandar [17:37:32] --> 
+[29-06-2020] : Ali's Nasi Kandar [08:08:24] --> JanBank [17:43:18] --> 
+[30-06-2020] : Ali's Nasi Kandar [08:07:57] --> RHP [17:41:25] --> 
+[01-07-2020] : Ali's Nasi Kandar [08:07:02] --> Pharmarcy [17:44:43] --> 
+[02-07-2020] : Ali's Nasi Kandar [08:06:36] --> 

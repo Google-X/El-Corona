@@ -1,0 +1,17 @@
+HUMAN ID: 06695     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Hospital [08:20:25] --> Post Office [10:44:34] --> FoodCourt [13:08:23] --> 
+[20-06-2020] : Park [13:05:42] --> Library [20:16:37] --> 
+[21-06-2020] : IKEY [20:14:32] --> 
+[22-06-2020] : KTM Station [05:55:31] --> Hospital [08:19:41] --> 
+[23-06-2020] : KTM Station [05:56:39] --> Hospital [08:19:25] --> Pharmarcy [10:42:07] --> FoodCourt [13:05:33] --> 
+[24-06-2020] : Hospital [08:18:25] --> 
+[25-06-2020] : Hospital [08:17:12] --> GayaGrocery [10:40:04] --> FoodCourt [13:03:50] --> 
+[26-06-2020] : KTM Station [05:54:54] --> Hospital [08:17:12] --> FoodCourt [10:39:26] --> 
+[27-06-2020] : Moonlings [20:14:22] --> 
+[28-06-2020] : Library [20:13:24] --> 
+[29-06-2020] : Hospital [08:19:34] --> FoodCourt [13:08:22] --> 
+[30-06-2020] : MRT Station [05:55:37] --> Hospital [08:19:10] --> JJPTRv2 [10:43:18] --> 
+[01-07-2020] : KTM Station [05:55:08] --> Hospital [08:18:58] --> 
+[02-07-2020] : KTM Station [05:56:15] --> Hospital [08:18:21] --> Police Station [10:41:08] --> 

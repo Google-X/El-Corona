@@ -1,0 +1,17 @@
+HUMAN ID: 06206     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : KTM Station [08:16:24] --> Police Station [13:04:13] --> 
+[20-06-2020] : KTM Station [08:15:21] --> Pharmarcy [13:01:42] --> Ali's Nasi Kandar [17:49:30] --> 
+[21-06-2020] : KTM Station [08:14:55] --> Ali's Nasi Kandar [17:47:48] --> 
+[22-06-2020] : KTM Station [08:15:13] --> MoonBucks [17:50:28] --> 
+[23-06-2020] : KTM Station [08:15:28] --> 
+[24-06-2020] : KTM Station [08:14:01] --> FoodCourt [17:49:24] --> 
+[25-06-2020] : KTM Station [08:13:03] --> RHP [17:47:10] --> 
+[26-06-2020] : 
+[27-06-2020] : KTM Station [08:15:55] --> Post Office [13:00:54] --> Police Station [17:47:06] --> 
+[28-06-2020] : KTM Station [08:13:37] --> 
+[29-06-2020] : KTM Station [08:15:37] --> Pharmarcy [13:04:15] --> 
+[30-06-2020] : KTM Station [08:15:10] --> 
+[01-07-2020] : KTM Station [08:15:08] --> 
+[02-07-2020] : KTM Station [08:14:14] --> RHP [17:48:31] --> 

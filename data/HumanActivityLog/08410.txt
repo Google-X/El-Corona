@@ -1,0 +1,17 @@
+HUMAN ID: 08410     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [06:10:44] --> Orange [08:35:14] --> 
+[20-06-2020] : Ali's Nasi Kandar [18:07:42] --> 
+[21-06-2020] : Museum [13:19:12] --> 2 Akhir [20:29:19] --> 
+[22-06-2020] : Orange [08:34:12] --> Post Office [10:57:59] --> FoodCourt [13:22:01] --> 
+[23-06-2020] : Orange [08:33:32] --> GayaGrocery [10:56:18] --> Ali's Nasi Kandar [13:19:55] --> Post Office [18:05:23] --> 
+[24-06-2020] : KTM Station [06:09:48] --> Orange [08:32:28] --> GayaGrocery [10:55:50] --> 
+[25-06-2020] : KTM Station [06:09:43] --> Orange [08:32:08] --> JJPTRv2 [10:54:49] --> MoonBucks [13:18:01] --> Police Station [18:05:09] --> 
+[26-06-2020] : KTM Station [06:09:23] --> Orange [08:31:08] --> MoonBucks [13:15:54] --> Library [20:27:38] --> 
+[27-06-2020] : Moonlings [20:28:31] --> 
+[28-06-2020] : 
+[29-06-2020] : MRT Station [06:10:47] --> Orange [08:33:44] --> MoonBucks [13:22:44] --> 
+[30-06-2020] : Orange [08:33:21] --> FoodCourt [13:20:56] --> 
+[01-07-2020] : KTM Station [06:09:48] --> Orange [08:33:02] --> FoodCourt [18:10:53] --> 
+[02-07-2020] : MRT Station [06:10:36] --> Orange [08:32:43] --> MoonBucks [13:19:07] --> 

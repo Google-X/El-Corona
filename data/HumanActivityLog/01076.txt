@@ -1,0 +1,17 @@
+HUMAN ID: 01076     GENDER: Female     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [09:57:33] --> 
+[20-06-2020] : Police Station [09:56:01] --> 
+[21-06-2020] : Police Station [09:55:01] --> 
+[22-06-2020] : Police Station [09:56:33] --> 
+[23-06-2020] : Police Station [09:55:40] --> 
+[24-06-2020] : Police Station [09:53:59] --> 
+[25-06-2020] : Police Station [09:54:01] --> 
+[26-06-2020] : Police Station [09:53:05] --> 
+[27-06-2020] : 
+[28-06-2020] : Police Station [09:54:28] --> 
+[29-06-2020] : Police Station [09:55:41] --> 
+[30-06-2020] : Police Station [09:56:12] --> 
+[01-07-2020] : Police Station [09:56:03] --> 
+[02-07-2020] : 

@@ -1,0 +1,17 @@
+HUMAN ID: 08087     GENDER: Male     AGE CATEGORY: Adult     ROLE: Teacher
+========================================================================================
+
+[19-06-2020] : Kindergarden [06:08:09] --> FoodCourt [10:56:21] --> 
+[20-06-2020] : JJPTRv2 [10:54:27] --> 
+[21-06-2020] : Library [18:03:39] --> 
+[22-06-2020] : Kindergarden [06:06:47] --> FoodCourt [10:55:13] --> 
+[23-06-2020] : Kindergarden [06:08:01] --> 
+[24-06-2020] : Kindergarden [06:07:11] --> MoonBucks [10:53:03] --> 
+[25-06-2020] : Kindergarden [06:07:07] --> MoonBucks [10:51:57] --> 
+[26-06-2020] : Kindergarden [06:06:40] --> FoodCourt [10:51:17] --> RHP [10:51:17] --> 
+[27-06-2020] : Police Station [10:55:07] --> Library [18:02:17] --> 
+[28-06-2020] : MoonBucks [10:52:08] --> Library [18:00:55] --> 
+[29-06-2020] : Kindergarden [06:08:07] --> JanBank [10:55:35] --> 
+[30-06-2020] : Kindergarden [06:07:38] --> 
+[01-07-2020] : Kindergarden [06:06:56] --> Fibre [10:55:40] --> 
+[02-07-2020] : Kindergarden [06:07:38] --> Pharmarcy [10:52:32] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 05923     GENDER: Female     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:14:07] --> 
+[20-06-2020] : Police Station [08:13:22] --> 
+[21-06-2020] : Police Station [08:12:33] --> Ali's Nasi Kandar [17:45:34] --> 
+[22-06-2020] : Police Station [08:13:08] --> 
+[23-06-2020] : Police Station [08:13:06] --> 
+[24-06-2020] : Police Station [08:11:51] --> 
+[25-06-2020] : 
+[26-06-2020] : Police Station [08:11:07] --> 
+[27-06-2020] : Police Station [08:13:36] --> 
+[28-06-2020] : Police Station [08:11:21] --> 
+[29-06-2020] : Police Station [08:13:21] --> JJPTRv2 [13:01:53] --> 
+[30-06-2020] : Police Station [08:12:53] --> JanBank [13:00:17] --> 
+[01-07-2020] : Ali's Nasi Kandar [13:01:26] --> 
+[02-07-2020] : Police Station [08:11:57] --> 

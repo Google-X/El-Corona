@@ -1,0 +1,17 @@
+HUMAN ID: 00434     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [05:03:44] --> Kindergarden [09:52:09] --> 
+[20-06-2020] : Park [12:14:40] --> 
+[21-06-2020] : Museum [12:12:32] --> 
+[22-06-2020] : MRT Station [05:03:36] --> Kindergarden [09:50:50] --> 
+[23-06-2020] : KTM Station [05:03:25] --> Kindergarden [09:50:20] --> 
+[24-06-2020] : KTM Station [05:03:45] --> Kindergarden [09:48:32] --> 
+[25-06-2020] : Kindergarden [09:48:58] --> Ali's Nasi Kandar [12:11:09] --> 
+[26-06-2020] : MRT Station [05:03:42] --> Kindergarden [09:47:51] --> Ali's Nasi Kandar [12:11:05] --> 
+[27-06-2020] : 2 Akhir [19:22:13] --> 
+[28-06-2020] : Library [19:20:58] --> 
+[29-06-2020] : MRT Station [05:03:48] --> Kindergarden [09:50:10] --> 
+[30-06-2020] : Kindergarden [09:50:55] --> 
+[01-07-2020] : KTM Station [05:03:33] --> Kindergarden [09:50:19] --> 
+[02-07-2020] : Kindergarden [09:49:08] --> FoodCourt [12:12:15] --> 

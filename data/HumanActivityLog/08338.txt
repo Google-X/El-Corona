@@ -1,0 +1,17 @@
+HUMAN ID: 08338     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Secondary [08:34:32] --> Ali's Nasi Kandar [13:21:46] --> 2 Akhir [20:30:38] --> 
+[20-06-2020] : 2 Akhir [13:20:15] --> 
+[21-06-2020] : Park [13:18:39] --> IKEY [20:28:43] --> 
+[22-06-2020] : Secondary [08:33:34] --> FoodCourt [13:21:30] --> MoonBucks [18:07:41] --> 
+[23-06-2020] : KTM Station [06:10:16] --> Secondary [08:33:04] --> 
+[24-06-2020] : KTM Station [06:09:16] --> Secondary [08:31:52] --> JJPTRv2 [10:55:11] --> MoonBucks [13:19:34] --> Fibre [18:07:29] --> 
+[25-06-2020] : Secondary [08:31:34] --> Ali's Nasi Kandar [13:17:22] --> 
+[26-06-2020] : Secondary [08:30:34] --> Ali's Nasi Kandar [10:53:10] --> MoonBucks [13:15:22] --> 
+[27-06-2020] : 
+[28-06-2020] : GayaGrocery [10:54:08] --> 2 Akhir [13:17:26] --> 2 Akhir [20:27:26] --> 
+[29-06-2020] : MRT Station [06:10:12] --> Secondary [08:33:06] --> 
+[30-06-2020] : Secondary [08:32:49] --> FoodCourt [13:20:22] --> 
+[01-07-2020] : Secondary [08:32:23] --> 
+[02-07-2020] : KTM Station [06:09:52] --> Secondary [08:32:02] --> Pharmarcy [18:05:41] --> 

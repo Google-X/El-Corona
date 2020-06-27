@@ -1,0 +1,17 @@
+HUMAN ID: 00163     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : Petrocad [09:49:58] --> MoonBucks [12:13:54] --> Moonlings [21:45:44] --> 
+[20-06-2020] : 
+[21-06-2020] : 2 Akhir [12:10:21] --> 
+[22-06-2020] : KTM Station [05:01:26] --> Petrocad [09:48:46] --> MoonBucks [12:12:29] --> 
+[23-06-2020] : MRT Station [05:01:16] --> Petrocad [09:48:08] --> 
+[24-06-2020] : MRT Station [05:01:26] --> Petrocad [09:46:12] --> Ali's Nasi Kandar [12:11:02] --> 
+[25-06-2020] : MRT Station [05:01:12] --> Petrocad [09:46:51] --> 
+[26-06-2020] : Petrocad [09:45:42] --> Ali's Nasi Kandar [12:08:41] --> Park [21:42:01] --> 
+[27-06-2020] : IKEY [19:19:48] --> 
+[28-06-2020] : Park [12:09:31] --> Museum [19:18:31] --> 
+[29-06-2020] : Petrocad [09:48:02] --> Ali's Nasi Kandar [12:13:05] --> 
+[30-06-2020] : KTM Station [05:01:28] --> Petrocad [09:48:30] --> MoonBucks [12:12:19] --> 
+[01-07-2020] : MRT Station [05:01:25] --> Petrocad [09:48:10] --> 
+[02-07-2020] : KTM Station [05:01:32] --> Petrocad [09:46:53] --> Ali's Nasi Kandar [12:09:49] --> 

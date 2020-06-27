@@ -1,0 +1,17 @@
+HUMAN ID: 08547     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [08:36:13] --> MoonBucks [18:10:42] --> Library [20:32:25] --> 
+[20-06-2020] : Moonlings [20:32:11] --> 
+[21-06-2020] : Museum [13:20:19] --> Museum [20:30:32] --> 
+[22-06-2020] : MRT Station [08:35:15] --> JJPTRv2 [10:58:56] --> FoodCourt [13:23:19] --> Police Station [18:09:27] --> 
+[23-06-2020] : MRT Station [08:34:41] --> Ali's Nasi Kandar [13:20:55] --> 
+[24-06-2020] : MRT Station [08:33:31] --> FoodCourt [10:57:03] --> MoonBucks [13:21:18] --> 
+[25-06-2020] : MRT Station [08:33:16] --> Fibre [10:55:54] --> FoodCourt [13:19:11] --> MoonBucks [18:06:26] --> 
+[26-06-2020] : MRT Station [08:32:22] --> Fibre [10:55:13] --> FoodCourt [13:17:16] --> JanBank [18:04:58] --> 
+[27-06-2020] : Moonlings [20:29:38] --> 
+[28-06-2020] : Park [13:19:02] --> 
+[29-06-2020] : MRT Station [08:34:54] --> Police Station [10:59:22] --> Ali's Nasi Kandar [13:23:54] --> 
+[30-06-2020] : MRT Station [08:34:34] --> JanBank [10:58:36] --> Fibre [18:09:20] --> 
+[01-07-2020] : MRT Station [08:34:16] --> FoodCourt [13:23:44] --> FoodCourt [18:12:14] --> 
+[02-07-2020] : MRT Station [08:33:56] --> MoonBucks [13:20:09] --> RHP [18:07:23] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 02681     GENDER: Female     AGE CATEGORY: Adult     ROLE: Engineer
+========================================================================================
+
+[19-06-2020] : KTM Station [05:22:47] --> JanBank [10:11:04] --> FoodCourt [12:35:32] --> 
+[20-06-2020] : Police Station [10:09:07] --> Park [12:33:09] --> Museum [19:43:43] --> 
+[21-06-2020] : Library [12:31:38] --> 
+[22-06-2020] : MRT Station [05:22:15] --> Fibre [10:09:40] --> MoonBucks [12:34:09] --> 
+[23-06-2020] : Police Station [10:09:17] --> 
+[24-06-2020] : MRT Station [05:22:57] --> MoonBucks [12:31:44] --> 
+[25-06-2020] : FoodCourt [10:06:09] --> 
+[26-06-2020] : MRT Station [05:21:35] --> Police Station [10:06:00] --> MoonBucks [12:29:37] --> 
+[27-06-2020] : IKEY [19:41:21] --> 
+[28-06-2020] : Museum [19:39:16] --> 
+[29-06-2020] : MRT Station [05:22:06] --> Pharmarcy [10:09:42] --> 
+[30-06-2020] : KTM Station [05:21:53] --> GayaGrocery [10:09:56] --> 
+[01-07-2020] : MRT Station [05:21:58] --> Ali's Nasi Kandar [12:34:12] --> 
+[02-07-2020] : MRT Station [05:22:28] --> Post Office [10:07:48] --> MoonBucks [12:31:20] --> 

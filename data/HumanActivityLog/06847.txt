@@ -1,0 +1,17 @@
+HUMAN ID: 06847     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Baker
+========================================================================================
+
+[19-06-2020] : Moonlings [08:21:45] --> Ali's Nasi Kandar [13:09:40] --> 
+[20-06-2020] : Moonlings [08:20:39] --> 
+[21-06-2020] : Moonlings [08:20:30] --> Fibre [13:06:26] --> Police Station [17:53:24] --> 
+[22-06-2020] : Moonlings [08:20:48] --> FoodCourt [13:08:27] --> 
+[23-06-2020] : Moonlings [08:20:39] --> 
+[24-06-2020] : Moonlings [08:19:35] --> 
+[25-06-2020] : 
+[26-06-2020] : Moonlings [08:18:22] --> Police Station [13:03:18] --> 
+[27-06-2020] : Moonlings [08:21:12] --> RHP [17:52:17] --> 
+[28-06-2020] : Moonlings [08:19:04] --> MoonBucks [13:05:03] --> GayaGrocery [17:50:32] --> 
+[29-06-2020] : Moonlings [08:20:46] --> 
+[30-06-2020] : Moonlings [08:20:22] --> JanBank [13:08:09] --> SlowMart [17:54:42] --> 
+[01-07-2020] : Moonlings [08:20:10] --> Pharmarcy [13:09:13] --> 
+[02-07-2020] : Moonlings [08:19:24] --> GayaGrocery [13:06:16] --> 

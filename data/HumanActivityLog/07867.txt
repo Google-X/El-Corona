@@ -1,0 +1,17 @@
+HUMAN ID: 07867     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Pharmarcy [08:30:19] --> Fibre [10:54:44] --> MoonBucks [13:18:02] --> SlowMart [18:05:24] --> 
+[20-06-2020] : 
+[21-06-2020] : Ali's Nasi Kandar [18:01:49] --> Library [20:24:57] --> 
+[22-06-2020] : MRT Station [06:05:04] --> Pharmarcy [08:29:26] --> Police Station [10:53:30] --> MoonBucks [13:17:35] --> FoodCourt [18:03:56] --> 
+[23-06-2020] : MRT Station [06:06:09] --> Pharmarcy [08:29:10] --> FoodCourt [13:15:12] --> 
+[24-06-2020] : Pharmarcy [08:27:52] --> 
+[25-06-2020] : Pharmarcy [08:27:20] --> 
+[26-06-2020] : Pharmarcy [08:26:49] --> Library [20:23:12] --> 
+[27-06-2020] : Park [20:24:09] --> 
+[28-06-2020] : Moonlings [20:23:38] --> 
+[29-06-2020] : Pharmarcy [08:29:09] --> FoodCourt [13:18:36] --> Fibre [18:04:47] --> 
+[30-06-2020] : KTM Station [06:05:33] --> Pharmarcy [08:29:12] --> MoonBucks [13:16:33] --> 
+[01-07-2020] : KTM Station [06:05:04] --> Pharmarcy [08:28:42] --> 
+[02-07-2020] : Pharmarcy [08:28:08] --> Fibre [10:50:48] --> MoonBucks [13:14:38] --> 

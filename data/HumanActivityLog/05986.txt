@@ -1,0 +1,17 @@
+HUMAN ID: 05986     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [05:50:40] --> Orange [08:14:39] --> 
+[20-06-2020] : IKEY [12:59:53] --> 
+[21-06-2020] : RHP [10:36:17] --> 
+[22-06-2020] : Orange [08:13:31] --> FoodCourt [13:01:23] --> 
+[23-06-2020] : MRT Station [05:50:19] --> Orange [08:13:36] --> Ali's Nasi Kandar [12:59:33] --> 
+[24-06-2020] : Orange [08:12:26] --> 
+[25-06-2020] : KTM Station [05:49:50] --> Orange [08:11:05] --> FoodCourt [10:33:52] --> MoonBucks [12:57:50] --> 
+[26-06-2020] : Orange [08:11:40] --> MoonBucks [10:33:30] --> 
+[27-06-2020] : IKEY [20:08:15] --> 
+[28-06-2020] : Moonlings [20:07:22] --> 
+[29-06-2020] : KTM Station [05:50:25] --> Orange [08:13:49] --> Ali's Nasi Kandar [10:37:39] --> FoodCourt [13:02:25] --> 
+[30-06-2020] : MRT Station [05:49:51] --> Orange [08:13:23] --> JJPTRv2 [10:37:12] --> FoodCourt [13:00:55] --> 
+[01-07-2020] : MRT Station [05:49:33] --> Orange [08:13:17] --> 
+[02-07-2020] : Orange [08:12:34] --> Ali's Nasi Kandar [10:35:31] --> MoonBucks [12:59:02] --> 

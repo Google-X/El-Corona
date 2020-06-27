@@ -1,0 +1,17 @@
+HUMAN ID: 06448     GENDER: Male     AGE CATEGORY: Adult     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : KTM Station [08:18:25] --> 
+[20-06-2020] : KTM Station [08:17:17] --> JanBank [13:03:50] --> 
+[21-06-2020] : KTM Station [08:17:01] --> Pharmarcy [13:02:54] --> Police Station [17:49:59] --> 
+[22-06-2020] : KTM Station [08:17:25] --> 
+[23-06-2020] : KTM Station [08:17:30] --> JanBank [17:48:59] --> 
+[24-06-2020] : KTM Station [08:16:05] --> JJPTRv2 [13:03:24] --> 
+[25-06-2020] : KTM Station [08:15:16] --> Police Station [17:49:03] --> 
+[26-06-2020] : KTM Station [08:15:22] --> 
+[27-06-2020] : KTM Station [08:17:50] --> 
+[28-06-2020] : KTM Station [08:15:38] --> JanBank [17:47:30] --> 
+[29-06-2020] : KTM Station [08:17:25] --> Police Station [17:52:29] --> 
+[30-06-2020] : SlowMart [13:05:04] --> JJPTRv2 [17:51:12] --> 
+[01-07-2020] : KTM Station [08:17:01] --> Post Office [17:54:14] --> 
+[02-07-2020] : KTM Station [08:16:09] --> 

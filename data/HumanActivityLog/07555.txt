@@ -1,0 +1,17 @@
+HUMAN ID: 07555     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:27:26] --> 
+[20-06-2020] : Post Office [18:00:34] --> 
+[21-06-2020] : Police Station [08:26:04] --> 
+[22-06-2020] : Police Station [08:26:49] --> Ali's Nasi Kandar [13:14:40] --> 
+[23-06-2020] : Police Station [08:26:46] --> FoodCourt [13:12:40] --> 
+[24-06-2020] : Police Station [08:25:28] --> 
+[25-06-2020] : Police Station [08:24:42] --> 
+[26-06-2020] : 
+[27-06-2020] : Police Station [08:26:58] --> Post Office [17:58:01] --> 
+[28-06-2020] : Police Station [08:25:02] --> 
+[29-06-2020] : Police Station [08:26:38] --> 
+[30-06-2020] : Police Station [08:26:23] --> 
+[01-07-2020] : Police Station [08:26:02] --> 
+[02-07-2020] : Police Station [08:25:30] --> 

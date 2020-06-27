@@ -1,0 +1,17 @@
+HUMAN ID: 02938     GENDER: Female     AGE CATEGORY: Adult     ROLE: Accountant
+========================================================================================
+
+[19-06-2020] : MRT Station [05:24:55] --> Ali's Nasi Kandar [10:13:25] --> Ali's Nasi Kandar [12:37:39] --> IKEY [19:46:57] --> 
+[20-06-2020] : 
+[21-06-2020] : Museum [12:33:41] --> Park [19:43:55] --> 
+[22-06-2020] : MRT Station [05:24:24] --> FoodCourt [12:36:29] --> 
+[23-06-2020] : KTM Station [05:24:16] --> SlowMart [10:11:30] --> MoonBucks [12:34:16] --> 
+[24-06-2020] : MRT Station [05:25:03] --> FoodCourt [10:09:45] --> 
+[25-06-2020] : MoonBucks [12:32:30] --> 
+[26-06-2020] : KTM Station [05:23:32] --> GayaGrocery [10:08:02] --> Ali's Nasi Kandar [12:31:43] --> 
+[27-06-2020] : 
+[28-06-2020] : IKEY [19:41:28] --> 
+[29-06-2020] : MRT Station [05:24:12] --> MoonBucks [12:37:18] --> 
+[30-06-2020] : KTM Station [05:24:04] --> FoodCourt [12:35:12] --> 
+[01-07-2020] : MRT Station [05:23:54] --> Pharmarcy [10:11:47] --> Ali's Nasi Kandar [12:36:15] --> 
+[02-07-2020] : FoodCourt [12:33:23] --> 

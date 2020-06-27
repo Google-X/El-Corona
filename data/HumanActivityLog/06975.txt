@@ -1,0 +1,17 @@
+HUMAN ID: 06975     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : 2 Akhir [08:22:44] --> Pharmarcy [10:46:58] --> MoonBucks [13:10:42] --> 
+[20-06-2020] : Park [13:08:22] --> 
+[21-06-2020] : Moonlings [13:07:32] --> 
+[22-06-2020] : MRT Station [05:58:03] --> 2 Akhir [08:22:04] --> 
+[23-06-2020] : 2 Akhir [08:21:43] --> Fibre [10:44:21] --> MoonBucks [13:07:54] --> 
+[24-06-2020] : 2 Akhir [08:20:40] --> Ali's Nasi Kandar [10:44:08] --> 
+[25-06-2020] : MRT Station [05:57:37] --> 2 Akhir [08:19:37] --> Pharmarcy [10:42:28] --> Ali's Nasi Kandar [13:06:03] --> 
+[26-06-2020] : KTM Station [05:57:28] --> 2 Akhir [08:19:32] --> Ali's Nasi Kandar [10:41:53] --> Ali's Nasi Kandar [13:04:14] --> 
+[27-06-2020] : 
+[28-06-2020] : Museum [20:15:47] --> 
+[29-06-2020] : KTM Station [05:58:59] --> 2 Akhir [08:21:52] --> Ali's Nasi Kandar [13:10:42] --> 
+[30-06-2020] : 2 Akhir [08:21:25] --> MoonBucks [13:09:18] --> 
+[01-07-2020] : KTM Station [05:57:28] --> 2 Akhir [08:21:13] --> Ali's Nasi Kandar [10:46:03] --> Ali's Nasi Kandar [13:10:28] --> 
+[02-07-2020] : KTM Station [05:58:38] --> 2 Akhir [08:20:33] --> 

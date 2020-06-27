@@ -1,0 +1,17 @@
+HUMAN ID: 06731     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : KTM Station [05:56:57] --> Kindergarden [08:20:47] --> Moonlings [20:17:36] --> 
+[20-06-2020] : 
+[21-06-2020] : 
+[22-06-2020] : Kindergarden [08:19:55] --> FoodCourt [13:07:28] --> 
+[23-06-2020] : MRT Station [05:56:55] --> Kindergarden [08:19:42] --> MoonBucks [13:05:49] --> 
+[24-06-2020] : Kindergarden [08:18:42] --> FoodCourt [13:06:01] --> 
+[25-06-2020] : Kindergarden [08:17:28] --> Ali's Nasi Kandar [13:04:08] --> 
+[26-06-2020] : Kindergarden [08:17:29] --> 
+[27-06-2020] : 
+[28-06-2020] : 2 Akhir [13:04:00] --> 
+[29-06-2020] : Kindergarden [08:19:50] --> MoonBucks [13:08:41] --> 
+[30-06-2020] : Kindergarden [08:19:27] --> 
+[01-07-2020] : Kindergarden [08:19:17] --> Ali's Nasi Kandar [10:43:42] --> FoodCourt [13:08:11] --> 
+[02-07-2020] : Kindergarden [08:18:39] --> 

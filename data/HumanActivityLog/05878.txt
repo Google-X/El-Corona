@@ -1,0 +1,17 @@
+HUMAN ID: 05878     GENDER: Male     AGE CATEGORY: Adult     ROLE: Engineer
+========================================================================================
+
+[19-06-2020] : KTM Station [08:13:43] --> MoonBucks [13:01:33] --> 
+[20-06-2020] : Library [20:09:44] --> 
+[21-06-2020] : 
+[22-06-2020] : KTM Station [08:12:44] --> 
+[23-06-2020] : KTM Station [08:12:45] --> FoodCourt [12:58:35] --> 
+[24-06-2020] : KTM Station [08:11:31] --> Fibre [10:34:42] --> MoonBucks [12:58:24] --> 
+[25-06-2020] : KTM Station [08:10:13] --> MoonBucks [12:56:55] --> 
+[26-06-2020] : KTM Station [08:10:49] --> FoodCourt [10:32:30] --> FoodCourt [12:55:36] --> 
+[27-06-2020] : IKEY [20:07:23] --> 
+[28-06-2020] : RHP [10:34:06] --> 
+[29-06-2020] : KTM Station [08:12:57] --> FoodCourt [10:36:40] --> MoonBucks [13:01:33] --> 
+[30-06-2020] : KTM Station [08:12:33] --> FoodCourt [10:36:18] --> Ali's Nasi Kandar [12:59:53] --> 
+[01-07-2020] : KTM Station [08:12:26] --> Ali's Nasi Kandar [13:01:02] --> 
+[02-07-2020] : KTM Station [08:11:30] --> Police Station [10:34:43] --> 

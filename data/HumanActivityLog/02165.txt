@@ -1,0 +1,17 @@
+HUMAN ID: 02165     GENDER: Male     AGE CATEGORY: Adult     ROLE: Accountant
+========================================================================================
+
+[19-06-2020] : KTM Station [05:18:24] --> Ali's Nasi Kandar [12:31:21] --> 
+[20-06-2020] : 
+[21-06-2020] : 
+[22-06-2020] : KTM Station [05:18:04] --> MoonBucks [12:29:51] --> 
+[23-06-2020] : MoonBucks [12:27:51] --> 
+[24-06-2020] : KTM Station [05:18:28] --> GayaGrocery [10:03:20] --> 
+[25-06-2020] : FoodCourt [12:25:58] --> 
+[26-06-2020] : Post Office [10:01:33] --> 2 Akhir [19:34:36] --> 
+[27-06-2020] : Moonlings [12:28:25] --> 
+[28-06-2020] : Library [12:26:32] --> IKEY [19:34:48] --> 
+[29-06-2020] : Ali's Nasi Kandar [10:05:28] --> MoonBucks [12:30:31] --> 
+[30-06-2020] : KTM Station [05:17:41] --> FoodCourt [10:05:33] --> 
+[01-07-2020] : SlowMart [10:05:09] --> Ali's Nasi Kandar [12:29:51] --> 
+[02-07-2020] : MRT Station [05:18:18] --> JanBank [10:03:27] --> Ali's Nasi Kandar [12:26:45] --> 

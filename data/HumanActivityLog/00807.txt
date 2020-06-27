@@ -1,0 +1,17 @@
+HUMAN ID: 00807     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [05:06:53] --> Petrocad [09:55:23] --> Ali's Nasi Kandar [12:19:36] --> IKEY [19:29:30] --> 
+[20-06-2020] : Moonlings [12:17:44] --> 
+[21-06-2020] : Museum [19:26:16] --> 
+[22-06-2020] : Petrocad [09:54:08] --> 
+[23-06-2020] : MRT Station [05:06:34] --> Petrocad [09:53:21] --> Ali's Nasi Kandar [12:16:36] --> 
+[24-06-2020] : MRT Station [05:07:01] --> Petrocad [09:51:44] --> 
+[25-06-2020] : KTM Station [05:06:24] --> Petrocad [09:51:45] --> FoodCourt [12:14:32] --> 
+[26-06-2020] : KTM Station [05:06:37] --> Petrocad [09:50:49] --> FoodCourt [12:14:27] --> Moonlings [21:47:24] --> 
+[27-06-2020] : Museum [19:25:42] --> 
+[28-06-2020] : Museum [19:23:46] --> 
+[29-06-2020] : Petrocad [09:53:27] --> 
+[30-06-2020] : Petrocad [09:54:05] --> 
+[01-07-2020] : KTM Station [05:06:46] --> Petrocad [09:53:24] --> FoodCourt [12:17:54] --> 
+[02-07-2020] : Petrocad [09:52:21] --> MoonBucks [12:15:26] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 07054     GENDER: Female     AGE CATEGORY: Adult     ROLE: Baker
+========================================================================================
+
+[19-06-2020] : MoonBucks [08:23:24] --> Post Office [13:11:22] --> Post Office [17:58:49] --> 
+[20-06-2020] : MoonBucks [08:22:15] --> Pharmarcy [13:09:09] --> 
+[21-06-2020] : MoonBucks [08:21:59] --> Ali's Nasi Kandar [17:55:10] --> 
+[22-06-2020] : MoonBucks [08:22:46] --> GayaGrocery [13:10:23] --> Ali's Nasi Kandar [17:57:23] --> 
+[23-06-2020] : MoonBucks [08:22:25] --> 
+[24-06-2020] : MoonBucks [08:21:15] --> JJPTRv2 [13:08:28] --> 
+[25-06-2020] : Pharmarcy [13:06:37] --> 
+[26-06-2020] : MoonBucks [08:20:16] --> 
+[27-06-2020] : MoonBucks [08:22:48] --> 
+[28-06-2020] : MoonBucks [08:20:46] --> 
+[29-06-2020] : MoonBucks [08:22:26] --> MoonBucks [17:57:22] --> 
+[30-06-2020] : MoonBucks [08:22:11] --> JJPTRv2 [13:09:52] --> 
+[01-07-2020] : MoonBucks [08:21:49] --> 
+[02-07-2020] : MoonBucks [08:21:14] --> GayaGrocery [17:55:20] --> 

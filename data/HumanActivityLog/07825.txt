@@ -1,0 +1,17 @@
+HUMAN ID: 07825     GENDER: Male     AGE CATEGORY: Adult     ROLE: Waiter
+========================================================================================
+
+[19-06-2020] : KTM Station [06:05:56] --> Moonlings [08:29:52] --> FoodCourt [13:17:42] --> 
+[20-06-2020] : Pharmarcy [13:15:42] --> 
+[21-06-2020] : Moonlings [08:28:12] --> 
+[22-06-2020] : 
+[23-06-2020] : KTM Station [06:05:51] --> Moonlings [08:28:53] --> JanBank [13:14:57] --> 
+[24-06-2020] : MRT Station [06:05:09] --> Moonlings [08:27:33] --> JanBank [13:15:33] --> 
+[25-06-2020] : 
+[26-06-2020] : KTM Station [06:04:29] --> Moonlings [08:26:32] --> Police Station [17:59:00] --> 
+[27-06-2020] : Moonlings [08:29:19] --> 
+[28-06-2020] : Moonlings [08:27:33] --> GayaGrocery [13:13:11] --> 
+[29-06-2020] : KTM Station [06:05:49] --> Moonlings [08:28:51] --> 
+[30-06-2020] : Moonlings [08:28:50] --> 
+[01-07-2020] : Moonlings [08:28:16] --> Police Station [13:17:50] --> 
+[02-07-2020] : KTM Station [06:05:35] --> Moonlings [08:27:48] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 06785     GENDER: Male     AGE CATEGORY: Adult     ROLE: Firefighter
+========================================================================================
+
+[19-06-2020] : Fire Station [08:21:13] --> SlowMart [13:09:08] --> 
+[20-06-2020] : Fire Station [08:20:06] --> 
+[21-06-2020] : Fire Station [08:20:02] --> 
+[22-06-2020] : Fire Station [08:20:19] --> Fibre [13:07:55] --> 
+[23-06-2020] : Fire Station [08:20:06] --> 
+[24-06-2020] : Fire Station [08:19:02] --> 
+[25-06-2020] : Fire Station [08:17:54] --> 
+[26-06-2020] : Fire Station [08:17:51] --> 
+[27-06-2020] : 
+[28-06-2020] : Fire Station [08:18:38] --> 
+[29-06-2020] : Fire Station [08:20:20] --> Police Station [13:09:06] --> 
+[30-06-2020] : Fire Station [08:19:51] --> Ali's Nasi Kandar [13:07:42] --> 
+[01-07-2020] : Fire Station [08:19:41] --> Fibre [13:08:39] --> 
+[02-07-2020] : Fire Station [08:19:02] --> GayaGrocery [13:05:44] --> 

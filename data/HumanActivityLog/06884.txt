@@ -1,0 +1,17 @@
+HUMAN ID: 06884     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:22:03] --> 
+[20-06-2020] : Police Station [08:20:57] --> 
+[21-06-2020] : 
+[22-06-2020] : 
+[23-06-2020] : Police Station [08:21:00] --> 
+[24-06-2020] : 
+[25-06-2020] : Police Station [08:18:50] --> Pharmarcy [13:05:17] --> 
+[26-06-2020] : Police Station [08:18:46] --> 
+[27-06-2020] : Police Station [08:21:24] --> 
+[28-06-2020] : Police Station [08:19:23] --> 
+[29-06-2020] : Police Station [08:21:06] --> RHP [13:10:02] --> 
+[30-06-2020] : Police Station [08:20:43] --> 
+[01-07-2020] : Police Station [08:20:29] --> Post Office [13:09:32] --> 
+[02-07-2020] : Police Station [08:19:41] --> 

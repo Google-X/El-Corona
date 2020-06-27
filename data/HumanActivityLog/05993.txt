@@ -1,0 +1,17 @@
+HUMAN ID: 05993     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : 
+[20-06-2020] : Police Station [08:13:52] --> GayaGrocery [17:47:46] --> 
+[21-06-2020] : Police Station [08:13:06] --> 
+[22-06-2020] : Police Station [08:13:37] --> RHP [13:01:28] --> 
+[23-06-2020] : Police Station [08:13:40] --> 
+[24-06-2020] : Police Station [08:12:27] --> 
+[25-06-2020] : 
+[26-06-2020] : Police Station [08:11:44] --> 
+[27-06-2020] : Police Station [08:14:13] --> GayaGrocery [17:45:15] --> 
+[28-06-2020] : Police Station [08:11:49] --> 
+[29-06-2020] : Police Station [08:13:54] --> 
+[30-06-2020] : Police Station [08:13:27] --> 
+[01-07-2020] : Police Station [08:13:21] --> 
+[02-07-2020] : Police Station [08:12:35] --> 

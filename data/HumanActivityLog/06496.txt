@@ -1,0 +1,17 @@
+HUMAN ID: 06496     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Pharmarcy [08:18:46] --> FoodCourt [13:06:41] --> Library [20:15:42] --> 
+[20-06-2020] : Pharmarcy [10:41:22] --> 
+[21-06-2020] : Library [20:12:55] --> 
+[22-06-2020] : MRT Station [05:53:50] --> Pharmarcy [08:17:52] --> 
+[23-06-2020] : MRT Station [05:54:55] --> Pharmarcy [08:17:56] --> Police Station [10:40:31] --> 
+[24-06-2020] : KTM Station [05:54:19] --> Pharmarcy [08:16:28] --> Ali's Nasi Kandar [13:03:47] --> 
+[25-06-2020] : Pharmarcy [08:15:35] --> Post Office [10:38:32] --> 
+[26-06-2020] : MRT Station [05:53:15] --> Pharmarcy [08:15:45] --> Pharmarcy [10:37:37] --> Ali's Nasi Kandar [13:00:25] --> IKEY [20:11:16] --> 
+[27-06-2020] : Library [20:12:32] --> 
+[28-06-2020] : FoodCourt [10:39:11] --> 
+[29-06-2020] : KTM Station [05:54:53] --> Pharmarcy [08:17:48] --> Ali's Nasi Kandar [13:06:37] --> 
+[30-06-2020] : Pharmarcy [08:17:26] --> 
+[01-07-2020] : Pharmarcy [08:17:23] --> FoodCourt [13:06:06] --> 
+[02-07-2020] : Pharmarcy [08:16:35] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 05612     GENDER: Male     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [08:11:24] --> JanBank [17:46:35] --> 
+[20-06-2020] : Ali's Nasi Kandar [08:10:49] --> GayaGrocery [17:44:45] --> 
+[21-06-2020] : Police Station [17:43:11] --> 
+[22-06-2020] : Ali's Nasi Kandar [08:10:37] --> 
+[23-06-2020] : Ali's Nasi Kandar [08:10:42] --> 
+[24-06-2020] : 
+[25-06-2020] : Ali's Nasi Kandar [08:08:09] --> JJPTRv2 [17:42:10] --> 
+[26-06-2020] : Ali's Nasi Kandar [08:08:44] --> 
+[27-06-2020] : Ali's Nasi Kandar [08:10:58] --> Fibre [17:42:14] --> 
+[28-06-2020] : 
+[29-06-2020] : Ali's Nasi Kandar [08:10:57] --> 
+[30-06-2020] : Ali's Nasi Kandar [08:10:22] --> Fibre [17:43:50] --> 
+[01-07-2020] : Ali's Nasi Kandar [08:09:53] --> 
+[02-07-2020] : Ali's Nasi Kandar [08:09:14] --> JanBank [17:43:26] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 08794     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [06:14:02] --> Secondary [08:38:13] --> FoodCourt [13:25:46] --> 
+[20-06-2020] : IKEY [20:34:18] --> 
+[21-06-2020] : 
+[22-06-2020] : MRT Station [06:12:42] --> Secondary [08:37:14] --> 
+[23-06-2020] : Secondary [08:36:45] --> Ali's Nasi Kandar [13:22:54] --> SlowMart [18:08:45] --> 
+[24-06-2020] : Secondary [08:35:21] --> Police Station [10:59:10] --> Ali's Nasi Kandar [13:23:19] --> 
+[25-06-2020] : Secondary [08:35:20] --> MoonBucks [13:21:19] --> 
+[26-06-2020] : Secondary [08:34:14] --> Post Office [10:57:21] --> Ali's Nasi Kandar [13:19:24] --> JanBank [18:07:05] --> Museum [20:30:37] --> 
+[27-06-2020] : Museum [20:31:43] --> 
+[28-06-2020] : 
+[29-06-2020] : MRT Station [06:14:00] --> Secondary [08:36:57] --> Ali's Nasi Kandar [13:25:59] --> 
+[30-06-2020] : Secondary [08:36:42] --> Fibre [18:11:24] --> 
+[01-07-2020] : KTM Station [06:12:59] --> Secondary [08:36:18] --> 
+[02-07-2020] : KTM Station [06:13:30] --> Secondary [08:35:54] --> Post Office [10:58:41] --> MoonBucks [13:22:21] --> Post Office [18:09:34] --> 

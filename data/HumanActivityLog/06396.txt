@@ -1,0 +1,17 @@
+HUMAN ID: 06396     GENDER: Male     AGE CATEGORY: Adult     ROLE: Firefighter
+========================================================================================
+
+[19-06-2020] : Fire Station [08:18:01] --> Ali's Nasi Kandar [13:05:52] --> 
+[20-06-2020] : Ali's Nasi Kandar [17:51:06] --> 
+[21-06-2020] : Fire Station [08:16:33] --> MoonBucks [17:49:29] --> 
+[22-06-2020] : Fire Station [08:16:59] --> Post Office [13:04:47] --> 
+[23-06-2020] : Fire Station [08:17:04] --> 
+[24-06-2020] : Fire Station [08:15:37] --> Police Station [13:03:01] --> 
+[25-06-2020] : Fire Station [08:14:51] --> Post Office [13:01:26] --> 
+[26-06-2020] : Fire Station [08:14:55] --> 
+[27-06-2020] : Fire Station [08:17:22] --> 
+[28-06-2020] : Fire Station [08:15:09] --> 
+[29-06-2020] : Fire Station [08:16:59] --> RHP [13:05:51] --> 
+[30-06-2020] : Fire Station [08:16:42] --> 
+[01-07-2020] : Fire Station [08:16:40] --> 
+[02-07-2020] : Fire Station [08:15:37] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 07906     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [06:06:38] --> Petrocad [08:30:35] --> 
+[20-06-2020] : RHP [10:52:48] --> Fibre [18:03:40] --> 
+[21-06-2020] : MoonBucks [18:02:01] --> IKEY [20:25:18] --> 
+[22-06-2020] : KTM Station [06:05:21] --> Petrocad [08:29:52] --> 
+[23-06-2020] : Petrocad [08:29:36] --> JanBank [10:51:59] --> Post Office [18:01:16] --> 
+[24-06-2020] : MRT Station [06:05:49] --> Petrocad [08:28:17] --> 
+[25-06-2020] : Petrocad [08:27:37] --> RHP [10:50:33] --> Ali's Nasi Kandar [13:13:58] --> GayaGrocery [18:00:51] --> 
+[26-06-2020] : Petrocad [08:27:08] --> MoonBucks [10:49:51] --> MoonBucks [13:11:36] --> Library [20:23:34] --> 
+[27-06-2020] : JJPTRv2 [10:53:42] --> Moonlings [20:24:32] --> 
+[28-06-2020] : IKEY [13:13:46] --> Park [20:23:58] --> 
+[29-06-2020] : MRT Station [06:06:34] --> Petrocad [08:29:33] --> MoonBucks [13:18:52] --> GayaGrocery [18:05:10] --> 
+[30-06-2020] : KTM Station [06:05:56] --> Petrocad [08:29:29] --> FoodCourt [13:16:53] --> GayaGrocery [18:03:57] --> 
+[01-07-2020] : Petrocad [08:28:56] --> Ali's Nasi Kandar [13:18:35] --> 
+[02-07-2020] : MRT Station [06:06:15] --> Petrocad [08:28:28] --> JJPTRv2 [10:51:05] --> GayaGrocery [18:02:19] --> 

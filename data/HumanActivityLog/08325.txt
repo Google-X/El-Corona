@@ -1,0 +1,17 @@
+HUMAN ID: 08325     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : AccSol [08:34:26] --> FoodCourt [13:21:41] --> GayaGrocery [18:08:58] --> 
+[20-06-2020] : Library [13:20:04] --> 
+[21-06-2020] : 
+[22-06-2020] : KTM Station [06:08:48] --> AccSol [08:33:27] --> FoodCourt [13:21:20] --> SlowMart [18:07:34] --> 
+[23-06-2020] : KTM Station [06:10:09] --> AccSol [08:32:56] --> GayaGrocery [10:55:40] --> FoodCourt [13:19:13] --> 
+[24-06-2020] : KTM Station [06:09:11] --> AccSol [08:31:46] --> FoodCourt [13:19:24] --> 
+[25-06-2020] : AccSol [08:31:28] --> Post Office [10:54:01] --> Ali's Nasi Kandar [13:17:17] --> 
+[26-06-2020] : AccSol [08:30:29] --> 
+[27-06-2020] : 2 Akhir [20:27:53] --> 
+[28-06-2020] : RHP [10:54:01] --> Park [13:17:17] --> Moonlings [20:27:22] --> 
+[29-06-2020] : MRT Station [06:10:06] --> AccSol [08:32:59] --> FoodCourt [13:22:08] --> 
+[30-06-2020] : AccSol [08:32:43] --> Ali's Nasi Kandar [13:20:17] --> 
+[01-07-2020] : KTM Station [06:09:07] --> AccSol [08:32:14] --> FoodCourt [13:22:02] --> Ali's Nasi Kandar [18:10:19] --> 
+[02-07-2020] : KTM Station [06:09:44] --> AccSol [08:31:53] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 06058     GENDER: Female     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [08:15:12] --> 
+[20-06-2020] : Ali's Nasi Kandar [08:14:17] --> Fibre [13:00:32] --> 
+[21-06-2020] : Ali's Nasi Kandar [08:13:39] --> Ali's Nasi Kandar [17:46:32] --> 
+[22-06-2020] : Ali's Nasi Kandar [08:14:11] --> Post Office [17:49:16] --> 
+[23-06-2020] : RHP [13:00:12] --> GayaGrocery [17:45:38] --> 
+[24-06-2020] : Ali's Nasi Kandar [08:12:58] --> 
+[25-06-2020] : Ali's Nasi Kandar [08:11:40] --> JanBank [17:45:45] --> 
+[26-06-2020] : Ali's Nasi Kandar [08:12:18] --> 
+[27-06-2020] : Ali's Nasi Kandar [08:14:46] --> 
+[28-06-2020] : Ali's Nasi Kandar [08:12:18] --> JanBank [17:44:19] --> 
+[29-06-2020] : Ali's Nasi Kandar [08:14:21] --> RHP [17:49:24] --> 
+[30-06-2020] : Ali's Nasi Kandar [08:14:02] --> 
+[01-07-2020] : Ali's Nasi Kandar [08:13:59] --> 
+[02-07-2020] : Ali's Nasi Kandar [08:13:07] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 06034     GENDER: Male     AGE CATEGORY: Adult     ROLE: Accountant
+========================================================================================
+
+[19-06-2020] : JanBank [08:15:01] --> Ali's Nasi Kandar [10:38:56] --> MoonBucks [13:02:52] --> Moonlings [20:11:41] --> 
+[20-06-2020] : Library [20:11:03] --> 
+[21-06-2020] : JJPTRv2 [10:36:47] --> Moonlings [12:59:43] --> Museum [20:08:52] --> 
+[22-06-2020] : JanBank [08:13:58] --> Fibre [10:37:31] --> MoonBucks [13:01:47] --> 
+[23-06-2020] : JanBank [08:14:01] --> MoonBucks [12:59:57] --> 
+[24-06-2020] : MRT Station [05:50:23] --> JanBank [08:12:45] --> FoodCourt [12:59:54] --> 
+[25-06-2020] : JanBank [08:11:29] --> 
+[26-06-2020] : JanBank [08:12:07] --> Ali's Nasi Kandar [12:56:47] --> 
+[27-06-2020] : Library [20:08:45] --> 
+[28-06-2020] : 2 Akhir [20:07:47] --> 
+[29-06-2020] : MRT Station [05:50:45] --> JanBank [08:14:11] --> 
+[30-06-2020] : MRT Station [05:50:16] --> JanBank [08:13:51] --> JanBank [10:37:36] --> FoodCourt [13:01:17] --> 
+[01-07-2020] : MRT Station [05:49:51] --> JanBank [08:13:44] --> GayaGrocery [10:37:33] --> 
+[02-07-2020] : MRT Station [05:50:38] --> JanBank [08:12:54] --> FoodCourt [12:59:26] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 06806     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [05:57:33] --> AccSol [08:21:24] --> Moonlings [20:18:19] --> 
+[20-06-2020] : 
+[21-06-2020] : Moonlings [13:06:05] --> 
+[22-06-2020] : KTM Station [05:56:29] --> AccSol [08:20:31] --> MoonBucks [13:08:10] --> 
+[23-06-2020] : KTM Station [05:57:32] --> AccSol [08:20:17] --> 
+[24-06-2020] : AccSol [08:19:13] --> 
+[25-06-2020] : KTM Station [05:56:07] --> AccSol [08:18:06] --> Ali's Nasi Kandar [13:04:41] --> 
+[26-06-2020] : MRT Station [05:55:58] --> AccSol [08:18:00] --> Ali's Nasi Kandar [13:03:02] --> Park [20:13:57] --> 
+[27-06-2020] : Park [20:15:19] --> 
+[28-06-2020] : Moonlings [20:14:14] --> 
+[29-06-2020] : AccSol [08:20:29] --> Ali's Nasi Kandar [10:44:45] --> 
+[30-06-2020] : MRT Station [05:56:33] --> AccSol [08:20:06] --> Police Station [10:44:09] --> FoodCourt [13:07:50] --> 
+[01-07-2020] : KTM Station [05:56:02] --> AccSol [08:19:50] --> FoodCourt [10:44:22] --> Ali's Nasi Kandar [13:08:51] --> 
+[02-07-2020] : MRT Station [05:57:06] --> AccSol [08:19:11] --> FoodCourt [10:41:58] --> Ali's Nasi Kandar [13:05:56] --> 

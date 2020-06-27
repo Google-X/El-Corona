@@ -1,0 +1,17 @@
+HUMAN ID: 06852     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:21:47] --> 
+[20-06-2020] : Police Station [08:20:42] --> 
+[21-06-2020] : Police Station [08:20:32] --> 
+[22-06-2020] : Police Station [08:20:51] --> 
+[23-06-2020] : Police Station [08:20:42] --> 
+[24-06-2020] : Police Station [08:19:38] --> FoodCourt [13:06:53] --> 
+[25-06-2020] : Police Station [08:18:32] --> 
+[26-06-2020] : 
+[27-06-2020] : Police Station [08:21:13] --> Ali's Nasi Kandar [17:52:20] --> 
+[28-06-2020] : Police Station [08:19:06] --> JanBank [17:50:35] --> 
+[29-06-2020] : Police Station [08:20:49] --> JanBank [13:09:45] --> 
+[30-06-2020] : Police Station [08:20:26] --> 
+[01-07-2020] : Police Station [08:20:12] --> Police Station [13:09:15] --> 
+[02-07-2020] : Police Station [08:19:27] --> 

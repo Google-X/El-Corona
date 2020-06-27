@@ -1,0 +1,17 @@
+HUMAN ID: 06932     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [08:22:25] --> MoonBucks [13:10:19] --> 
+[20-06-2020] : 
+[21-06-2020] : 2 Akhir [13:07:14] --> 
+[22-06-2020] : MRT Station [08:21:43] --> GayaGrocery [10:45:24] --> Ali's Nasi Kandar [13:09:17] --> 
+[23-06-2020] : MRT Station [08:21:20] --> MoonBucks [13:07:28] --> 
+[24-06-2020] : MRT Station [08:20:16] --> JanBank [10:43:45] --> 
+[25-06-2020] : MRT Station [08:19:16] --> 
+[26-06-2020] : MRT Station [08:19:12] --> MoonBucks [13:04:00] --> Library [20:15:10] --> 
+[27-06-2020] : RHP [10:45:51] --> Library [13:06:53] --> Library [20:16:18] --> 
+[28-06-2020] : 
+[29-06-2020] : MRT Station [08:21:29] --> 
+[30-06-2020] : MRT Station [08:21:07] --> SlowMart [10:45:09] --> MoonBucks [13:08:56] --> 
+[01-07-2020] : MRT Station [08:20:50] --> GayaGrocery [10:45:38] --> Ali's Nasi Kandar [13:10:03] --> 
+[02-07-2020] : MRT Station [08:20:06] --> SlowMart [10:43:04] --> FoodCourt [13:06:56] --> 

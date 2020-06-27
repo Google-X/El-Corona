@@ -1,0 +1,17 @@
+HUMAN ID: 09011     GENDER: Female     AGE CATEGORY: Adult     ROLE: Accountant
+========================================================================================
+
+[19-06-2020] : KTM Station [06:15:57] --> JanBank [08:40:14] --> Pharmarcy [18:14:31] --> 
+[20-06-2020] : 2 Akhir [20:35:55] --> 
+[21-06-2020] : 
+[22-06-2020] : JanBank [08:39:06] --> Ali's Nasi Kandar [13:27:21] --> 
+[23-06-2020] : JanBank [08:38:33] --> MoonBucks [13:24:45] --> 
+[24-06-2020] : JanBank [08:36:55] --> Ali's Nasi Kandar [13:25:10] --> 
+[25-06-2020] : JanBank [08:36:56] --> MoonBucks [13:22:57] --> JanBank [18:10:27] --> 
+[26-06-2020] : KTM Station [06:14:11] --> JanBank [08:35:56] --> Ali's Nasi Kandar [13:21:06] --> 2 Akhir [20:32:27] --> 
+[27-06-2020] : 
+[28-06-2020] : Library [20:33:12] --> 
+[29-06-2020] : MRT Station [06:16:00] --> JanBank [08:38:43] --> Ali's Nasi Kandar [13:27:44] --> JanBank [18:14:26] --> 
+[30-06-2020] : MRT Station [06:15:27] --> JanBank [08:38:33] --> Ali's Nasi Kandar [13:26:03] --> Post Office [18:13:16] --> 
+[01-07-2020] : JanBank [08:38:11] --> FoodCourt [13:27:33] --> 
+[02-07-2020] : JanBank [08:37:36] --> Ali's Nasi Kandar [13:24:20] --> 

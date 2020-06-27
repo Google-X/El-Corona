@@ -1,0 +1,17 @@
+HUMAN ID: 04808     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [08:04:37] --> GayaGrocery [10:28:53] --> MoonBucks [12:52:52] --> IKEY [20:01:49] --> 
+[20-06-2020] : 2 Akhir [20:01:13] --> 
+[21-06-2020] : 
+[22-06-2020] : MRT Station [08:03:43] --> Fibre [10:27:32] --> FoodCourt [12:51:37] --> 
+[23-06-2020] : MRT Station [08:03:50] --> GayaGrocery [10:27:04] --> Ali's Nasi Kandar [12:49:46] --> 
+[24-06-2020] : MRT Station [08:02:23] --> Ali's Nasi Kandar [12:49:04] --> 
+[25-06-2020] : MRT Station [08:01:45] --> FoodCourt [12:47:58] --> 
+[26-06-2020] : MRT Station [08:01:49] --> FoodCourt [12:46:41] --> IKEY [19:56:52] --> 
+[27-06-2020] : JanBank [10:27:56] --> Museum [12:49:44] --> Moonlings [19:58:36] --> 
+[28-06-2020] : RHP [10:25:11] --> 
+[29-06-2020] : MRT Station [08:04:29] --> FoodCourt [12:52:58] --> 
+[30-06-2020] : MRT Station [08:03:48] --> GayaGrocery [10:27:41] --> MoonBucks [12:50:40] --> 
+[01-07-2020] : MRT Station [08:02:57] --> 
+[02-07-2020] : MRT Station [08:02:15] --> Police Station [10:25:42] --> FoodCourt [12:49:07] --> 

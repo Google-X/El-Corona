@@ -1,0 +1,17 @@
+HUMAN ID: 06073     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Engineer
+========================================================================================
+
+[19-06-2020] : KTM Station [08:15:19] --> MoonBucks [10:39:18] --> Ali's Nasi Kandar [13:03:11] --> 
+[20-06-2020] : Library [20:11:22] --> 
+[21-06-2020] : Pharmarcy [10:37:04] --> Moonlings [12:59:55] --> Museum [20:09:18] --> 
+[22-06-2020] : KTM Station [08:14:21] --> 
+[23-06-2020] : KTM Station [08:14:17] --> MoonBucks [13:00:17] --> 
+[24-06-2020] : KTM Station [08:13:08] --> Post Office [10:36:24] --> Ali's Nasi Kandar [13:00:16] --> 
+[25-06-2020] : KTM Station [08:11:47] --> GayaGrocery [10:34:42] --> FoodCourt [12:58:35] --> 
+[26-06-2020] : KTM Station [08:12:24] --> Ali's Nasi Kandar [12:57:04] --> Park [20:07:44] --> 
+[27-06-2020] : 
+[28-06-2020] : Library [12:58:30] --> Moonlings [20:08:08] --> 
+[29-06-2020] : KTM Station [08:14:28] --> Police Station [10:38:28] --> MoonBucks [13:03:07] --> 
+[30-06-2020] : KTM Station [08:14:11] --> Ali's Nasi Kandar [13:01:42] --> 
+[01-07-2020] : KTM Station [08:14:05] --> 
+[02-07-2020] : KTM Station [08:13:14] --> 

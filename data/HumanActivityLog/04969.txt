@@ -1,0 +1,17 @@
+HUMAN ID: 04969     GENDER: Female     AGE CATEGORY: Adult     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [08:06:01] --> 
+[20-06-2020] : Ali's Nasi Kandar [08:05:48] --> 
+[21-06-2020] : Ali's Nasi Kandar [08:04:44] --> 
+[22-06-2020] : Ali's Nasi Kandar [08:05:09] --> Police Station [17:40:23] --> 
+[23-06-2020] : Ali's Nasi Kandar [08:05:12] --> Ali's Nasi Kandar [17:36:30] --> 
+[24-06-2020] : Ali's Nasi Kandar [08:03:38] --> 
+[25-06-2020] : Ali's Nasi Kandar [08:03:00] --> 
+[26-06-2020] : Ali's Nasi Kandar [08:03:11] --> Fibre [17:35:55] --> 
+[27-06-2020] : Ali's Nasi Kandar [08:05:49] --> FoodCourt [17:36:47] --> 
+[28-06-2020] : FoodCourt [17:34:59] --> 
+[29-06-2020] : Ali's Nasi Kandar [08:05:47] --> 
+[30-06-2020] : Ali's Nasi Kandar [08:05:17] --> 
+[01-07-2020] : Ali's Nasi Kandar [08:04:12] --> 
+[02-07-2020] : Ali's Nasi Kandar [08:03:47] --> 

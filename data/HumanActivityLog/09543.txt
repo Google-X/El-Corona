@@ -1,0 +1,17 @@
+HUMAN ID: 09543     GENDER: Female     AGE CATEGORY: Adult     ROLE: Teacher
+========================================================================================
+
+[19-06-2020] : Kindergarden [06:20:41] --> 
+[20-06-2020] : Post Office [11:06:52] --> Park [18:17:03] --> 
+[21-06-2020] : Museum [18:15:44] --> 
+[22-06-2020] : Kindergarden [06:19:18] --> 
+[23-06-2020] : Kindergarden [06:20:04] --> 
+[24-06-2020] : Kindergarden [06:18:51] --> 
+[25-06-2020] : Kindergarden [06:19:06] --> Police Station [11:04:17] --> 
+[26-06-2020] : Kindergarden [06:18:24] --> FoodCourt [11:03:46] --> 
+[27-06-2020] : Moonlings [18:14:22] --> 
+[28-06-2020] : SlowMart [11:04:12] --> Library [18:13:15] --> 
+[29-06-2020] : Kindergarden [06:20:43] --> Fibre [11:08:07] --> 
+[30-06-2020] : Kindergarden [06:20:05] --> 
+[01-07-2020] : Kindergarden [06:19:30] --> Ali's Nasi Kandar [11:07:24] --> 
+[02-07-2020] : Kindergarden [06:19:35] --> SlowMart [11:04:53] --> 

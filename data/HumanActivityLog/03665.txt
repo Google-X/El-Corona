@@ -1,0 +1,17 @@
+HUMAN ID: 03665     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Post Office [10:19:27] --> Ali's Nasi Kandar [12:43:31] --> 2 Akhir [19:52:46] --> 
+[20-06-2020] : MoonBucks [10:17:11] --> Library [12:41:16] --> 
+[21-06-2020] : 2 Akhir [19:49:48] --> 
+[22-06-2020] : Ali's Nasi Kandar [12:42:32] --> 
+[23-06-2020] : KTM Station [05:30:42] --> 
+[24-06-2020] : MRT Station [05:30:36] --> Post Office [10:15:32] --> Ali's Nasi Kandar [12:39:43] --> 
+[25-06-2020] : KTM Station [05:29:54] --> JanBank [10:14:05] --> 
+[26-06-2020] : MRT Station [05:29:04] --> FoodCourt [12:37:39] --> 
+[27-06-2020] : Library [19:49:17] --> 
+[28-06-2020] : Museum [12:38:32] --> Museum [19:47:41] --> 
+[29-06-2020] : MRT Station [05:30:26] --> Ali's Nasi Kandar [12:43:21] --> 
+[30-06-2020] : MRT Station [05:30:19] --> Fibre [10:18:01] --> MoonBucks [12:41:19] --> 
+[01-07-2020] : KTM Station [05:30:08] --> MoonBucks [12:42:04] --> 
+[02-07-2020] : MoonBucks [12:39:30] --> 

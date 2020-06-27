@@ -1,0 +1,17 @@
+HUMAN ID: 05734     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Secondary [08:12:29] --> FoodCourt [13:00:23] --> 
+[20-06-2020] : 
+[21-06-2020] : Moonlings [20:06:29] --> 
+[22-06-2020] : KTM Station [05:47:17] --> Secondary [08:11:41] --> Ali's Nasi Kandar [12:59:10] --> 
+[23-06-2020] : MRT Station [05:48:09] --> Secondary [08:11:38] --> 
+[24-06-2020] : KTM Station [05:47:48] --> Secondary [08:10:23] --> 
+[25-06-2020] : MRT Station [05:47:49] --> Secondary [08:09:01] --> Ali's Nasi Kandar [12:55:49] --> 
+[26-06-2020] : Secondary [08:09:38] --> Ali's Nasi Kandar [10:31:17] --> Ali's Nasi Kandar [12:54:37] --> 
+[27-06-2020] : 2 Akhir [12:57:07] --> 
+[28-06-2020] : Park [20:05:23] --> 
+[29-06-2020] : KTM Station [05:48:10] --> Secondary [08:11:53] --> Ali's Nasi Kandar [13:00:22] --> 
+[30-06-2020] : KTM Station [05:47:30] --> Secondary [08:11:16] --> Post Office [10:35:12] --> 
+[01-07-2020] : KTM Station [05:47:22] --> Secondary [08:11:08] --> FoodCourt [12:59:50] --> 
+[02-07-2020] : Secondary [08:10:20] --> 

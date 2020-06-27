@@ -1,0 +1,17 @@
+HUMAN ID: 06911     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : 
+[20-06-2020] : MoonBucks [08:21:10] --> Police Station [13:07:44] --> Ali's Nasi Kandar [17:55:16] --> 
+[21-06-2020] : MoonBucks [08:21:01] --> GayaGrocery [17:53:58] --> 
+[22-06-2020] : MoonBucks [08:21:31] --> Post Office [17:56:07] --> 
+[23-06-2020] : MoonBucks [08:21:12] --> Pharmarcy [13:07:17] --> 
+[24-06-2020] : MoonBucks [08:20:06] --> MoonBucks [17:55:06] --> 
+[25-06-2020] : MoonBucks [08:19:04] --> Fibre [17:52:46] --> 
+[26-06-2020] : MoonBucks [08:19:01] --> Pharmarcy [17:51:24] --> 
+[27-06-2020] : MoonBucks [08:21:40] --> Pharmarcy [13:06:43] --> MoonBucks [17:52:52] --> 
+[28-06-2020] : MoonBucks [08:19:38] --> Ali's Nasi Kandar [17:50:55] --> 
+[29-06-2020] : MoonBucks [08:21:19] --> Post Office [17:56:10] --> 
+[30-06-2020] : MoonBucks [08:20:55] --> 
+[01-07-2020] : MoonBucks [08:20:39] --> 
+[02-07-2020] : MoonBucks [08:19:58] --> SlowMart [17:54:13] --> 

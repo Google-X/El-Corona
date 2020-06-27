@@ -1,0 +1,17 @@
+HUMAN ID: 00109     GENDER: Male     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : MRT Station [07:25:16] --> Moonlings [09:49:27] --> 
+[20-06-2020] : Moonlings [09:48:00] --> 
+[21-06-2020] : KTM Station [07:24:09] --> Moonlings [09:46:49] --> 
+[22-06-2020] : MRT Station [07:24:18] --> Moonlings [09:48:14] --> 
+[23-06-2020] : Moonlings [09:47:41] --> 
+[24-06-2020] : MRT Station [07:23:34] --> Moonlings [09:45:52] --> 
+[25-06-2020] : KTM Station [07:23:54] --> Moonlings [09:46:27] --> 
+[26-06-2020] : KTM Station [07:23:13] --> Moonlings [09:45:18] --> 
+[27-06-2020] : Moonlings [09:48:47] --> 
+[28-06-2020] : Moonlings [09:46:40] --> 
+[29-06-2020] : KTM Station [07:25:33] --> 
+[30-06-2020] : KTM Station [07:24:56] --> Moonlings [09:47:58] --> 
+[01-07-2020] : MRT Station [07:24:15] --> Moonlings [09:47:40] --> MoonBucks [17:01:32] --> 
+[02-07-2020] : KTM Station [07:23:57] --> Moonlings [09:46:30] --> 

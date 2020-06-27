@@ -1,0 +1,17 @@
+HUMAN ID: 01263     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [05:10:47] --> Post Office [09:59:11] --> FoodCourt [12:23:37] --> 
+[20-06-2020] : Museum [12:21:23] --> 
+[21-06-2020] : Library [12:19:37] --> 
+[22-06-2020] : KTM Station [05:10:43] --> Post Office [09:58:04] --> MoonBucks [12:21:59] --> 
+[23-06-2020] : Post Office [09:57:11] --> MoonBucks [12:20:23] --> 
+[24-06-2020] : KTM Station [05:10:53] --> Post Office [09:55:31] --> 
+[25-06-2020] : Post Office [09:55:33] --> FoodCourt [12:18:30] --> 
+[26-06-2020] : MRT Station [05:10:13] --> Post Office [09:54:30] --> FoodCourt [12:18:07] --> 
+[27-06-2020] : 
+[28-06-2020] : 
+[29-06-2020] : Post Office [09:57:20] --> Ali's Nasi Kandar [12:22:27] --> 
+[30-06-2020] : Post Office [09:57:46] --> Ali's Nasi Kandar [12:21:21] --> 
+[01-07-2020] : KTM Station [05:10:06] --> Post Office [09:57:40] --> MoonBucks [12:21:55] --> 
+[02-07-2020] : Post Office [09:56:15] --> 

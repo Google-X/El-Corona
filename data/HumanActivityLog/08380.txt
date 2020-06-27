@@ -1,0 +1,17 @@
+HUMAN ID: 08380     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [06:10:33] --> Airport [08:34:55] --> Ali's Nasi Kandar [18:09:27] --> Museum [20:30:57] --> 
+[20-06-2020] : 
+[21-06-2020] : Post Office [10:55:55] --> Museum [20:29:08] --> 
+[22-06-2020] : KTM Station [06:09:18] --> Airport [08:33:57] --> FoodCourt [18:08:03] --> 
+[23-06-2020] : Airport [08:33:17] --> 
+[24-06-2020] : Airport [08:32:14] --> FoodCourt [13:19:52] --> 
+[25-06-2020] : KTM Station [06:09:24] --> Airport [08:31:55] --> MoonBucks [10:54:32] --> MoonBucks [13:17:46] --> Ali's Nasi Kandar [18:04:55] --> 
+[26-06-2020] : Airport [08:30:53] --> SlowMart [10:53:37] --> MoonBucks [13:15:44] --> 
+[27-06-2020] : Post Office [18:04:52] --> 2 Akhir [20:28:18] --> 
+[28-06-2020] : Moonlings [20:27:53] --> 
+[29-06-2020] : Airport [08:33:26] --> MoonBucks [13:22:30] --> 
+[30-06-2020] : Airport [08:33:05] --> JJPTRv2 [10:57:01] --> MoonBucks [13:20:45] --> JanBank [18:07:59] --> 
+[01-07-2020] : Airport [08:32:48] --> 
+[02-07-2020] : MRT Station [06:10:18] --> Airport [08:32:27] --> MoonBucks [13:18:53] --> 

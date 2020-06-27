@@ -1,0 +1,17 @@
+HUMAN ID: 06473     GENDER: Female     AGE CATEGORY: Adult     ROLE: Engineer
+========================================================================================
+
+[19-06-2020] : Airport [08:18:33] --> MoonBucks [13:06:33] --> 
+[20-06-2020] : Library [20:14:46] --> 
+[21-06-2020] : GayaGrocery [10:40:12] --> Moonlings [13:03:11] --> 
+[22-06-2020] : MRT Station [05:53:37] --> Airport [08:17:40] --> FoodCourt [13:05:25] --> 
+[23-06-2020] : Airport [08:17:45] --> 
+[24-06-2020] : Airport [08:16:16] --> MoonBucks [13:03:34] --> 
+[25-06-2020] : Airport [08:15:26] --> Ali's Nasi Kandar [13:02:00] --> 
+[26-06-2020] : KTM Station [05:53:05] --> Airport [08:15:30] --> Ali's Nasi Kandar [13:00:16] --> Museum [20:11:08] --> 
+[27-06-2020] : Library [13:03:10] --> Park [20:12:23] --> 
+[28-06-2020] : 
+[29-06-2020] : KTM Station [05:54:39] --> Airport [08:17:36] --> Ali's Nasi Kandar [13:06:29] --> 
+[30-06-2020] : MRT Station [05:53:47] --> Airport [08:17:14] --> Ali's Nasi Kandar [10:41:25] --> MoonBucks [13:05:16] --> 
+[01-07-2020] : Airport [08:17:11] --> Pharmarcy [10:41:22] --> 
+[02-07-2020] : MRT Station [05:54:25] --> Airport [08:16:23] --> Ali's Nasi Kandar [10:39:17] --> 

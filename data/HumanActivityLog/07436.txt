@@ -1,0 +1,17 @@
+HUMAN ID: 07436     GENDER: Female     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:26:31] --> Fibre [13:14:25] --> 
+[20-06-2020] : Police Station [08:25:17] --> 
+[21-06-2020] : Police Station [08:24:59] --> 
+[22-06-2020] : Police Station [08:25:54] --> GayaGrocery [13:13:43] --> 
+[23-06-2020] : Police Station [08:25:40] --> 
+[24-06-2020] : Police Station [08:24:23] --> 
+[25-06-2020] : Police Station [08:23:36] --> MoonBucks [13:10:05] --> 
+[26-06-2020] : Police Station [08:23:10] --> 
+[27-06-2020] : Police Station [08:26:04] --> 
+[28-06-2020] : SlowMart [17:55:21] --> 
+[29-06-2020] : Police Station [08:25:37] --> 
+[30-06-2020] : Police Station [08:25:33] --> 
+[01-07-2020] : MoonBucks [13:14:26] --> 
+[02-07-2020] : Police Station [08:24:25] --> Police Station [13:11:01] --> 

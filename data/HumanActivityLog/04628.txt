@@ -1,0 +1,17 @@
+HUMAN ID: 04628     GENDER: Male     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : GayaGrocery [08:03:07] --> 
+[20-06-2020] : GayaGrocery [08:02:50] --> 
+[21-06-2020] : GayaGrocery [08:01:50] --> 
+[22-06-2020] : GayaGrocery [08:02:15] --> Police Station [17:37:26] --> 
+[23-06-2020] : GayaGrocery [08:02:21] --> GayaGrocery [17:33:31] --> 
+[24-06-2020] : GayaGrocery [08:00:57] --> 
+[25-06-2020] : GayaGrocery [08:00:15] --> 
+[26-06-2020] : GayaGrocery [08:00:11] --> SlowMart [17:32:59] --> 
+[27-06-2020] : 
+[28-06-2020] : GayaGrocery [08:00:23] --> Fibre [17:32:04] --> 
+[29-06-2020] : GayaGrocery [08:02:56] --> Fibre [17:37:40] --> 
+[30-06-2020] : GayaGrocery [08:02:13] --> 
+[01-07-2020] : GayaGrocery [08:01:19] --> JanBank [17:39:23] --> 
+[02-07-2020] : GayaGrocery [08:00:29] --> Pharmarcy [17:35:00] --> 

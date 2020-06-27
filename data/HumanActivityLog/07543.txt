@@ -1,0 +1,17 @@
+HUMAN ID: 07543     GENDER: Male     AGE CATEGORY: Adult     ROLE: Waiter
+========================================================================================
+
+[19-06-2020] : MRT Station [06:03:38] --> Moonlings [08:27:20] --> 
+[20-06-2020] : KTM Station [06:03:46] --> Moonlings [08:26:11] --> 
+[21-06-2020] : Moonlings [08:25:58] --> 
+[22-06-2020] : KTM Station [06:02:35] --> Moonlings [08:26:43] --> SlowMart [13:14:33] --> 
+[23-06-2020] : KTM Station [06:03:25] --> Moonlings [08:26:38] --> Ali's Nasi Kandar [13:12:35] --> Pharmarcy [17:58:09] --> 
+[24-06-2020] : MRT Station [06:03:01] --> Moonlings [08:25:24] --> 
+[25-06-2020] : KTM Station [06:02:37] --> Moonlings [08:24:35] --> FoodCourt [13:11:00] --> 
+[26-06-2020] : KTM Station [06:02:16] --> Moonlings [08:24:00] --> 
+[27-06-2020] : MRT Station [06:03:37] --> Moonlings [08:26:54] --> Fibre [13:11:52] --> SlowMart [17:57:55] --> 
+[28-06-2020] : KTM Station [06:01:27] --> Moonlings [08:24:57] --> JJPTRv2 [17:56:17] --> 
+[29-06-2020] : KTM Station [06:03:33] --> Moonlings [08:26:30] --> 
+[30-06-2020] : MRT Station [06:02:50] --> Moonlings [08:26:20] --> RHP [13:13:52] --> 
+[01-07-2020] : Moonlings [08:25:55] --> 
+[02-07-2020] : KTM Station [06:03:33] --> Moonlings [08:25:27] --> Ali's Nasi Kandar [13:11:56] --> 

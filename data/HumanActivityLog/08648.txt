@@ -1,0 +1,17 @@
+HUMAN ID: 08648     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [08:37:05] --> FoodCourt [13:24:18] --> Ali's Nasi Kandar [18:11:29] --> Museum [20:33:22] --> 
+[20-06-2020] : 
+[21-06-2020] : Moonlings [13:21:03] --> Park [20:31:20] --> 
+[22-06-2020] : MRT Station [08:36:00] --> SlowMart [10:59:47] --> SlowMart [18:10:18] --> 
+[23-06-2020] : MRT Station [08:35:41] --> Fibre [10:58:32] --> FoodCourt [13:21:36] --> FoodCourt [18:07:29] --> 
+[24-06-2020] : MRT Station [08:34:21] --> Fibre [18:10:00] --> 
+[25-06-2020] : MRT Station [08:34:15] --> Police Station [10:56:43] --> FoodCourt [13:20:07] --> 
+[26-06-2020] : MRT Station [08:33:07] --> JJPTRv2 [10:56:03] --> FoodCourt [13:18:16] --> GayaGrocery [18:05:51] --> 
+[27-06-2020] : SlowMart [18:07:04] --> 
+[28-06-2020] : 
+[29-06-2020] : MRT Station [08:35:42] --> MoonBucks [13:24:51] --> Post Office [18:11:28] --> 
+[30-06-2020] : MRT Station [08:35:18] --> MoonBucks [13:22:56] --> Police Station [18:10:09] --> 
+[01-07-2020] : MRT Station [08:35:12] --> 
+[02-07-2020] : MRT Station [08:34:52] --> FoodCourt [13:21:00] --> GayaGrocery [18:08:16] --> 

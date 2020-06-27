@@ -1,0 +1,17 @@
+HUMAN ID: 00779     GENDER: Female     AGE CATEGORY: Adult     ROLE: Shopping Centre Retailer
+========================================================================================
+
+[19-06-2020] : KTM Station [07:30:46] --> Moonlings [09:55:11] --> 
+[20-06-2020] : KTM Station [07:30:29] --> Moonlings [09:53:37] --> 
+[21-06-2020] : KTM Station [07:30:04] --> Moonlings [09:52:26] --> 
+[22-06-2020] : KTM Station [07:30:05] --> Moonlings [09:53:51] --> 
+[23-06-2020] : MRT Station [07:30:08] --> 
+[24-06-2020] : Moonlings [09:51:29] --> 
+[25-06-2020] : Moonlings [09:51:35] --> 
+[26-06-2020] : KTM Station [07:28:51] --> 
+[27-06-2020] : MRT Station [07:30:52] --> 
+[28-06-2020] : Moonlings [09:52:17] --> JJPTRv2 [17:00:04] --> 
+[29-06-2020] : 
+[30-06-2020] : Moonlings [09:53:57] --> 
+[01-07-2020] : KTM Station [07:29:40] --> 
+[02-07-2020] : KTM Station [07:29:29] --> Moonlings [09:52:05] --> SlowMart [17:02:45] --> 

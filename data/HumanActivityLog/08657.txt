@@ -1,0 +1,17 @@
+HUMAN ID: 08657     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Post Office [08:37:09] --> MoonBucks [18:11:35] --> 
+[20-06-2020] : 
+[21-06-2020] : Post Office [10:58:04] --> 2 Akhir [20:31:24] --> 
+[22-06-2020] : MRT Station [06:11:38] --> Post Office [08:36:03] --> FoodCourt [13:24:23] --> Pharmarcy [18:10:20] --> 
+[23-06-2020] : MRT Station [06:12:52] --> Post Office [08:35:44] --> Police Station [10:58:37] --> 
+[24-06-2020] : Post Office [08:34:22] --> 
+[25-06-2020] : MRT Station [06:11:40] --> Post Office [08:34:21] --> Fibre [18:07:30] --> 
+[26-06-2020] : Post Office [08:33:08] --> MoonBucks [13:18:22] --> 
+[27-06-2020] : Library [20:30:32] --> 
+[28-06-2020] : 
+[29-06-2020] : MRT Station [06:12:58] --> Post Office [08:35:51] --> 
+[30-06-2020] : MRT Station [06:12:31] --> Post Office [08:35:23] --> MoonBucks [10:59:28] --> 
+[01-07-2020] : Post Office [08:35:16] --> FoodCourt [13:24:43] --> 
+[02-07-2020] : Post Office [08:34:55] --> Fibre [18:08:20] --> 

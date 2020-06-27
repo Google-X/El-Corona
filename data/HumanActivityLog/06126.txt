@@ -1,0 +1,17 @@
+HUMAN ID: 06126     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Waiter
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [08:15:44] --> Police Station [13:03:35] --> 
+[20-06-2020] : Ali's Nasi Kandar [08:14:48] --> SlowMart [13:01:02] --> 
+[21-06-2020] : Ali's Nasi Kandar [08:14:19] --> Ali's Nasi Kandar [13:00:26] --> 
+[22-06-2020] : Ali's Nasi Kandar [08:14:43] --> GayaGrocery [13:02:33] --> 
+[23-06-2020] : Ali's Nasi Kandar [08:14:44] --> RHP [13:00:55] --> 
+[24-06-2020] : Ali's Nasi Kandar [08:13:31] --> Police Station [17:48:49] --> 
+[25-06-2020] : Ali's Nasi Kandar [08:12:18] --> 
+[26-06-2020] : Ali's Nasi Kandar [08:12:51] --> Police Station [17:45:30] --> 
+[27-06-2020] : Ali's Nasi Kandar [08:15:20] --> MoonBucks [13:00:18] --> 
+[28-06-2020] : 
+[29-06-2020] : Ali's Nasi Kandar [08:14:56] --> FoodCourt [13:03:31] --> Police Station [17:49:51] --> 
+[30-06-2020] : Ali's Nasi Kandar [08:14:36] --> 
+[01-07-2020] : Ali's Nasi Kandar [08:14:31] --> MoonBucks [13:03:06] --> 
+[02-07-2020] : Ali's Nasi Kandar [08:13:38] --> Police Station [13:00:22] --> 

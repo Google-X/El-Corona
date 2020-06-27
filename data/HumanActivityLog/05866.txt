@@ -1,0 +1,17 @@
+HUMAN ID: 05866     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [08:13:39] --> SlowMart [10:37:27] --> FoodCourt [13:01:26] --> 
+[20-06-2020] : 2 Akhir [12:58:42] --> 
+[21-06-2020] : Park [12:58:15] --> 
+[22-06-2020] : MRT Station [08:12:39] --> Fibre [10:36:00] --> MoonBucks [13:00:19] --> 
+[23-06-2020] : MRT Station [08:12:41] --> GayaGrocery [10:35:27] --> 
+[24-06-2020] : MRT Station [08:11:26] --> Ali's Nasi Kandar [12:58:17] --> 
+[25-06-2020] : MRT Station [08:10:07] --> Fibre [10:32:51] --> FoodCourt [12:56:49] --> 
+[26-06-2020] : MRT Station [08:10:41] --> GayaGrocery [10:32:24] --> FoodCourt [12:55:29] --> Library [20:06:01] --> 
+[27-06-2020] : Library [20:07:16] --> 
+[28-06-2020] : 
+[29-06-2020] : MRT Station [08:12:53] --> 
+[30-06-2020] : MRT Station [08:12:28] --> MoonBucks [10:36:13] --> Ali's Nasi Kandar [12:59:49] --> 
+[01-07-2020] : MRT Station [08:12:19] --> 
+[02-07-2020] : MRT Station [08:11:25] --> FoodCourt [10:34:37] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 07278     GENDER: Female     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:25:21] --> 
+[20-06-2020] : Police Station [08:24:11] --> 
+[21-06-2020] : Police Station [08:23:40] --> Pharmarcy [17:57:05] --> 
+[22-06-2020] : Police Station [08:24:39] --> Ali's Nasi Kandar [13:12:24] --> 
+[23-06-2020] : Police Station [08:24:27] --> Fibre [13:10:29] --> 
+[24-06-2020] : Post Office [13:10:25] --> 
+[25-06-2020] : Police Station [08:22:20] --> 
+[26-06-2020] : Police Station [08:21:55] --> 
+[27-06-2020] : Police Station [08:24:39] --> 
+[28-06-2020] : Police Station [08:22:35] --> 
+[29-06-2020] : Police Station [08:24:17] --> Fibre [13:13:25] --> 
+[30-06-2020] : Police Station [08:24:12] --> 
+[01-07-2020] : Police Station [08:23:50] --> FoodCourt [13:13:06] --> 
+[02-07-2020] : Police Station [08:23:02] --> FoodCourt [13:09:48] --> 

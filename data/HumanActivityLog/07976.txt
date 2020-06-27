@@ -1,0 +1,17 @@
+HUMAN ID: 07976     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Kindergarden [08:31:14] --> MoonBucks [13:18:50] --> Moonlings [20:27:39] --> 
+[20-06-2020] : Library [20:27:40] --> 
+[21-06-2020] : Library [20:25:48] --> 
+[22-06-2020] : Kindergarden [08:30:31] --> Post Office [10:54:24] --> FoodCourt [13:18:34] --> 
+[23-06-2020] : Kindergarden [08:30:13] --> Ali's Nasi Kandar [10:52:43] --> MoonBucks [13:16:08] --> 
+[24-06-2020] : Kindergarden [08:29:00] --> Ali's Nasi Kandar [13:16:44] --> 
+[25-06-2020] : MRT Station [06:06:07] --> Kindergarden [08:28:11] --> FoodCourt [13:14:30] --> 
+[26-06-2020] : Kindergarden [08:27:41] --> Ali's Nasi Kandar [13:12:16] --> RHP [18:00:02] --> Moonlings [20:24:12] --> 
+[27-06-2020] : Moonlings [13:15:47] --> 
+[28-06-2020] : Fibre [10:51:14] --> Moonlings [13:14:16] --> 
+[29-06-2020] : MRT Station [06:07:13] --> Kindergarden [08:30:15] --> Ali's Nasi Kandar [13:19:17] --> Ali's Nasi Kandar [18:05:49] --> 
+[30-06-2020] : Kindergarden [08:30:08] --> JanBank [10:53:51] --> 
+[01-07-2020] : Kindergarden [08:29:29] --> GayaGrocery [18:07:21] --> 
+[02-07-2020] : MRT Station [06:06:42] --> Kindergarden [08:29:00] --> FoodCourt [13:15:37] --> 

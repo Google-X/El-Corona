@@ -1,0 +1,17 @@
+HUMAN ID: 08227     GENDER: Female     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [08:33:28] --> Police Station [13:20:56] --> 
+[20-06-2020] : Ali's Nasi Kandar [08:32:27] --> 
+[21-06-2020] : Ali's Nasi Kandar [08:31:26] --> 
+[22-06-2020] : KTM Station [06:08:03] --> Ali's Nasi Kandar [08:32:44] --> 
+[23-06-2020] : Ali's Nasi Kandar [08:32:12] --> 
+[24-06-2020] : MRT Station [06:08:23] --> Ali's Nasi Kandar [08:30:58] --> 
+[25-06-2020] : Ali's Nasi Kandar [08:30:31] --> 
+[26-06-2020] : MRT Station [06:07:44] --> Ali's Nasi Kandar [08:29:41] --> 
+[27-06-2020] : Ali's Nasi Kandar [08:32:56] --> Post Office [13:17:58] --> 
+[28-06-2020] : KTM Station [06:07:02] --> 
+[29-06-2020] : Ali's Nasi Kandar [08:32:18] --> 
+[30-06-2020] : MRT Station [06:08:54] --> Ali's Nasi Kandar [08:32:04] --> 
+[01-07-2020] : Ali's Nasi Kandar [08:31:32] --> 
+[02-07-2020] : Ali's Nasi Kandar [08:31:07] --> 

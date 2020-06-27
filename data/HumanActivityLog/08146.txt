@@ -1,0 +1,17 @@
+HUMAN ID: 08146     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [08:32:47] --> 
+[20-06-2020] : Museum [20:29:04] --> 
+[21-06-2020] : Ali's Nasi Kandar [18:04:00] --> 
+[22-06-2020] : MRT Station [08:32:04] --> FoodCourt [13:19:57] --> 
+[23-06-2020] : MRT Station [08:31:29] --> 
+[24-06-2020] : MRT Station [08:30:19] --> Ali's Nasi Kandar [13:18:05] --> 
+[25-06-2020] : MRT Station [08:29:48] --> JanBank [10:52:30] --> MoonBucks [13:15:47] --> GayaGrocery [18:02:53] --> 
+[26-06-2020] : MRT Station [08:29:01] --> Pharmarcy [10:51:38] --> MoonBucks [13:13:40] --> Post Office [18:01:23] --> 
+[27-06-2020] : Pharmarcy [18:02:50] --> 2 Akhir [20:26:29] --> 
+[28-06-2020] : Park [13:15:48] --> 
+[29-06-2020] : MRT Station [08:31:37] --> Fibre [10:56:10] --> 
+[30-06-2020] : MRT Station [08:31:24] --> 
+[01-07-2020] : MRT Station [08:30:51] --> Ali's Nasi Kandar [13:20:31] --> MoonBucks [18:08:44] --> 
+[02-07-2020] : MRT Station [08:30:28] --> MoonBucks [13:17:01] --> 

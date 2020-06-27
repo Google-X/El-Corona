@@ -1,0 +1,17 @@
+HUMAN ID: 00661     GENDER: Female     AGE CATEGORY: Adult     ROLE: Waiter
+========================================================================================
+
+[19-06-2020] : Moonlings [09:54:10] --> 
+[20-06-2020] : Moonlings [09:52:48] --> Pharmarcy [17:02:55] --> 
+[21-06-2020] : Moonlings [09:51:23] --> 
+[22-06-2020] : Moonlings [09:52:51] --> 
+[23-06-2020] : KTM Station [07:29:13] --> Moonlings [09:52:10] --> 
+[24-06-2020] : Moonlings [09:50:23] --> 
+[25-06-2020] : MRT Station [07:28:16] --> MoonBucks [17:00:31] --> 
+[26-06-2020] : KTM Station [07:28:01] --> Moonlings [09:49:35] --> 
+[27-06-2020] : Moonlings [09:53:37] --> Ali's Nasi Kandar [17:01:11] --> 
+[28-06-2020] : MRT Station [07:27:33] --> Moonlings [09:51:10] --> 
+[29-06-2020] : MRT Station [07:30:05] --> Moonlings [09:52:08] --> 
+[30-06-2020] : Moonlings [09:53:00] --> 
+[01-07-2020] : Moonlings [09:52:11] --> SlowMart [17:06:38] --> 
+[02-07-2020] : KTM Station [07:28:32] --> Moonlings [09:50:58] --> 

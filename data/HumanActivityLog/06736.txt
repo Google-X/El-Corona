@@ -1,0 +1,17 @@
+HUMAN ID: 06736     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [08:20:50] --> Ali's Nasi Kandar [13:08:43] --> Moonlings [20:17:40] --> 
+[20-06-2020] : Fibre [10:43:07] --> 
+[21-06-2020] : Fibre [10:42:15] --> 
+[22-06-2020] : KTM Station [08:19:58] --> MoonBucks [10:43:37] --> FoodCourt [13:07:29] --> 
+[23-06-2020] : KTM Station [08:19:45] --> FoodCourt [10:42:29] --> Ali's Nasi Kandar [13:05:51] --> 
+[24-06-2020] : KTM Station [08:18:44] --> MoonBucks [13:06:03] --> 
+[25-06-2020] : KTM Station [08:17:30] --> Ali's Nasi Kandar [13:04:10] --> 
+[26-06-2020] : KTM Station [08:17:30] --> FoodCourt [13:02:29] --> 
+[27-06-2020] : 
+[28-06-2020] : JJPTRv2 [10:41:12] --> Museum [13:04:03] --> 
+[29-06-2020] : KTM Station [08:19:52] --> GayaGrocery [10:44:04] --> Ali's Nasi Kandar [13:08:43] --> 
+[30-06-2020] : KTM Station [08:19:29] --> FoodCourt [13:07:22] --> 
+[01-07-2020] : KTM Station [08:19:19] --> Fibre [10:43:45] --> 
+[02-07-2020] : KTM Station [08:18:41] --> Pharmarcy [10:41:26] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 07282     GENDER: Male     AGE CATEGORY: Adult     ROLE: Shopping Centre Retailer
+========================================================================================
+
+[19-06-2020] : Moonlings [08:25:23] --> GayaGrocery [13:13:10] --> 
+[20-06-2020] : MRT Station [06:01:21] --> Moonlings [08:24:11] --> Ali's Nasi Kandar [13:11:06] --> JanBank [17:58:16] --> 
+[21-06-2020] : Moonlings [08:23:41] --> 
+[22-06-2020] : KTM Station [06:00:39] --> JanBank [13:12:25] --> Pharmarcy [17:59:18] --> 
+[23-06-2020] : Moonlings [08:24:27] --> Pharmarcy [13:10:31] --> Police Station [17:56:12] --> 
+[24-06-2020] : KTM Station [06:00:41] --> Moonlings [08:23:07] --> Fibre [17:58:17] --> 
+[25-06-2020] : MRT Station [06:00:21] --> Moonlings [08:22:20] --> Post Office [17:56:10] --> 
+[26-06-2020] : KTM Station [06:00:01] --> Moonlings [08:21:58] --> 
+[27-06-2020] : Moonlings [08:24:42] --> JJPTRv2 [17:55:50] --> 
+[28-06-2020] : Moonlings [08:22:36] --> RHP [13:08:27] --> 
+[29-06-2020] : Moonlings [08:24:19] --> 
+[30-06-2020] : MRT Station [06:00:29] --> Moonlings [08:24:13] --> 
+[01-07-2020] : Moonlings [08:23:52] --> 
+[02-07-2020] : Moonlings [08:23:05] --> RHP [13:09:49] --> Ali's Nasi Kandar [17:57:10] --> 

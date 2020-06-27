@@ -1,0 +1,17 @@
+HUMAN ID: 06295     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Firefighter
+========================================================================================
+
+[19-06-2020] : Fire Station [08:17:11] --> 
+[20-06-2020] : Fire Station [08:16:03] --> 
+[21-06-2020] : Fire Station [08:15:43] --> 
+[22-06-2020] : Fire Station [08:16:05] --> 
+[23-06-2020] : Fire Station [08:16:12] --> 
+[24-06-2020] : Fire Station [08:14:44] --> 
+[25-06-2020] : Fire Station [08:13:56] --> 
+[26-06-2020] : Fire Station [08:14:06] --> 
+[27-06-2020] : Fibre [17:47:40] --> 
+[28-06-2020] : Fire Station [08:14:17] --> 
+[29-06-2020] : Fire Station [08:16:21] --> GayaGrocery [13:05:04] --> 
+[30-06-2020] : Fire Station [08:15:50] --> 
+[01-07-2020] : Fire Station [08:15:48] --> MoonBucks [13:04:22] --> 
+[02-07-2020] : Fire Station [08:14:51] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 06224     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:16:36] --> 
+[20-06-2020] : Police Station [08:15:33] --> 
+[21-06-2020] : FoodCourt [17:47:53] --> 
+[22-06-2020] : Police Station [08:15:23] --> 
+[23-06-2020] : Police Station [08:15:38] --> Ali's Nasi Kandar [13:01:34] --> 
+[24-06-2020] : Police Station [08:14:08] --> JJPTRv2 [13:01:36] --> 
+[25-06-2020] : Police Station [08:13:12] --> 
+[26-06-2020] : Police Station [08:13:39] --> 
+[27-06-2020] : Police Station [08:16:04] --> 
+[28-06-2020] : Police Station [08:13:49] --> 
+[29-06-2020] : Police Station [08:15:45] --> 
+[30-06-2020] : Police Station [08:15:18] --> 
+[01-07-2020] : Police Station [08:15:16] --> 
+[02-07-2020] : Police Station [08:14:21] --> 

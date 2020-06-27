@@ -1,0 +1,17 @@
+HUMAN ID: 00309     GENDER: Male     AGE CATEGORY: Adult     ROLE: Engineer
+========================================================================================
+
+[19-06-2020] : Petrocad [09:51:04] --> Ali's Nasi Kandar [12:14:58] --> 2 Akhir [21:46:55] --> 
+[20-06-2020] : Moonlings [19:23:10] --> 
+[21-06-2020] : 
+[22-06-2020] : MRT Station [05:02:40] --> Petrocad [09:49:59] --> FoodCourt [12:13:45] --> 
+[23-06-2020] : MRT Station [05:02:29] --> Petrocad [09:49:24] --> FoodCourt [12:12:27] --> 
+[24-06-2020] : MRT Station [05:02:35] --> Petrocad [09:47:30] --> 
+[25-06-2020] : Petrocad [09:48:04] --> MoonBucks [12:10:14] --> 
+[26-06-2020] : Petrocad [09:46:51] --> Ali's Nasi Kandar [12:10:03] --> Moonlings [21:43:09] --> 
+[27-06-2020] : Museum [12:13:04] --> 
+[28-06-2020] : IKEY [12:10:47] --> 2 Akhir [19:19:52] --> 
+[29-06-2020] : MRT Station [05:02:48] --> Petrocad [09:49:12] --> 
+[30-06-2020] : Petrocad [09:49:50] --> Ali's Nasi Kandar [12:13:33] --> 
+[01-07-2020] : KTM Station [05:02:37] --> Petrocad [09:49:21] --> 
+[02-07-2020] : MRT Station [05:02:45] --> Petrocad [09:48:02] --> 

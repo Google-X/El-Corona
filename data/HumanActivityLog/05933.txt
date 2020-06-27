@@ -1,0 +1,17 @@
+HUMAN ID: 05933     GENDER: Female     AGE CATEGORY: Adult     ROLE: Engineer
+========================================================================================
+
+[19-06-2020] : KTM Station [05:50:13] --> Petrocad [08:14:12] --> 
+[20-06-2020] : 
+[21-06-2020] : 2 Akhir [12:58:53] --> IKEY [20:07:52] --> 
+[22-06-2020] : Petrocad [08:13:14] --> Pharmarcy [10:36:36] --> 
+[23-06-2020] : Petrocad [08:13:12] --> MoonBucks [12:59:02] --> 
+[24-06-2020] : MRT Station [05:49:33] --> Petrocad [08:11:53] --> MoonBucks [10:35:07] --> MoonBucks [12:58:56] --> 
+[25-06-2020] : Petrocad [08:10:39] --> GayaGrocery [10:33:25] --> Ali's Nasi Kandar [12:57:21] --> 
+[26-06-2020] : MRT Station [05:48:21] --> Petrocad [08:11:12] --> Ali's Nasi Kandar [12:55:58] --> 
+[27-06-2020] : Library [12:58:40] --> 
+[28-06-2020] : IKEY [12:57:14] --> 
+[29-06-2020] : KTM Station [05:49:54] --> Petrocad [08:13:27] --> JJPTRv2 [10:37:15] --> 
+[30-06-2020] : Petrocad [08:12:58] --> Ali's Nasi Kandar [10:36:48] --> Ali's Nasi Kandar [13:00:22] --> 
+[01-07-2020] : MRT Station [05:49:04] --> Petrocad [08:12:48] --> RHP [10:36:34] --> Ali's Nasi Kandar [13:01:29] --> 
+[02-07-2020] : KTM Station [05:49:53] --> Petrocad [08:12:03] --> Ali's Nasi Kandar [12:58:41] --> 

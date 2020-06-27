@@ -1,0 +1,17 @@
+HUMAN ID: 04598     GENDER: Female     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:02:53] --> 
+[20-06-2020] : Police Station [08:02:37] --> 
+[21-06-2020] : Police Station [08:01:34] --> Post Office [17:34:25] --> 
+[22-06-2020] : Police Station [08:02:01] --> 
+[23-06-2020] : Police Station [08:02:07] --> 
+[24-06-2020] : Police Station [08:00:44] --> 
+[25-06-2020] : Police Station [08:00:00] --> 
+[26-06-2020] : Police Station [08:00:00] --> 
+[27-06-2020] : Police Station [08:02:49] --> 
+[28-06-2020] : Police Station [08:00:10] --> 
+[29-06-2020] : Police Station [08:02:41] --> 
+[30-06-2020] : Police Station [08:01:51] --> 
+[01-07-2020] : Police Station [08:01:01] --> 
+[02-07-2020] : Police Station [08:00:14] --> 

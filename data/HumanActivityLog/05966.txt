@@ -1,0 +1,17 @@
+HUMAN ID: 05966     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [05:50:32] --> Orange [08:14:30] --> Ali's Nasi Kandar [13:02:14] --> 
+[20-06-2020] : Library [12:59:41] --> IKEY [20:10:33] --> 
+[21-06-2020] : 
+[22-06-2020] : Orange [08:13:28] --> Ali's Nasi Kandar [10:36:51] --> MoonBucks [13:01:07] --> 
+[23-06-2020] : Orange [08:13:25] --> 
+[24-06-2020] : Orange [08:12:12] --> Police Station [10:35:25] --> Ali's Nasi Kandar [12:59:14] --> 
+[25-06-2020] : KTM Station [05:49:43] --> Orange [08:10:54] --> GayaGrocery [10:33:44] --> 
+[26-06-2020] : Orange [08:11:31] --> MoonBucks [12:56:12] --> 
+[27-06-2020] : Police Station [10:37:29] --> 2 Akhir [20:08:04] --> 
+[28-06-2020] : Moonlings [12:57:28] --> Moonlings [20:07:10] --> 
+[29-06-2020] : KTM Station [05:50:15] --> Orange [08:13:41] --> 
+[30-06-2020] : KTM Station [05:49:41] --> Orange [08:13:16] --> 
+[01-07-2020] : Orange [08:13:03] --> MoonBucks [13:01:40] --> 
+[02-07-2020] : Orange [08:12:21] --> 

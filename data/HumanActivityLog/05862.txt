@@ -1,0 +1,17 @@
+HUMAN ID: 05862     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [08:13:37] --> 
+[20-06-2020] : Ali's Nasi Kandar [08:12:53] --> 
+[21-06-2020] : Ali's Nasi Kandar [08:12:00] --> GayaGrocery [17:45:02] --> 
+[22-06-2020] : Ali's Nasi Kandar [13:00:17] --> Ali's Nasi Kandar [17:47:46] --> 
+[23-06-2020] : Ali's Nasi Kandar [08:12:38] --> 
+[24-06-2020] : Ali's Nasi Kandar [08:11:23] --> 
+[25-06-2020] : Ali's Nasi Kandar [08:10:05] --> 
+[26-06-2020] : Ali's Nasi Kandar [08:10:41] --> 
+[27-06-2020] : Ali's Nasi Kandar [08:13:02] --> 
+[28-06-2020] : Ali's Nasi Kandar [08:10:43] --> 
+[29-06-2020] : Ali's Nasi Kandar [08:12:51] --> JanBank [17:47:56] --> 
+[30-06-2020] : Ali's Nasi Kandar [08:12:27] --> JanBank [17:46:13] --> 
+[01-07-2020] : Ali's Nasi Kandar [08:12:18] --> JJPTRv2 [17:49:13] --> 
+[02-07-2020] : Ali's Nasi Kandar [08:11:23] --> Post Office [17:45:36] --> 

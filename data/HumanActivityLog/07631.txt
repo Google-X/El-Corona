@@ -1,0 +1,17 @@
+HUMAN ID: 07631     GENDER: Male     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : Pharmarcy [08:28:07] --> JJPTRv2 [13:16:06] --> 
+[20-06-2020] : Pharmarcy [08:26:56] --> SlowMart [13:13:58] --> 
+[21-06-2020] : Pharmarcy [08:26:36] --> 
+[22-06-2020] : MRT Station [06:03:11] --> Pharmarcy [08:27:29] --> JanBank [13:15:20] --> 
+[23-06-2020] : Pharmarcy [08:27:17] --> SlowMart [13:13:19] --> Ali's Nasi Kandar [17:58:51] --> 
+[24-06-2020] : Pharmarcy [08:26:04] --> 
+[25-06-2020] : Pharmarcy [08:25:21] --> 
+[26-06-2020] : MRT Station [06:02:56] --> Pharmarcy [08:24:51] --> 
+[27-06-2020] : Pharmarcy [08:27:40] --> SlowMart [13:12:42] --> 
+[28-06-2020] : KTM Station [06:02:09] --> Pharmarcy [08:25:47] --> Ali's Nasi Kandar [17:57:04] --> 
+[29-06-2020] : KTM Station [06:04:13] --> Pharmarcy [08:27:17] --> 
+[30-06-2020] : MRT Station [06:03:31] --> Pharmarcy [08:27:03] --> MoonBucks [13:14:31] --> 
+[01-07-2020] : Pharmarcy [08:26:33] --> Police Station [13:16:08] --> 
+[02-07-2020] : Pharmarcy [08:26:08] --> FoodCourt [17:59:57] --> 

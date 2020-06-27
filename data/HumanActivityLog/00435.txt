@@ -1,0 +1,17 @@
+HUMAN ID: 00435     GENDER: Male     AGE CATEGORY: Adult     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : MRT Station [07:27:46] --> MoonBucks [09:52:09] --> JJPTRv2 [17:03:12] --> 
+[20-06-2020] : KTM Station [07:27:49] --> MoonBucks [09:50:48] --> 
+[21-06-2020] : MRT Station [07:27:03] --> 
+[22-06-2020] : KTM Station [07:27:14] --> MoonBucks [09:50:51] --> 
+[23-06-2020] : MoonBucks [09:50:21] --> 
+[24-06-2020] : MRT Station [07:26:29] --> MoonBucks [09:48:33] --> JanBank [17:01:04] --> 
+[25-06-2020] : KTM Station [07:26:33] --> MoonBucks [09:48:58] --> 
+[26-06-2020] : MoonBucks [09:47:52] --> 
+[27-06-2020] : MoonBucks [09:51:40] --> 
+[28-06-2020] : MRT Station [07:25:35] --> MoonBucks [09:49:21] --> 
+[29-06-2020] : MoonBucks [09:50:11] --> 
+[30-06-2020] : KTM Station [07:27:55] --> MoonBucks [09:50:56] --> 
+[01-07-2020] : MRT Station [07:26:52] --> MoonBucks [09:50:20] --> GayaGrocery [17:04:38] --> 
+[02-07-2020] : MRT Station [07:26:42] --> MoonBucks [09:49:09] --> Ali's Nasi Kandar [17:00:03] --> 

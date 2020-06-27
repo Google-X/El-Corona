@@ -1,0 +1,17 @@
+HUMAN ID: 06024     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [05:50:59] --> Airport [08:14:57] --> Pharmarcy [10:38:46] --> 
+[20-06-2020] : Park [13:00:13] --> Moonlings [20:10:58] --> 
+[21-06-2020] : 2 Akhir [20:08:47] --> 
+[22-06-2020] : Airport [08:13:51] --> JJPTRv2 [10:37:24] --> FoodCourt [13:01:44] --> 
+[23-06-2020] : Airport [08:13:56] --> FoodCourt [12:59:52] --> 
+[24-06-2020] : Airport [08:12:43] --> Ali's Nasi Kandar [12:59:48] --> 
+[25-06-2020] : MRT Station [05:50:09] --> Airport [08:11:25] --> Pharmarcy [10:34:13] --> Ali's Nasi Kandar [12:58:11] --> 
+[26-06-2020] : KTM Station [05:49:11] --> Airport [08:12:02] --> 
+[27-06-2020] : Library [20:08:41] --> 
+[28-06-2020] : Pharmarcy [10:35:22] --> Moonlings [20:07:43] --> 
+[29-06-2020] : KTM Station [05:50:41] --> Airport [08:14:06] --> 
+[30-06-2020] : Airport [08:13:46] --> Police Station [10:37:32] --> FoodCourt [13:01:11] --> 
+[01-07-2020] : Airport [08:13:40] --> MoonBucks [13:02:04] --> 
+[02-07-2020] : Airport [08:12:50] --> FoodCourt [12:59:21] --> 

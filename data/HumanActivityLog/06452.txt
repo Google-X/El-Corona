@@ -1,0 +1,17 @@
+HUMAN ID: 06452     GENDER: Female     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:18:26] --> Fibre [13:06:21] --> 
+[20-06-2020] : Police Station [08:17:19] --> Ali's Nasi Kandar [17:51:34] --> 
+[21-06-2020] : Police Station [08:17:04] --> 
+[22-06-2020] : Police Station [08:17:25] --> 
+[23-06-2020] : Police Station [08:17:31] --> 
+[24-06-2020] : FoodCourt [13:03:25] --> 
+[25-06-2020] : 
+[26-06-2020] : Police Station [08:15:23] --> 
+[27-06-2020] : Police Station [08:17:51] --> 
+[28-06-2020] : Police Station [08:15:39] --> 
+[29-06-2020] : Police Station [08:17:26] --> 
+[30-06-2020] : Police Station [08:17:04] --> 
+[01-07-2020] : Police Station [08:17:03] --> 
+[02-07-2020] : Police Station [08:16:10] --> 

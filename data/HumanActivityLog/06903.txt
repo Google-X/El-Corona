@@ -1,0 +1,17 @@
+HUMAN ID: 06903     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : MRT Station [08:22:14] --> FoodCourt [13:10:03] --> Fibre [17:57:30] --> 
+[20-06-2020] : 
+[21-06-2020] : MRT Station [08:20:55] --> RHP [13:07:00] --> 
+[22-06-2020] : MRT Station [08:21:24] --> JanBank [13:09:03] --> Ali's Nasi Kandar [17:56:03] --> 
+[23-06-2020] : MRT Station [08:21:10] --> FoodCourt [17:53:07] --> 
+[24-06-2020] : MRT Station [08:20:04] --> 
+[25-06-2020] : MRT Station [08:18:59] --> JJPTRv2 [13:05:30] --> Police Station [17:52:43] --> 
+[26-06-2020] : MRT Station [08:18:56] --> Ali's Nasi Kandar [13:03:45] --> 
+[27-06-2020] : MRT Station [08:21:35] --> 
+[28-06-2020] : MRT Station [08:19:35] --> 
+[29-06-2020] : MRT Station [08:21:14] --> Pharmarcy [13:10:13] --> 
+[30-06-2020] : MRT Station [08:20:52] --> 
+[01-07-2020] : MRT Station [08:20:37] --> RHP [17:57:57] --> 
+[02-07-2020] : MRT Station [08:19:53] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 05721     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [05:48:26] --> Moonlings [08:12:21] --> FoodCourt [10:36:24] --> FoodCourt [13:00:17] --> 
+[20-06-2020] : 
+[21-06-2020] : 
+[22-06-2020] : Moonlings [08:11:32] --> FoodCourt [12:59:02] --> 
+[23-06-2020] : KTM Station [05:47:58] --> Moonlings [08:11:35] --> 
+[24-06-2020] : MRT Station [05:47:40] --> Moonlings [08:10:13] --> 
+[25-06-2020] : KTM Station [05:47:41] --> Moonlings [08:08:56] --> 
+[26-06-2020] : Moonlings [08:09:34] --> JJPTRv2 [10:31:11] --> Library [20:04:40] --> 
+[27-06-2020] : 2 Akhir [20:06:11] --> 
+[28-06-2020] : Museum [12:55:33] --> 
+[29-06-2020] : MRT Station [05:48:03] --> Moonlings [08:11:46] --> Post Office [10:35:22] --> Ali's Nasi Kandar [13:00:16] --> 
+[30-06-2020] : KTM Station [05:47:25] --> Moonlings [08:11:09] --> Ali's Nasi Kandar [12:58:28] --> 
+[01-07-2020] : Moonlings [08:10:58] --> 
+[02-07-2020] : Moonlings [08:10:16] --> MoonBucks [10:33:31] --> Ali's Nasi Kandar [12:56:58] --> 

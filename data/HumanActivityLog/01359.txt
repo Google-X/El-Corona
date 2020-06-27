@@ -1,0 +1,17 @@
+HUMAN ID: 01359     GENDER: Female     AGE CATEGORY: Adult     ROLE: Shopping Centre Retailer
+========================================================================================
+
+[19-06-2020] : Fibre [17:10:56] --> 
+[20-06-2020] : MoonBucks [17:09:10] --> 
+[21-06-2020] : Moonlings [09:57:25] --> Pharmarcy [17:07:31] --> 
+[22-06-2020] : Moonlings [09:58:50] --> 
+[23-06-2020] : KTM Station [07:34:55] --> Moonlings [09:57:53] --> 
+[24-06-2020] : Moonlings [09:56:18] --> 
+[25-06-2020] : KTM Station [07:34:10] --> Moonlings [09:56:15] --> 
+[26-06-2020] : Moonlings [09:55:18] --> JJPTRv2 [17:05:19] --> 
+[27-06-2020] : Moonlings [09:59:47] --> JJPTRv2 [17:07:06] --> 
+[28-06-2020] : MRT Station [07:33:14] --> Moonlings [09:56:50] --> SlowMart [17:05:13] --> 
+[29-06-2020] : MRT Station [07:35:32] --> Moonlings [09:58:10] --> Fibre [17:10:46] --> 
+[30-06-2020] : Moonlings [09:58:34] --> Fibre [17:08:56] --> 
+[01-07-2020] : Moonlings [09:58:23] --> Police Station [17:12:19] --> 
+[02-07-2020] : Moonlings [09:57:03] --> SlowMart [17:07:31] --> 

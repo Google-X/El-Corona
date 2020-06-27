@@ -1,0 +1,17 @@
+HUMAN ID: 07226     GENDER: Male     AGE CATEGORY: Adult     ROLE: Shopping Centre Retailer
+========================================================================================
+
+[19-06-2020] : MRT Station [06:00:55] --> Moonlings [08:24:57] --> Police Station [13:12:38] --> 
+[20-06-2020] : Moonlings [08:23:38] --> Police Station [17:57:52] --> 
+[21-06-2020] : Pharmarcy [13:09:30] --> 
+[22-06-2020] : Moonlings [08:24:16] --> Pharmarcy [17:58:48] --> 
+[23-06-2020] : Fibre [13:10:01] --> 
+[24-06-2020] : MRT Station [06:00:11] --> Moonlings [08:22:41] --> FoodCourt [13:09:55] --> FoodCourt [17:57:45] --> 
+[25-06-2020] : Moonlings [08:21:52] --> 
+[26-06-2020] : Moonlings [08:21:28] --> SlowMart [17:53:55] --> 
+[27-06-2020] : Moonlings [08:24:14] --> SlowMart [13:09:18] --> 
+[28-06-2020] : Moonlings [08:22:13] --> Post Office [17:53:26] --> 
+[29-06-2020] : Moonlings [08:23:57] --> 
+[30-06-2020] : Moonlings [08:23:44] --> 
+[01-07-2020] : Moonlings [08:23:21] --> 
+[02-07-2020] : Moonlings [08:22:43] --> MoonBucks [13:09:22] --> JJPTRv2 [17:56:40] --> 

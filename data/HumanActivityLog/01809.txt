@@ -1,0 +1,17 @@
+HUMAN ID: 01809     GENDER: Female     AGE CATEGORY: Adult     ROLE: Teacher
+========================================================================================
+
+[19-06-2020] : Kindergarden [07:39:10] --> GayaGrocery [17:14:36] --> 
+[20-06-2020] : Library [19:36:13] --> 
+[21-06-2020] : MoonBucks [10:01:12] --> 
+[22-06-2020] : Kindergarden [07:38:32] --> 
+[23-06-2020] : Kindergarden [07:38:41] --> Ali's Nasi Kandar [10:01:49] --> 
+[24-06-2020] : Kindergarden [07:37:51] --> Ali's Nasi Kandar [10:00:03] --> 
+[25-06-2020] : Kindergarden [07:37:37] --> 
+[26-06-2020] : Kindergarden [07:37:17] --> 
+[27-06-2020] : Library [19:34:01] --> 
+[28-06-2020] : JanBank [10:00:21] --> Park [19:31:59] --> 
+[29-06-2020] : Kindergarden [07:39:04] --> Post Office [10:02:23] --> RHP [17:14:35] --> 
+[30-06-2020] : Kindergarden [07:39:35] --> Ali's Nasi Kandar [17:12:43] --> 
+[01-07-2020] : Kindergarden [07:38:08] --> Post Office [10:02:16] --> 
+[02-07-2020] : Kindergarden [07:37:39] --> 

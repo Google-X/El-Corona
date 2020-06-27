@@ -1,0 +1,17 @@
+HUMAN ID: 00266     GENDER: Female     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : KTM Station [07:26:30] --> MoonBucks [09:50:43] --> 
+[20-06-2020] : MRT Station [07:26:25] --> MoonBucks [09:49:18] --> 
+[21-06-2020] : MRT Station [07:25:31] --> MoonBucks [09:48:06] --> 
+[22-06-2020] : MoonBucks [09:49:40] --> JJPTRv2 [17:00:40] --> 
+[23-06-2020] : MRT Station [07:25:53] --> MoonBucks [09:49:00] --> 
+[24-06-2020] : MoonBucks [09:47:05] --> 
+[25-06-2020] : MoonBucks [09:47:41] --> 
+[26-06-2020] : KTM Station [07:24:46] --> MoonBucks [09:46:27] --> 
+[27-06-2020] : KTM Station [07:26:17] --> MoonBucks [09:50:12] --> 
+[28-06-2020] : KTM Station [07:24:07] --> MoonBucks [09:47:54] --> 
+[29-06-2020] : MoonBucks [09:48:53] --> 
+[30-06-2020] : MRT Station [07:26:26] --> MoonBucks [09:49:25] --> 
+[01-07-2020] : MoonBucks [09:49:01] --> 
+[02-07-2020] : MRT Station [07:25:10] --> MoonBucks [09:47:44] --> 

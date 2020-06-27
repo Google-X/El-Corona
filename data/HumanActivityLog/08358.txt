@@ -1,0 +1,17 @@
+HUMAN ID: 08358     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [08:34:44] --> Pharmarcy [10:58:39] --> 
+[20-06-2020] : Police Station [18:07:18] --> Library [20:30:49] --> 
+[21-06-2020] : FoodCourt [10:55:44] --> IKEY [13:18:51] --> IKEY [20:28:52] --> 
+[22-06-2020] : KTM Station [08:33:45] --> 
+[23-06-2020] : KTM Station [08:33:10] --> 
+[24-06-2020] : KTM Station [08:32:04] --> FoodCourt [13:19:41] --> SlowMart [18:07:41] --> 
+[25-06-2020] : KTM Station [08:31:43] --> MoonBucks [13:17:32] --> 
+[26-06-2020] : KTM Station [08:30:44] --> Police Station [10:53:24] --> Park [20:27:19] --> 
+[27-06-2020] : Police Station [10:57:16] --> Park [13:19:06] --> 2 Akhir [20:28:08] --> 
+[28-06-2020] : Ali's Nasi Kandar [10:54:19] --> 2 Akhir [20:27:41] --> 
+[29-06-2020] : KTM Station [08:33:16] --> 
+[30-06-2020] : KTM Station [08:32:58] --> MoonBucks [13:20:33] --> 
+[01-07-2020] : KTM Station [08:32:34] --> Ali's Nasi Kandar [18:10:31] --> 
+[02-07-2020] : KTM Station [08:32:14] --> Pharmarcy [10:55:00] --> Ali's Nasi Kandar [13:18:44] --> 

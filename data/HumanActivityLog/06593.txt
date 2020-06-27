@@ -1,0 +1,17 @@
+HUMAN ID: 06593     GENDER: Female     AGE CATEGORY: Adult     ROLE: Firefighter
+========================================================================================
+
+[19-06-2020] : Fire Station [08:19:34] --> 
+[20-06-2020] : Fire Station [08:18:35] --> Fibre [17:52:44] --> 
+[21-06-2020] : Fire Station [08:18:20] --> 
+[22-06-2020] : Fire Station [08:18:40] --> Pharmarcy [13:06:22] --> 
+[23-06-2020] : Fire Station [08:18:42] --> 
+[24-06-2020] : Fire Station [08:17:23] --> 
+[25-06-2020] : Fire Station [08:16:16] --> 
+[26-06-2020] : Fire Station [08:16:29] --> 
+[27-06-2020] : Fire Station [08:19:05] --> Ali's Nasi Kandar [17:50:09] --> 
+[28-06-2020] : Fire Station [08:16:54] --> 
+[29-06-2020] : Fire Station [08:18:38] --> GayaGrocery [13:07:27] --> 
+[30-06-2020] : Fire Station [08:18:18] --> 
+[01-07-2020] : Fire Station [08:18:06] --> 
+[02-07-2020] : Fire Station [08:17:28] --> 

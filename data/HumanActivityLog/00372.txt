@@ -1,0 +1,17 @@
+HUMAN ID: 00372     GENDER: Female     AGE CATEGORY: Adult     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : KTM Station [07:27:23] --> Ali's Nasi Kandar [09:51:33] --> 
+[20-06-2020] : Ali's Nasi Kandar [09:50:14] --> GayaGrocery [17:00:32] --> 
+[21-06-2020] : Ali's Nasi Kandar [09:48:53] --> 
+[22-06-2020] : Ali's Nasi Kandar [09:50:22] --> SlowMart [17:01:33] --> 
+[23-06-2020] : Ali's Nasi Kandar [09:49:55] --> 
+[24-06-2020] : MRT Station [07:25:55] --> Ali's Nasi Kandar [09:48:01] --> 
+[25-06-2020] : KTM Station [07:26:09] --> Ali's Nasi Kandar [09:48:34] --> 
+[26-06-2020] : MRT Station [07:25:38] --> Ali's Nasi Kandar [09:47:23] --> 
+[27-06-2020] : MRT Station [07:27:06] --> Ali's Nasi Kandar [09:51:12] --> 
+[28-06-2020] : Ali's Nasi Kandar [09:48:49] --> 
+[29-06-2020] : Ali's Nasi Kandar [09:49:40] --> 
+[30-06-2020] : Ali's Nasi Kandar [09:50:22] --> Pharmarcy [17:00:40] --> 
+[01-07-2020] : Ali's Nasi Kandar [09:49:47] --> GayaGrocery [17:04:05] --> 
+[02-07-2020] : Ali's Nasi Kandar [09:48:37] --> 

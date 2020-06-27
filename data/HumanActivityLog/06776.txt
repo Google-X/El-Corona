@@ -1,0 +1,17 @@
+HUMAN ID: 06776     GENDER: Male     AGE CATEGORY: Adult     ROLE: Firefighter
+========================================================================================
+
+[19-06-2020] : Fire Station [08:21:09] --> FoodCourt [13:09:02] --> 
+[20-06-2020] : Fire Station [08:20:00] --> MoonBucks [17:54:15] --> 
+[21-06-2020] : Fire Station [08:19:56] --> 
+[22-06-2020] : Fire Station [08:20:15] --> 
+[23-06-2020] : Fire Station [08:20:02] --> 
+[24-06-2020] : Fire Station [08:19:00] --> 
+[25-06-2020] : Fire Station [08:17:51] --> 
+[26-06-2020] : Fire Station [08:17:46] --> Post Office [13:02:45] --> 
+[27-06-2020] : Fire Station [08:20:31] --> 
+[28-06-2020] : Fire Station [08:18:29] --> 
+[29-06-2020] : Fire Station [08:20:15] --> 
+[30-06-2020] : Fire Station [08:19:46] --> 
+[01-07-2020] : Fire Station [08:19:37] --> 
+[02-07-2020] : Fire Station [08:18:58] --> 

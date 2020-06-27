@@ -1,0 +1,17 @@
+HUMAN ID: 08858     GENDER: Male     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : Moonlings [08:38:47] --> 
+[20-06-2020] : KTM Station [06:14:42] --> Moonlings [08:37:51] --> 
+[21-06-2020] : MRT Station [06:13:27] --> Moonlings [08:36:21] --> 
+[22-06-2020] : MRT Station [06:13:21] --> Moonlings [08:37:44] --> FoodCourt [13:26:05] --> 
+[23-06-2020] : KTM Station [06:14:33] --> Moonlings [08:37:14] --> 
+[24-06-2020] : MRT Station [06:13:12] --> Moonlings [08:35:49] --> 
+[25-06-2020] : KTM Station [06:13:30] --> Moonlings [08:35:51] --> Post Office [13:21:49] --> 
+[26-06-2020] : Moonlings [08:34:41] --> Ali's Nasi Kandar [13:19:53] --> 
+[27-06-2020] : Moonlings [08:37:56] --> Police Station [13:23:05] --> 
+[28-06-2020] : MRT Station [06:12:14] --> Moonlings [08:36:13] --> 
+[29-06-2020] : Moonlings [08:37:31] --> Ali's Nasi Kandar [13:26:23] --> 
+[30-06-2020] : Moonlings [08:37:15] --> 
+[01-07-2020] : KTM Station [06:13:31] --> Moonlings [08:36:57] --> 
+[02-07-2020] : MRT Station [06:14:05] --> Moonlings [08:36:26] --> 

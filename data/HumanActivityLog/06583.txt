@@ -1,0 +1,17 @@
+HUMAN ID: 06583     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Baker
+========================================================================================
+
+[19-06-2020] : Moonlings [08:19:28] --> 
+[20-06-2020] : Moonlings [08:18:28] --> JanBank [17:52:40] --> 
+[21-06-2020] : Moonlings [08:18:15] --> Pharmarcy [13:04:01] --> Pharmarcy [17:51:15] --> 
+[22-06-2020] : Moonlings [08:18:35] --> Ali's Nasi Kandar [17:53:38] --> 
+[23-06-2020] : 
+[24-06-2020] : Moonlings [08:17:18] --> Ali's Nasi Kandar [13:04:45] --> 
+[25-06-2020] : Moonlings [08:16:11] --> JJPTRv2 [13:02:53] --> 
+[26-06-2020] : Moonlings [08:16:25] --> Ali's Nasi Kandar [13:01:11] --> 
+[27-06-2020] : FoodCourt [13:04:08] --> 
+[28-06-2020] : Moonlings [08:16:48] --> RHP [13:02:52] --> Police Station [17:48:22] --> 
+[29-06-2020] : FoodCourt [17:53:32] --> 
+[30-06-2020] : Moonlings [08:18:13] --> Post Office [13:06:08] --> 
+[01-07-2020] : Moonlings [08:18:00] --> Police Station [13:06:58] --> 
+[02-07-2020] : Moonlings [08:17:20] --> JJPTRv2 [17:51:24] --> 

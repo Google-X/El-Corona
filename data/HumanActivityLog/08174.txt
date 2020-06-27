@@ -1,0 +1,17 @@
+HUMAN ID: 08174     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [08:33:01] --> Pharmarcy [10:57:05] --> IKEY [20:29:12] --> 
+[20-06-2020] : JJPTRv2 [18:05:52] --> 
+[21-06-2020] : 
+[22-06-2020] : KTM Station [08:32:18] --> Ali's Nasi Kandar [13:20:12] --> 
+[23-06-2020] : KTM Station [08:31:41] --> Fibre [10:54:26] --> Ali's Nasi Kandar [13:17:53] --> Police Station [18:03:25] --> 
+[24-06-2020] : KTM Station [08:30:29] --> Police Station [10:53:53] --> FoodCourt [13:18:15] --> FoodCourt [18:05:49] --> 
+[25-06-2020] : KTM Station [08:30:04] --> SlowMart [10:52:41] --> 
+[26-06-2020] : KTM Station [08:29:16] --> Post Office [18:01:37] --> 
+[27-06-2020] : Museum [20:26:40] --> 
+[28-06-2020] : Moonlings [20:26:08] --> 
+[29-06-2020] : KTM Station [08:31:49] --> JanBank [10:56:25] --> MoonBucks [13:20:58] --> 
+[30-06-2020] : KTM Station [08:31:36] --> MoonBucks [13:19:00] --> Ali's Nasi Kandar [18:06:10] --> 
+[01-07-2020] : KTM Station [08:31:07] --> 
+[02-07-2020] : KTM Station [08:30:44] --> Post Office [10:53:19] --> FoodCourt [13:17:12] --> 

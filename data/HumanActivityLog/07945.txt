@@ -1,0 +1,17 @@
+HUMAN ID: 07945     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : KTM Station [06:06:56] --> Post Office [08:30:55] --> Library [20:27:23] --> 
+[20-06-2020] : IKEY [13:16:45] --> Library [20:27:23] --> 
+[21-06-2020] : 2 Akhir [20:25:36] --> 
+[22-06-2020] : Post Office [08:30:16] --> Ali's Nasi Kandar [10:54:13] --> MoonBucks [13:18:15] --> 
+[23-06-2020] : Post Office [08:29:57] --> JanBank [10:52:20] --> 
+[24-06-2020] : Post Office [08:28:42] --> MoonBucks [13:16:30] --> JanBank [18:03:42] --> 
+[25-06-2020] : Post Office [08:27:53] --> RHP [10:50:50] --> MoonBucks [13:14:16] --> 
+[26-06-2020] : KTM Station [06:05:34] --> Post Office [08:27:25] --> Pharmarcy [10:50:06] --> 
+[27-06-2020] : 2 Akhir [20:24:47] --> 
+[28-06-2020] : 
+[29-06-2020] : Post Office [08:29:56] --> FoodCourt [13:19:03] --> 
+[30-06-2020] : KTM Station [06:06:15] --> Post Office [08:29:49] --> Fibre [10:53:35] --> Pharmarcy [18:04:21] --> 
+[01-07-2020] : MRT Station [06:05:41] --> Post Office [08:29:15] --> 
+[02-07-2020] : MRT Station [06:06:28] --> Post Office [08:28:46] --> GayaGrocery [10:51:23] --> FoodCourt [13:15:21] --> 

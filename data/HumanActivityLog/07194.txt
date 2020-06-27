@@ -1,0 +1,17 @@
+HUMAN ID: 07194     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:24:45] --> 
+[20-06-2020] : Police Station [08:23:21] --> 
+[21-06-2020] : Police Station [08:23:02] --> Fibre [17:56:23] --> 
+[22-06-2020] : Police Station [08:23:59] --> Ali's Nasi Kandar [13:11:44] --> 
+[23-06-2020] : Police Station [08:23:35] --> 
+[24-06-2020] : Police Station [08:22:27] --> 
+[25-06-2020] : Police Station [08:21:34] --> 
+[26-06-2020] : Police Station [08:21:15] --> 
+[27-06-2020] : Police Station [08:23:55] --> 
+[28-06-2020] : Police Station [08:21:56] --> 
+[29-06-2020] : Police Station [08:23:40] --> Fibre [13:12:44] --> 
+[30-06-2020] : Police Station [08:23:27] --> 
+[01-07-2020] : Police Station [08:23:04] --> SlowMart [13:12:27] --> 
+[02-07-2020] : Police Station [08:22:30] --> JanBank [13:09:06] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 09530     GENDER: Female     AGE CATEGORY: Adult     ROLE: Teacher
+========================================================================================
+
+[19-06-2020] : Kindergarden [06:20:38] --> RHP [11:08:38] --> 
+[20-06-2020] : MoonBucks [11:06:47] --> Moonlings [18:16:54] --> 
+[21-06-2020] : 2 Akhir [18:15:36] --> 
+[22-06-2020] : Kindergarden [06:19:10] --> JanBank [11:07:16] --> 
+[23-06-2020] : Kindergarden [06:19:58] --> 
+[24-06-2020] : Kindergarden [06:18:46] --> 
+[25-06-2020] : Kindergarden [06:18:58] --> 
+[26-06-2020] : Kindergarden [06:18:13] --> 
+[27-06-2020] : MoonBucks [11:06:37] --> Library [18:14:12] --> 
+[28-06-2020] : Library [18:13:08] --> 
+[29-06-2020] : Kindergarden [06:20:35] --> 
+[30-06-2020] : Kindergarden [06:19:57] --> Police Station [11:06:57] --> 
+[01-07-2020] : Kindergarden [06:19:24] --> 
+[02-07-2020] : Kindergarden [06:19:26] --> Ali's Nasi Kandar [11:04:48] --> 

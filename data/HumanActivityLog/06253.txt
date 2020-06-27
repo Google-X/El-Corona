@@ -1,0 +1,17 @@
+HUMAN ID: 06253     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:16:49] --> Pharmarcy [13:04:39] --> 
+[20-06-2020] : 
+[21-06-2020] : Police Station [08:15:21] --> 
+[22-06-2020] : Police Station [08:15:40] --> 
+[23-06-2020] : Police Station [08:15:52] --> GayaGrocery [13:01:51] --> 
+[24-06-2020] : Police Station [08:14:25] --> 
+[25-06-2020] : Police Station [08:13:32] --> Fibre [13:00:15] --> 
+[26-06-2020] : Police Station [08:13:52] --> 
+[27-06-2020] : Police Station [08:16:20] --> 
+[28-06-2020] : Police Station [08:13:58] --> 
+[29-06-2020] : Police Station [08:16:01] --> 
+[30-06-2020] : Police Station [08:15:34] --> Police Station [13:03:23] --> 
+[01-07-2020] : Police Station [08:15:28] --> Pharmarcy [13:04:04] --> 
+[02-07-2020] : Police Station [08:14:30] --> JanBank [13:01:24] --> 

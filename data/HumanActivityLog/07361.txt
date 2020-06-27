@@ -1,0 +1,17 @@
+HUMAN ID: 07361     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : AccSol [08:26:02] --> GayaGrocery [10:50:17] --> FoodCourt [13:13:48] --> GayaGrocery [18:01:14] --> Library [20:22:55] --> 
+[20-06-2020] : 2 Akhir [20:22:20] --> 
+[21-06-2020] : 
+[22-06-2020] : MRT Station [06:01:15] --> AccSol [08:25:17] --> Ali's Nasi Kandar [13:13:07] --> 
+[23-06-2020] : KTM Station [06:01:52] --> AccSol [08:24:59] --> MoonBucks [13:11:05] --> 
+[24-06-2020] : MRT Station [06:01:21] --> AccSol [08:23:44] --> 
+[25-06-2020] : KTM Station [06:01:01] --> AccSol [08:22:59] --> 
+[26-06-2020] : AccSol [08:22:35] --> 
+[27-06-2020] : Park [20:19:52] --> 
+[28-06-2020] : Library [20:19:07] --> 
+[29-06-2020] : AccSol [08:25:02] --> MoonBucks [10:49:29] --> FoodCourt [13:14:15] --> Fibre [18:00:08] --> 
+[30-06-2020] : KTM Station [06:01:15] --> AccSol [08:24:47] --> Police Station [10:48:52] --> MoonBucks [13:12:18] --> 
+[01-07-2020] : KTM Station [06:00:56] --> AccSol [08:24:26] --> MoonBucks [13:13:45] --> 
+[02-07-2020] : MRT Station [06:01:57] --> AccSol [08:23:46] --> JanBank [10:46:27] --> Ali's Nasi Kandar [13:10:23] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 07430     GENDER: Female     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [08:26:29] --> 
+[20-06-2020] : KTM Station [06:02:53] --> Ali's Nasi Kandar [08:25:13] --> Fibre [13:12:23] --> MoonBucks [17:59:36] --> 
+[21-06-2020] : KTM Station [06:02:06] --> Ali's Nasi Kandar [08:24:57] --> 
+[22-06-2020] : Ali's Nasi Kandar [08:25:52] --> Pharmarcy [13:13:39] --> 
+[23-06-2020] : MoonBucks [17:57:23] --> 
+[24-06-2020] : MoonBucks [13:11:55] --> 
+[25-06-2020] : KTM Station [06:01:40] --> Ali's Nasi Kandar [08:23:32] --> Fibre [13:10:03] --> Police Station [17:57:10] --> 
+[26-06-2020] : Ali's Nasi Kandar [08:23:08] --> RHP [13:07:41] --> JJPTRv2 [17:55:32] --> 
+[27-06-2020] : Ali's Nasi Kandar [08:26:03] --> 
+[28-06-2020] : MRT Station [06:00:31] --> Ali's Nasi Kandar [08:23:58] --> Pharmarcy [13:09:45] --> 
+[29-06-2020] : Ali's Nasi Kandar [08:25:32] --> SlowMart [13:14:53] --> 
+[30-06-2020] : Ali's Nasi Kandar [08:25:31] --> SlowMart [13:12:53] --> 
+[01-07-2020] : Police Station [13:14:24] --> 
+[02-07-2020] : MRT Station [06:02:32] --> Ali's Nasi Kandar [08:24:23] --> 

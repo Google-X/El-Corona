@@ -1,0 +1,17 @@
+HUMAN ID: 07243     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : Petrocad [08:25:06] --> Ali's Nasi Kandar [10:49:14] --> Ali's Nasi Kandar [13:12:45] --> 2 Akhir [20:21:53] --> 
+[20-06-2020] : 
+[21-06-2020] : IKEY [13:09:39] --> IKEY [20:19:25] --> 
+[22-06-2020] : Petrocad [08:24:20] --> FoodCourt [13:12:09] --> 
+[23-06-2020] : Petrocad [08:24:06] --> Pharmarcy [10:46:33] --> Ali's Nasi Kandar [13:10:10] --> 
+[24-06-2020] : KTM Station [06:00:20] --> Petrocad [08:22:51] --> 
+[25-06-2020] : MRT Station [06:00:00] --> Petrocad [08:22:01] --> MoonBucks [13:08:24] --> 
+[26-06-2020] : Petrocad [08:21:36] --> 
+[27-06-2020] : 
+[28-06-2020] : Library [13:08:16] --> Moonlings [20:18:06] --> 
+[29-06-2020] : Petrocad [08:24:01] --> FoodCourt [10:48:31] --> MoonBucks [13:13:14] --> 
+[30-06-2020] : Petrocad [08:23:55] --> FoodCourt [13:11:14] --> 
+[01-07-2020] : Petrocad [08:23:29] --> MoonBucks [13:12:51] --> RHP [18:00:46] --> 
+[02-07-2020] : Petrocad [08:22:48] --> GayaGrocery [10:45:34] --> FoodCourt [13:09:29] --> 

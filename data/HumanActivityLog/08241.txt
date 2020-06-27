@@ -1,0 +1,17 @@
+HUMAN ID: 08241     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [06:09:25] --> Petrocad [08:33:41] --> MoonBucks [13:21:05] --> Library [20:29:44] --> 
+[20-06-2020] : 
+[21-06-2020] : Moonlings [20:27:48] --> 
+[22-06-2020] : Petrocad [08:32:47] --> FoodCourt [13:20:39] --> Police Station [18:06:48] --> 
+[23-06-2020] : Petrocad [08:32:17] --> Ali's Nasi Kandar [13:18:27] --> 
+[24-06-2020] : MRT Station [06:08:32] --> Petrocad [08:31:07] --> MoonBucks [18:06:29] --> 
+[25-06-2020] : KTM Station [06:08:19] --> Petrocad [08:30:38] --> GayaGrocery [18:03:41] --> 
+[26-06-2020] : Petrocad [08:29:50] --> Ali's Nasi Kandar [10:52:26] --> Ali's Nasi Kandar [13:14:33] --> RHP [18:02:10] --> 
+[27-06-2020] : Moonlings [20:27:15] --> 
+[28-06-2020] : JJPTRv2 [18:02:13] --> IKEY [20:26:46] --> 
+[29-06-2020] : MRT Station [06:09:27] --> Petrocad [08:32:21] --> Ali's Nasi Kandar [13:21:27] --> MoonBucks [18:07:48] --> 
+[30-06-2020] : KTM Station [06:08:59] --> Petrocad [08:32:10] --> Ali's Nasi Kandar [10:56:00] --> MoonBucks [13:19:29] --> 
+[01-07-2020] : Petrocad [08:31:38] --> Ali's Nasi Kandar [13:21:15] --> Police Station [18:09:32] --> 
+[02-07-2020] : KTM Station [06:09:06] --> Petrocad [08:31:15] --> MoonBucks [13:17:49] --> 

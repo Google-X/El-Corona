@@ -1,0 +1,17 @@
+HUMAN ID: 05157     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [05:43:36] --> Petrocad [08:07:30] --> MoonBucks [10:31:46] --> Ali's Nasi Kandar [12:55:54] --> Moonlings [20:04:35] --> 
+[20-06-2020] : 2 Akhir [20:04:10] --> 
+[21-06-2020] : GayaGrocery [10:29:07] --> 
+[22-06-2020] : Petrocad [08:06:44] --> Ali's Nasi Kandar [12:54:21] --> 
+[23-06-2020] : Petrocad [08:06:44] --> Fibre [10:30:06] --> 
+[24-06-2020] : KTM Station [05:42:53] --> Petrocad [08:05:22] --> RHP [10:28:25] --> FoodCourt [12:52:13] --> 
+[25-06-2020] : MRT Station [05:42:54] --> Petrocad [08:04:33] --> FoodCourt [10:26:47] --> 
+[26-06-2020] : Petrocad [08:04:45] --> IKEY [19:59:57] --> 
+[27-06-2020] : Moonlings [20:01:29] --> 
+[28-06-2020] : Post Office [10:28:03] --> Moonlings [20:00:20] --> 
+[29-06-2020] : KTM Station [05:43:14] --> Petrocad [08:07:20] --> JanBank [10:30:33] --> Ali's Nasi Kandar [12:55:59] --> 
+[30-06-2020] : MRT Station [05:42:48] --> Petrocad [08:06:51] --> Police Station [10:30:24] --> Ali's Nasi Kandar [12:53:32] --> 
+[01-07-2020] : KTM Station [05:42:28] --> Petrocad [08:05:51] --> MoonBucks [12:55:12] --> 
+[02-07-2020] : Petrocad [08:05:19] --> FoodCourt [12:51:58] --> 

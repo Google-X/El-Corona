@@ -1,0 +1,17 @@
+HUMAN ID: 06969     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Moonlings [08:22:40] --> Library [20:19:39] --> 
+[20-06-2020] : Moonlings [13:08:21] --> 
+[21-06-2020] : 2 Akhir [13:07:29] --> 
+[22-06-2020] : MRT Station [05:57:59] --> Moonlings [08:22:03] --> Ali's Nasi Kandar [10:45:46] --> MoonBucks [13:09:32] --> 
+[23-06-2020] : Moonlings [08:21:39] --> MoonBucks [13:07:51] --> 
+[24-06-2020] : Moonlings [08:20:36] --> MoonBucks [10:44:07] --> 
+[25-06-2020] : Moonlings [08:19:34] --> MoonBucks [10:42:26] --> 
+[26-06-2020] : Moonlings [08:19:31] --> Pharmarcy [10:41:52] --> FoodCourt [13:04:13] --> 2 Akhir [20:15:24] --> 
+[27-06-2020] : 2 Akhir [13:07:18] --> IKEY [20:16:33] --> 
+[28-06-2020] : IKEY [20:15:42] --> 
+[29-06-2020] : KTM Station [05:58:55] --> Moonlings [08:21:50] --> SlowMart [10:46:08] --> Ali's Nasi Kandar [13:10:39] --> 
+[30-06-2020] : KTM Station [05:58:02] --> Moonlings [08:21:24] --> Ali's Nasi Kandar [13:09:15] --> 
+[01-07-2020] : Moonlings [08:21:08] --> Police Station [10:46:01] --> MoonBucks [13:10:23] --> 
+[02-07-2020] : MRT Station [05:58:33] --> Moonlings [08:20:27] --> Post Office [10:43:20] --> 

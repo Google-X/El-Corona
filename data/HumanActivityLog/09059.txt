@@ -1,0 +1,17 @@
+HUMAN ID: 09059     GENDER: Female     AGE CATEGORY: Adult     ROLE: Accountant
+========================================================================================
+
+[19-06-2020] : AccSol [08:40:43] --> Police Station [18:14:56] --> 
+[20-06-2020] : Park [20:36:20] --> 
+[21-06-2020] : Museum [20:34:59] --> 
+[22-06-2020] : MRT Station [06:14:57] --> AccSol [08:39:31] --> FoodCourt [18:13:51] --> 
+[23-06-2020] : AccSol [08:39:02] --> MoonBucks [13:25:08] --> 
+[24-06-2020] : MRT Station [06:14:47] --> AccSol [08:37:30] --> 
+[25-06-2020] : KTM Station [06:15:11] --> AccSol [08:37:23] --> SlowMart [18:10:53] --> 
+[26-06-2020] : MRT Station [06:14:33] --> AccSol [08:36:18] --> Pharmarcy [10:59:37] --> Ali's Nasi Kandar [13:21:25] --> Police Station [18:09:06] --> 
+[27-06-2020] : Post Office [18:10:23] --> Museum [20:34:07] --> 
+[28-06-2020] : IKEY [13:23:39] --> 
+[29-06-2020] : KTM Station [06:16:30] --> AccSol [08:39:03] --> Police Station [18:14:52] --> 
+[30-06-2020] : AccSol [08:39:01] --> FoodCourt [13:26:28] --> 
+[01-07-2020] : AccSol [08:38:34] --> FoodCourt [13:28:02] --> Police Station [18:16:10] --> 
+[02-07-2020] : KTM Station [06:15:43] --> AccSol [08:37:59] --> 

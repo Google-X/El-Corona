@@ -1,0 +1,17 @@
+HUMAN ID: 08261     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [08:33:51] --> FoodCourt [13:21:13] --> Museum [20:29:55] --> 
+[20-06-2020] : 
+[21-06-2020] : Moonlings [20:28:01] --> 
+[22-06-2020] : MRT Station [08:32:55] --> 
+[23-06-2020] : MRT Station [08:32:26] --> Post Office [18:04:09] --> 
+[24-06-2020] : MRT Station [08:31:17] --> JanBank [10:54:35] --> FoodCourt [13:18:57] --> 
+[25-06-2020] : MRT Station [08:30:52] --> Fibre [10:53:27] --> FoodCourt [13:16:44] --> 
+[26-06-2020] : MRT Station [08:30:01] --> Ali's Nasi Kandar [13:14:41] --> FoodCourt [18:02:23] --> 
+[27-06-2020] : 
+[28-06-2020] : Park [20:26:55] --> 
+[29-06-2020] : MRT Station [08:32:28] --> Ali's Nasi Kandar [13:21:37] --> 
+[30-06-2020] : MRT Station [08:32:19] --> FoodCourt [13:19:40] --> 
+[01-07-2020] : MRT Station [08:31:51] --> GayaGrocery [18:09:44] --> 
+[02-07-2020] : MRT Station [08:31:24] --> FoodCourt [13:18:00] --> 

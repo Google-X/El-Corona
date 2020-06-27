@@ -1,0 +1,17 @@
+HUMAN ID: 08031     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [06:07:43] --> Petrocad [08:31:44] --> 
+[20-06-2020] : Park [13:17:31] --> Moonlings [20:28:06] --> 
+[21-06-2020] : IKEY [13:15:58] --> FoodCourt [18:03:07] --> 2 Akhir [20:26:09] --> 
+[22-06-2020] : Petrocad [08:30:58] --> Ali's Nasi Kandar [13:19:00] --> 
+[23-06-2020] : Petrocad [08:30:39] --> FoodCourt [13:16:42] --> 
+[24-06-2020] : MRT Station [06:06:43] --> Petrocad [08:29:26] --> JanBank [10:52:37] --> Fibre [18:04:30] --> 
+[25-06-2020] : KTM Station [06:06:37] --> Petrocad [08:28:40] --> FoodCourt [13:14:52] --> JJPTRv2 [18:01:48] --> 
+[26-06-2020] : KTM Station [06:06:13] --> Petrocad [08:28:05] --> FoodCourt [13:12:42] --> 
+[27-06-2020] : Library [20:25:30] --> 
+[28-06-2020] : Moonlings [13:14:51] --> Museum [20:24:53] --> 
+[29-06-2020] : Petrocad [08:30:49] --> FoodCourt [10:55:05] --> FoodCourt [13:19:48] --> 
+[30-06-2020] : Petrocad [08:30:33] --> Post Office [10:54:16] --> Ali's Nasi Kandar [13:17:48] --> JJPTRv2 [18:05:02] --> 
+[01-07-2020] : KTM Station [06:06:27] --> Petrocad [08:29:52] --> FoodCourt [13:19:41] --> RHP [18:07:49] --> 
+[02-07-2020] : Petrocad [08:29:27] --> GayaGrocery [18:03:09] --> 

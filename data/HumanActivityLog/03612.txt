@@ -1,0 +1,17 @@
+HUMAN ID: 03612     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [05:30:37] --> JanBank [10:18:58] --> Ali's Nasi Kandar [12:43:00] --> Moonlings [19:52:17] --> 
+[20-06-2020] : 2 Akhir [19:51:11] --> 
+[21-06-2020] : Moonlings [19:49:20] --> 
+[22-06-2020] : KTM Station [05:29:57] --> GayaGrocery [10:17:40] --> 
+[23-06-2020] : MRT Station [05:30:20] --> RHP [10:17:10] --> 
+[24-06-2020] : Ali's Nasi Kandar [12:39:17] --> 
+[25-06-2020] : FoodCourt [12:38:12] --> 
+[26-06-2020] : Ali's Nasi Kandar [12:37:13] --> Moonlings [19:46:58] --> 
+[27-06-2020] : 2 Akhir [12:39:51] --> 
+[28-06-2020] : Police Station [10:15:37] --> 
+[29-06-2020] : MRT Station [05:30:02] --> RHP [10:17:38] --> Ali's Nasi Kandar [12:42:53] --> 
+[30-06-2020] : KTM Station [05:29:48] --> Ali's Nasi Kandar [12:40:53] --> 
+[01-07-2020] : MRT Station [05:29:43] --> 
+[02-07-2020] : 

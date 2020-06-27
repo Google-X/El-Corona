@@ -1,0 +1,17 @@
+HUMAN ID: 00219     GENDER: Female     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [09:50:23] --> 
+[20-06-2020] : Police Station [09:48:54] --> 
+[21-06-2020] : Police Station [09:47:41] --> 
+[22-06-2020] : Police Station [09:49:11] --> 
+[23-06-2020] : Police Station [09:48:36] --> 
+[24-06-2020] : 
+[25-06-2020] : 
+[26-06-2020] : Police Station [09:46:07] --> 
+[27-06-2020] : Police Station [09:49:53] --> 
+[28-06-2020] : Police Station [09:47:30] --> 
+[29-06-2020] : Police Station [09:48:29] --> 
+[30-06-2020] : Police Station [09:49:00] --> 
+[01-07-2020] : Police Station [09:48:38] --> 
+[02-07-2020] : Police Station [09:47:22] --> 

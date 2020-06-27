@@ -1,0 +1,17 @@
+HUMAN ID: 07639     GENDER: Female     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:28:11] --> 
+[20-06-2020] : Police Station [08:27:00] --> 
+[21-06-2020] : 
+[22-06-2020] : 
+[23-06-2020] : Police Station [08:27:21] --> 
+[24-06-2020] : Police Station [08:26:07] --> 
+[25-06-2020] : Police Station [08:25:23] --> Fibre [13:11:48] --> 
+[26-06-2020] : Police Station [08:24:57] --> JJPTRv2 [13:09:19] --> 
+[27-06-2020] : Police Station [08:27:44] --> 
+[28-06-2020] : Police Station [08:25:51] --> 
+[29-06-2020] : Police Station [08:27:21] --> 
+[30-06-2020] : Police Station [08:27:09] --> 
+[01-07-2020] : Police Station [08:26:38] --> 
+[02-07-2020] : Police Station [08:26:10] --> 

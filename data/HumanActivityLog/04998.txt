@@ -1,0 +1,17 @@
+HUMAN ID: 04998     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [05:42:16] --> Petrocad [08:06:11] --> Police Station [10:30:33] --> Ali's Nasi Kandar [12:54:32] --> 
+[20-06-2020] : Police Station [10:28:28] --> IKEY [12:51:31] --> IKEY [20:02:52] --> 
+[21-06-2020] : Police Station [10:27:39] --> Moonlings [20:00:36] --> 
+[22-06-2020] : KTM Station [05:41:29] --> Petrocad [08:05:27] --> 
+[23-06-2020] : Petrocad [08:05:23] --> 
+[24-06-2020] : Petrocad [08:03:55] --> FoodCourt [12:50:51] --> 
+[25-06-2020] : MRT Station [05:41:32] --> Petrocad [08:03:12] --> FoodCourt [12:49:39] --> 
+[26-06-2020] : KTM Station [05:40:15] --> Petrocad [08:03:27] --> Police Station [10:25:17] --> Ali's Nasi Kandar [12:48:15] --> 
+[27-06-2020] : 
+[28-06-2020] : Moonlings [19:58:58] --> 
+[29-06-2020] : Petrocad [08:05:56] --> Ali's Nasi Kandar [12:54:38] --> 
+[30-06-2020] : Petrocad [08:05:30] --> Fibre [10:29:06] --> 
+[01-07-2020] : MRT Station [05:41:17] --> Petrocad [08:04:32] --> FoodCourt [10:28:46] --> MoonBucks [12:53:49] --> 
+[02-07-2020] : Petrocad [08:03:58] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 06211     GENDER: Female     AGE CATEGORY: Adult     ROLE: Baker
+========================================================================================
+
+[19-06-2020] : 
+[20-06-2020] : Moonlings [08:15:25] --> Ali's Nasi Kandar [17:49:31] --> 
+[21-06-2020] : Moonlings [08:14:57] --> Post Office [17:47:49] --> 
+[22-06-2020] : Moonlings [08:15:14] --> RHP [13:03:12] --> 
+[23-06-2020] : Moonlings [08:15:31] --> Ali's Nasi Kandar [13:01:27] --> SlowMart [17:47:06] --> 
+[24-06-2020] : Moonlings [08:14:03] --> JanBank [13:01:27] --> MoonBucks [17:49:27] --> 
+[25-06-2020] : Moonlings [08:13:05] --> 
+[26-06-2020] : Moonlings [08:13:28] --> JJPTRv2 [17:46:07] --> 
+[27-06-2020] : Moonlings [08:15:58] --> Fibre [17:47:08] --> 
+[28-06-2020] : Moonlings [08:13:40] --> MoonBucks [17:45:34] --> 
+[29-06-2020] : Moonlings [08:15:40] --> JanBank [13:04:19] --> SlowMart [17:50:33] --> 
+[30-06-2020] : Moonlings [08:15:11] --> SlowMart [17:49:22] --> 
+[01-07-2020] : Moonlings [08:15:11] --> SlowMart [17:52:16] --> 
+[02-07-2020] : Moonlings [08:14:17] --> JanBank [13:01:07] --> Police Station [17:48:34] --> 

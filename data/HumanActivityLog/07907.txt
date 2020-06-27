@@ -1,0 +1,17 @@
+HUMAN ID: 07907     GENDER: Male     AGE CATEGORY: Adult     ROLE: Accountant
+========================================================================================
+
+[19-06-2020] : MRT Station [06:06:38] --> JanBank [08:30:36] --> GayaGrocery [18:05:50] --> 
+[20-06-2020] : Pharmarcy [18:03:41] --> 2 Akhir [20:26:59] --> 
+[21-06-2020] : GayaGrocery [10:51:58] --> 
+[22-06-2020] : JanBank [08:29:53] --> FoodCourt [13:17:52] --> Ali's Nasi Kandar [18:04:16] --> 
+[23-06-2020] : JanBank [08:29:36] --> JanBank [10:51:59] --> FoodCourt [13:15:33] --> 
+[24-06-2020] : KTM Station [06:05:50] --> JanBank [08:28:17] --> 
+[25-06-2020] : MRT Station [06:05:29] --> JanBank [08:27:38] --> Ali's Nasi Kandar [18:00:52] --> 
+[26-06-2020] : JanBank [08:27:08] --> 
+[27-06-2020] : 
+[28-06-2020] : Moonlings [20:23:58] --> 
+[29-06-2020] : JanBank [08:29:34] --> Police Station [10:54:06] --> Post Office [18:05:11] --> 
+[30-06-2020] : JanBank [08:29:29] --> JJPTRv2 [10:53:20] --> Ali's Nasi Kandar [13:16:53] --> FoodCourt [18:03:58] --> 
+[01-07-2020] : KTM Station [06:05:24] --> JanBank [08:28:57] --> MoonBucks [13:18:36] --> 
+[02-07-2020] : KTM Station [06:06:16] --> JanBank [08:28:29] --> JJPTRv2 [10:51:06] --> JanBank [18:02:19] --> 

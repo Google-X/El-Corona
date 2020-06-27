@@ -1,0 +1,17 @@
+HUMAN ID: 06177     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:16:06] --> 
+[20-06-2020] : 
+[21-06-2020] : Police Station [08:14:42] --> SlowMart [17:47:31] --> 
+[22-06-2020] : Police Station [08:14:57] --> Ali's Nasi Kandar [13:02:57] --> 
+[23-06-2020] : Police Station [08:15:11] --> 
+[24-06-2020] : Police Station [08:13:49] --> 
+[25-06-2020] : Police Station [08:12:47] --> 
+[26-06-2020] : Police Station [08:13:14] --> 
+[27-06-2020] : Police Station [08:15:42] --> 
+[28-06-2020] : Police Station [08:13:23] --> 
+[29-06-2020] : 
+[30-06-2020] : Police Station [08:14:57] --> GayaGrocery [13:02:40] --> 
+[01-07-2020] : Police Station [08:14:52] --> 
+[02-07-2020] : Police Station [08:14:02] --> 

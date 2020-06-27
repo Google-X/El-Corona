@@ -1,0 +1,17 @@
+HUMAN ID: 07105     GENDER: Male     AGE CATEGORY: Adult     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : KTM Station [08:23:58] --> MoonBucks [13:11:47] --> JanBank [17:59:15] --> 
+[20-06-2020] : KTM Station [08:22:38] --> RHP [13:09:32] --> Post Office [17:56:50] --> 
+[21-06-2020] : KTM Station [08:22:25] --> JJPTRv2 [17:55:37] --> 
+[22-06-2020] : KTM Station [08:23:17] --> 
+[23-06-2020] : KTM Station [08:22:47] --> FoodCourt [17:54:41] --> 
+[24-06-2020] : KTM Station [08:21:37] --> FoodCourt [13:08:58] --> JJPTRv2 [17:56:44] --> 
+[25-06-2020] : KTM Station [08:20:46] --> Pharmarcy [17:54:29] --> 
+[26-06-2020] : KTM Station [08:20:31] --> Police Station [17:52:56] --> 
+[27-06-2020] : KTM Station [08:23:16] --> Police Station [13:08:26] --> SlowMart [17:54:21] --> 
+[28-06-2020] : KTM Station [08:21:14] --> GayaGrocery [13:07:05] --> 
+[29-06-2020] : KTM Station [06:00:04] --> KTM Station [08:22:53] --> 
+[30-06-2020] : KTM Station [08:22:36] --> 
+[01-07-2020] : KTM Station [08:22:18] --> GayaGrocery [13:11:41] --> 
+[02-07-2020] : KTM Station [08:21:44] --> SlowMart [17:55:44] --> 

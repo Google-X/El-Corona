@@ -1,0 +1,17 @@
+HUMAN ID: 06033     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [08:15:01] --> FoodCourt [13:02:52] --> 2 Akhir [20:11:41] --> 
+[20-06-2020] : IKEY [13:00:17] --> Library [20:11:03] --> 
+[21-06-2020] : 
+[22-06-2020] : KTM Station [08:13:57] --> Ali's Nasi Kandar [10:37:30] --> 
+[23-06-2020] : KTM Station [08:14:00] --> 
+[24-06-2020] : KTM Station [08:12:45] --> 
+[25-06-2020] : KTM Station [08:11:29] --> Police Station [10:34:19] --> Ali's Nasi Kandar [12:58:16] --> 
+[26-06-2020] : KTM Station [08:12:06] --> Police Station [10:33:57] --> Ali's Nasi Kandar [12:56:46] --> 
+[27-06-2020] : Post Office [10:38:07] --> Moonlings [20:08:45] --> 
+[28-06-2020] : Park [20:07:46] --> 
+[29-06-2020] : KTM Station [08:14:11] --> 
+[30-06-2020] : KTM Station [08:13:51] --> MoonBucks [10:37:35] --> FoodCourt [13:01:17] --> 
+[01-07-2020] : KTM Station [08:13:43] --> Ali's Nasi Kandar [13:02:10] --> 
+[02-07-2020] : KTM Station [08:12:54] --> Police Station [10:35:50] --> MoonBucks [12:59:26] --> 

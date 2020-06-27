@@ -1,0 +1,17 @@
+HUMAN ID: 06445     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Accountant
+========================================================================================
+
+[19-06-2020] : JanBank [08:18:23] --> MoonBucks [10:42:17] --> Ali's Nasi Kandar [13:06:17] --> 
+[20-06-2020] : JanBank [10:40:52] --> Moonlings [13:03:48] --> Park [20:14:30] --> 
+[21-06-2020] : 
+[22-06-2020] : KTM Station [05:53:18] --> JanBank [08:17:23] --> Pharmarcy [10:40:58] --> 
+[23-06-2020] : MRT Station [05:54:27] --> JanBank [08:17:28] --> 
+[24-06-2020] : JanBank [08:16:04] --> Pharmarcy [10:39:44] --> FoodCourt [13:03:23] --> 
+[25-06-2020] : KTM Station [05:53:20] --> JanBank [08:15:14] --> Ali's Nasi Kandar [13:01:47] --> 
+[26-06-2020] : JanBank [08:15:21] --> FoodCourt [13:00:04] --> 2 Akhir [20:11:00] --> 
+[27-06-2020] : IKEY [20:12:11] --> 
+[28-06-2020] : 
+[29-06-2020] : MRT Station [05:54:23] --> JanBank [08:17:25] --> Ali's Nasi Kandar [10:41:35] --> 
+[30-06-2020] : MRT Station [05:53:33] --> JanBank [08:17:01] --> RHP [10:41:12] --> MoonBucks [13:05:02] --> 
+[01-07-2020] : JanBank [08:16:59] --> 
+[02-07-2020] : JanBank [08:16:07] --> MoonBucks [10:39:04] --> 

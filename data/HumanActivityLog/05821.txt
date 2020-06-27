@@ -1,0 +1,17 @@
+HUMAN ID: 05821     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Shopping Centre Retailer
+========================================================================================
+
+[19-06-2020] : Moonlings [08:13:16] --> Fibre [17:48:17] --> 
+[20-06-2020] : Moonlings [08:12:34] --> Ali's Nasi Kandar [17:46:24] --> 
+[21-06-2020] : Moonlings [08:11:38] --> 
+[22-06-2020] : Moonlings [08:12:18] --> Post Office [17:47:27] --> 
+[23-06-2020] : Moonlings [08:12:13] --> 
+[24-06-2020] : 
+[25-06-2020] : Moonlings [08:09:45] --> Post Office [17:43:42] --> 
+[26-06-2020] : SlowMart [17:42:58] --> 
+[27-06-2020] : Moonlings [08:12:41] --> Police Station [17:43:47] --> 
+[28-06-2020] : 
+[29-06-2020] : Moonlings [08:12:36] --> GayaGrocery [17:47:35] --> 
+[30-06-2020] : Moonlings [08:12:04] --> JanBank [17:45:51] --> 
+[01-07-2020] : Moonlings [08:11:57] --> 
+[02-07-2020] : Moonlings [08:11:06] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 05981     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [05:50:38] --> Petrocad [08:14:37] --> Police Station [10:38:24] --> FoodCourt [13:02:22] --> 
+[20-06-2020] : MoonBucks [10:36:50] --> Park [20:10:38] --> 
+[21-06-2020] : 
+[22-06-2020] : MRT Station [05:49:32] --> Petrocad [08:13:31] --> MoonBucks [13:01:19] --> 
+[23-06-2020] : KTM Station [05:50:18] --> Petrocad [08:13:35] --> 
+[24-06-2020] : Petrocad [08:12:23] --> 
+[25-06-2020] : KTM Station [05:49:49] --> Petrocad [08:11:04] --> RHP [10:33:51] --> 
+[26-06-2020] : KTM Station [05:48:49] --> Petrocad [08:11:38] --> Police Station [10:33:29] --> 
+[27-06-2020] : Library [12:59:04] --> 
+[28-06-2020] : Museum [20:07:19] --> 
+[29-06-2020] : KTM Station [05:50:23] --> Petrocad [08:13:48] --> Police Station [10:37:38] --> Ali's Nasi Kandar [13:02:21] --> 
+[30-06-2020] : MRT Station [05:49:47] --> Petrocad [08:13:22] --> FoodCourt [13:00:53] --> 
+[01-07-2020] : Petrocad [08:13:12] --> FoodCourt [10:37:03] --> Ali's Nasi Kandar [13:01:45] --> 
+[02-07-2020] : MRT Station [05:50:17] --> Petrocad [08:12:29] --> Pharmarcy [10:35:29] --> 

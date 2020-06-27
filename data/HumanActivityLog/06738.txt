@@ -1,0 +1,17 @@
+HUMAN ID: 06738     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [08:20:52] --> Ali's Nasi Kandar [13:08:43] --> 
+[20-06-2020] : JJPTRv2 [10:43:07] --> Museum [20:17:00] --> 
+[21-06-2020] : Ali's Nasi Kandar [10:42:16] --> Library [13:05:29] --> IKEY [20:14:59] --> 
+[22-06-2020] : KTM Station [08:19:59] --> Ali's Nasi Kandar [13:07:29] --> 
+[23-06-2020] : KTM Station [08:19:46] --> Ali's Nasi Kandar [13:05:53] --> 
+[24-06-2020] : KTM Station [08:18:45] --> MoonBucks [10:42:11] --> Ali's Nasi Kandar [13:06:04] --> 
+[25-06-2020] : KTM Station [08:17:32] --> Ali's Nasi Kandar [13:04:11] --> 
+[26-06-2020] : KTM Station [08:17:30] --> 
+[27-06-2020] : 
+[28-06-2020] : Museum [13:04:03] --> 
+[29-06-2020] : KTM Station [08:19:54] --> RHP [10:44:05] --> FoodCourt [13:08:44] --> 
+[30-06-2020] : KTM Station [08:19:29] --> Ali's Nasi Kandar [13:07:23] --> 
+[01-07-2020] : KTM Station [08:19:21] --> Ali's Nasi Kandar [13:08:14] --> 
+[02-07-2020] : KTM Station [08:18:42] --> 

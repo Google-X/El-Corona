@@ -1,0 +1,17 @@
+HUMAN ID: 00878     GENDER: Female     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [09:55:58] --> 
+[20-06-2020] : Police Station [09:54:28] --> 
+[21-06-2020] : Police Station [09:53:19] --> 
+[22-06-2020] : 
+[23-06-2020] : Police Station [09:53:58] --> 
+[24-06-2020] : Police Station [09:52:20] --> 
+[25-06-2020] : Police Station [09:52:20] --> 
+[26-06-2020] : Police Station [09:51:21] --> 
+[27-06-2020] : Police Station [09:55:45] --> 
+[28-06-2020] : Police Station [09:52:59] --> MoonBucks [17:00:53] --> 
+[29-06-2020] : Police Station [09:54:05] --> 
+[30-06-2020] : Police Station [09:54:42] --> 
+[01-07-2020] : Police Station [09:54:05] --> 
+[02-07-2020] : Police Station [09:52:58] --> 

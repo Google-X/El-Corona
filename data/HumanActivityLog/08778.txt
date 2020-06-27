@@ -1,0 +1,17 @@
+HUMAN ID: 08778     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [06:13:57] --> Moonlings [08:38:04] --> 
+[20-06-2020] : 
+[21-06-2020] : Moonlings [13:22:08] --> IKEY [20:32:12] --> 
+[22-06-2020] : Moonlings [08:37:04] --> FoodCourt [13:25:27] --> MoonBucks [18:11:29] --> 
+[23-06-2020] : Moonlings [08:36:37] --> JJPTRv2 [18:08:38] --> 
+[24-06-2020] : MRT Station [06:12:39] --> Moonlings [08:35:16] --> GayaGrocery [18:11:00] --> 
+[25-06-2020] : MRT Station [06:12:48] --> Moonlings [08:35:13] --> JanBank [10:57:44] --> 
+[26-06-2020] : MRT Station [06:12:18] --> Moonlings [08:34:05] --> FoodCourt [13:19:19] --> RHP [18:06:58] --> 
+[27-06-2020] : Library [13:22:31] --> 
+[28-06-2020] : JanBank [10:57:53] --> 2 Akhir [20:31:11] --> 
+[29-06-2020] : MRT Station [06:13:53] --> Moonlings [08:36:51] --> FoodCourt [13:25:50] --> JanBank [18:12:25] --> 
+[30-06-2020] : MRT Station [06:13:33] --> Moonlings [08:36:30] --> FoodCourt [13:24:11] --> 
+[01-07-2020] : Moonlings [08:36:13] --> 
+[02-07-2020] : KTM Station [06:13:23] --> Moonlings [08:35:45] --> FoodCourt [13:22:11] --> JJPTRv2 [18:09:27] --> 

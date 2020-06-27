@@ -1,0 +1,17 @@
+HUMAN ID: 08236     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : KTM Station [06:09:24] --> Orange [08:33:36] --> SlowMart [10:57:38] --> 2 Akhir [20:29:42] --> 
+[20-06-2020] : Moonlings [20:29:48] --> 
+[21-06-2020] : Ali's Nasi Kandar [18:04:43] --> Library [20:27:47] --> 
+[22-06-2020] : MRT Station [06:08:08] --> Orange [08:32:47] --> GayaGrocery [10:56:38] --> FoodCourt [13:20:36] --> JJPTRv2 [18:06:46] --> 
+[23-06-2020] : KTM Station [06:09:23] --> Orange [08:32:16] --> 
+[24-06-2020] : Orange [08:31:04] --> Ali's Nasi Kandar [13:18:44] --> 
+[25-06-2020] : Orange [08:30:35] --> RHP [10:53:11] --> Ali's Nasi Kandar [13:16:34] --> JanBank [18:03:38] --> 
+[26-06-2020] : KTM Station [06:07:49] --> Orange [08:29:48] --> 
+[27-06-2020] : Park [13:18:02] --> 
+[28-06-2020] : Moonlings [20:26:45] --> 
+[29-06-2020] : Orange [08:32:19] --> GayaGrocery [10:56:58] --> GayaGrocery [18:07:47] --> 
+[30-06-2020] : Orange [08:32:07] --> RHP [10:55:59] --> Ali's Nasi Kandar [13:19:26] --> 
+[01-07-2020] : Orange [08:31:36] --> Ali's Nasi Kandar [13:21:13] --> SlowMart [18:09:28] --> 
+[02-07-2020] : Orange [08:31:12] --> Fibre [10:53:50] --> Ali's Nasi Kandar [13:17:45] --> Post Office [18:04:54] --> 

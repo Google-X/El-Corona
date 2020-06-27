@@ -1,0 +1,17 @@
+HUMAN ID: 08005     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Petrocad [08:31:30] --> FoodCourt [13:19:06] --> GayaGrocery [18:06:33] --> Park [20:27:53] --> 
+[20-06-2020] : 2 Akhir [13:17:13] --> FoodCourt [18:04:33] --> Moonlings [20:27:54] --> 
+[21-06-2020] : IKEY [20:26:00] --> 
+[22-06-2020] : Petrocad [08:30:45] --> Police Station [10:54:37] --> MoonBucks [13:18:46] --> GayaGrocery [18:04:57] --> 
+[23-06-2020] : Petrocad [08:30:27] --> MoonBucks [10:52:56] --> GayaGrocery [18:01:57] --> 
+[24-06-2020] : Petrocad [08:29:10] --> 
+[25-06-2020] : MRT Station [06:06:20] --> Petrocad [08:28:27] --> FoodCourt [18:01:39] --> 
+[26-06-2020] : Petrocad [08:27:52] --> SlowMart [10:50:32] --> Police Station [18:00:14] --> 
+[27-06-2020] : IKEY [20:25:18] --> 
+[28-06-2020] : GayaGrocery [10:51:30] --> Museum [13:14:33] --> Park [20:24:42] --> 
+[29-06-2020] : KTM Station [06:07:28] --> Petrocad [08:30:34] --> Fibre [10:54:47] --> Ali's Nasi Kandar [13:19:33] --> Police Station [18:06:05] --> 
+[30-06-2020] : Petrocad [08:30:21] --> SlowMart [10:54:07] --> SlowMart [18:04:48] --> 
+[01-07-2020] : MRT Station [06:06:11] --> Petrocad [08:29:39] --> FoodCourt [13:19:29] --> 
+[02-07-2020] : Petrocad [08:29:17] --> FoodCourt [13:15:50] --> SlowMart [18:02:59] --> 

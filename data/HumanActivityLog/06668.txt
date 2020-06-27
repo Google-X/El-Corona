@@ -1,0 +1,17 @@
+HUMAN ID: 06668     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [08:20:07] --> Ali's Nasi Kandar [13:08:08] --> 
+[20-06-2020] : 
+[21-06-2020] : 
+[22-06-2020] : MRT Station [08:19:23] --> Fibre [10:42:57] --> 
+[23-06-2020] : MRT Station [08:19:11] --> MoonBucks [13:05:19] --> 
+[24-06-2020] : MRT Station [08:18:11] --> MoonBucks [13:05:28] --> 
+[25-06-2020] : MRT Station [08:16:58] --> Pharmarcy [10:39:51] --> MoonBucks [13:03:38] --> 
+[26-06-2020] : MRT Station [08:17:00] --> RHP [10:39:10] --> MoonBucks [13:01:56] --> 2 Akhir [20:12:35] --> 
+[27-06-2020] : Museum [20:14:07] --> 
+[28-06-2020] : Library [20:13:11] --> 
+[29-06-2020] : MRT Station [08:19:18] --> 
+[30-06-2020] : MRT Station [08:18:58] --> Pharmarcy [10:43:04] --> Ali's Nasi Kandar [13:06:50] --> 
+[01-07-2020] : MRT Station [08:18:45] --> RHP [10:43:10] --> Ali's Nasi Kandar [13:07:37] --> 
+[02-07-2020] : MRT Station [08:18:05] --> MoonBucks [10:40:55] --> 

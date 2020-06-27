@@ -1,0 +1,17 @@
+HUMAN ID: 06792     GENDER: Male     AGE CATEGORY: Adult     ROLE: Waiter
+========================================================================================
+
+[19-06-2020] : MoonBucks [08:21:16] --> 
+[20-06-2020] : MoonBucks [08:20:08] --> JJPTRv2 [13:06:34] --> Pharmarcy [17:54:20] --> 
+[21-06-2020] : MoonBucks [08:20:07] --> FoodCourt [13:05:59] --> 
+[22-06-2020] : MoonBucks [08:20:25] --> JanBank [13:08:02] --> 
+[23-06-2020] : MoonBucks [08:20:09] --> 
+[24-06-2020] : MoonBucks [08:19:05] --> 
+[25-06-2020] : MoonBucks [08:17:59] --> FoodCourt [13:04:37] --> 
+[26-06-2020] : MoonBucks [08:17:55] --> Ali's Nasi Kandar [17:50:35] --> 
+[27-06-2020] : MoonBucks [08:20:43] --> Ali's Nasi Kandar [13:05:48] --> GayaGrocery [17:51:46] --> 
+[28-06-2020] : MoonBucks [08:18:38] --> 
+[29-06-2020] : MoonBucks [08:20:23] --> MoonBucks [13:09:09] --> 
+[30-06-2020] : MoonBucks [08:19:56] --> Post Office [17:54:12] --> 
+[01-07-2020] : MoonBucks [08:19:44] --> 
+[02-07-2020] : MoonBucks [08:19:05] --> SlowMart [13:05:48] --> Ali's Nasi Kandar [17:53:15] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 07113     GENDER: Female     AGE CATEGORY: Adult     ROLE: Shopping Centre Retailer
+========================================================================================
+
+[19-06-2020] : Moonlings [08:24:03] --> Ali's Nasi Kandar [17:59:20] --> 
+[20-06-2020] : Moonlings [08:22:43] --> 
+[21-06-2020] : Moonlings [08:22:32] --> JJPTRv2 [13:08:34] --> GayaGrocery [17:55:43] --> 
+[22-06-2020] : Moonlings [08:23:20] --> SlowMart [17:57:49] --> 
+[23-06-2020] : MRT Station [06:00:05] --> Moonlings [08:22:52] --> RHP [13:09:01] --> JJPTRv2 [17:54:46] --> 
+[24-06-2020] : Moonlings [08:21:43] --> Pharmarcy [13:09:00] --> 
+[25-06-2020] : Moonlings [08:20:51] --> 
+[26-06-2020] : Moonlings [08:20:36] --> 
+[27-06-2020] : Moonlings [08:23:19] --> 
+[28-06-2020] : Moonlings [08:21:17] --> 
+[29-06-2020] : MRT Station [06:00:09] --> Moonlings [08:22:58] --> Ali's Nasi Kandar [13:11:57] --> 
+[30-06-2020] : Moonlings [08:22:40] --> 
+[01-07-2020] : Moonlings [08:22:21] --> 
+[02-07-2020] : Moonlings [08:21:47] --> Fibre [13:08:29] --> FoodCourt [17:55:47] --> 

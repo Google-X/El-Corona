@@ -1,0 +1,17 @@
+HUMAN ID: 05388     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Engineer
+========================================================================================
+
+[19-06-2020] : MRT Station [08:09:32] --> Library [20:06:20] --> 
+[20-06-2020] : Post Office [10:31:42] --> 
+[21-06-2020] : Ali's Nasi Kandar [10:31:15] --> 
+[22-06-2020] : MRT Station [08:08:53] --> FoodCourt [12:56:19] --> 
+[23-06-2020] : MRT Station [08:08:42] --> Post Office [10:31:49] --> FoodCourt [12:54:20] --> 
+[24-06-2020] : MRT Station [08:07:11] --> 
+[25-06-2020] : MRT Station [08:06:24] --> FoodCourt [12:52:55] --> 
+[26-06-2020] : MRT Station [08:06:44] --> Pharmarcy [10:28:36] --> FoodCourt [12:51:38] --> 
+[27-06-2020] : IKEY [12:54:20] --> Library [20:03:27] --> 
+[28-06-2020] : Moonlings [20:02:14] --> 
+[29-06-2020] : MRT Station [08:09:17] --> Ali's Nasi Kandar [12:57:48] --> 
+[30-06-2020] : MRT Station [08:08:46] --> MoonBucks [10:32:28] --> 
+[01-07-2020] : MRT Station [08:07:52] --> MoonBucks [10:32:03] --> Ali's Nasi Kandar [12:56:58] --> 
+[02-07-2020] : MRT Station [08:07:24] --> Ali's Nasi Kandar [12:54:02] --> 

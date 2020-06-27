@@ -1,0 +1,17 @@
+HUMAN ID: 07134     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Hospital [08:24:13] --> Moonlings [20:20:58] --> 
+[20-06-2020] : 
+[21-06-2020] : 
+[22-06-2020] : Hospital [08:23:32] --> Ali's Nasi Kandar [13:11:09] --> 
+[23-06-2020] : MRT Station [06:00:12] --> Hospital [08:23:02] --> FoodCourt [10:45:31] --> MoonBucks [13:09:11] --> 
+[24-06-2020] : KTM Station [05:59:29] --> Hospital [08:21:54] --> Fibre [10:45:19] --> Ali's Nasi Kandar [13:09:12] --> 
+[25-06-2020] : Hospital [08:21:03] --> GayaGrocery [10:43:52] --> 
+[26-06-2020] : KTM Station [05:58:47] --> Hospital [08:20:47] --> MoonBucks [13:05:28] --> Moonlings [20:16:56] --> 
+[27-06-2020] : Library [20:17:56] --> 
+[28-06-2020] : IKEY [20:17:09] --> 
+[29-06-2020] : MRT Station [06:00:19] --> Hospital [08:23:08] --> Ali's Nasi Kandar [13:12:11] --> 
+[30-06-2020] : Hospital [08:22:52] --> 
+[01-07-2020] : MRT Station [05:58:51] --> Hospital [08:22:33] --> JanBank [10:47:28] --> Ali's Nasi Kandar [13:11:58] --> 
+[02-07-2020] : Hospital [08:21:56] --> FoodCourt [13:08:42] --> 

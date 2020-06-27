@@ -1,0 +1,17 @@
+HUMAN ID: 00886     GENDER: Female     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : Moonlings [09:56:01] --> Ali's Nasi Kandar [17:06:44] --> 
+[20-06-2020] : KTM Station [07:31:26] --> Moonlings [09:54:32] --> 
+[21-06-2020] : KTM Station [07:30:54] --> Moonlings [09:53:25] --> Police Station [17:03:44] --> 
+[22-06-2020] : Post Office [17:05:44] --> 
+[23-06-2020] : Moonlings [09:54:04] --> 
+[24-06-2020] : KTM Station [07:30:29] --> Moonlings [09:52:24] --> 
+[25-06-2020] : Moonlings [09:52:22] --> 
+[26-06-2020] : MRT Station [07:29:40] --> Moonlings [09:51:25] --> 
+[27-06-2020] : Moonlings [09:55:48] --> 
+[28-06-2020] : Moonlings [09:53:04] --> SlowMart [17:01:01] --> 
+[29-06-2020] : MRT Station [07:32:03] --> Moonlings [09:54:08] --> 
+[30-06-2020] : Moonlings [09:54:46] --> 
+[01-07-2020] : RHP [17:08:24] --> 
+[02-07-2020] : MRT Station [07:30:24] --> Moonlings [09:53:01] --> GayaGrocery [17:03:36] --> 

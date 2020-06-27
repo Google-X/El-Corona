@@ -1,0 +1,17 @@
+HUMAN ID: 05087     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:06:59] --> 
+[20-06-2020] : Police Station [08:06:45] --> 
+[21-06-2020] : Police Station [08:05:49] --> 
+[22-06-2020] : Police Station [08:06:14] --> 
+[23-06-2020] : Police Station [08:06:08] --> 
+[24-06-2020] : Police Station [08:04:44] --> 
+[25-06-2020] : Police Station [08:03:53] --> 
+[26-06-2020] : Police Station [08:04:08] --> 
+[27-06-2020] : Police Station [08:06:50] --> 
+[28-06-2020] : Police Station [08:04:19] --> 
+[29-06-2020] : Police Station [08:06:44] --> 
+[30-06-2020] : Police Station [08:06:18] --> 
+[01-07-2020] : Police Station [08:05:16] --> 
+[02-07-2020] : Police Station [08:04:34] --> 

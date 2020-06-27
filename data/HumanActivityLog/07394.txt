@@ -1,0 +1,17 @@
+HUMAN ID: 07394     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [06:02:28] --> Hospital [08:26:14] --> Library [20:23:07] --> 
+[20-06-2020] : 
+[21-06-2020] : Library [20:20:38] --> 
+[22-06-2020] : MRT Station [06:01:30] --> Hospital [08:25:37] --> Pharmarcy [10:49:20] --> FoodCourt [13:13:25] --> 
+[23-06-2020] : Hospital [08:25:16] --> Pharmarcy [10:47:57] --> Ali's Nasi Kandar [13:11:25] --> 
+[24-06-2020] : Hospital [08:23:58] --> JJPTRv2 [10:47:17] --> FoodCourt [13:11:36] --> 
+[25-06-2020] : KTM Station [06:01:18] --> Hospital [08:23:10] --> 
+[26-06-2020] : Hospital [08:22:53] --> FoodCourt [10:45:48] --> MoonBucks [13:07:26] --> Museum [20:19:00] --> 
+[27-06-2020] : Museum [13:10:48] --> 
+[28-06-2020] : 
+[29-06-2020] : Hospital [08:25:21] --> 
+[30-06-2020] : KTM Station [06:01:31] --> Hospital [08:25:14] --> MoonBucks [13:12:38] --> 
+[01-07-2020] : KTM Station [06:01:14] --> Hospital [08:24:43] --> Ali's Nasi Kandar [13:14:04] --> 
+[02-07-2020] : MRT Station [06:02:14] --> Hospital [08:24:05] --> Fibre [10:46:43] --> FoodCourt [13:10:37] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 07541     GENDER: Female     AGE CATEGORY: Adult     ROLE: Waiter
+========================================================================================
+
+[19-06-2020] : KTM Station [06:03:36] --> FoodCourt [08:27:19] --> 
+[20-06-2020] : FoodCourt [08:26:09] --> SlowMart [13:13:20] --> 
+[21-06-2020] : MRT Station [06:03:00] --> FoodCourt [08:25:56] --> Ali's Nasi Kandar [13:12:08] --> 
+[22-06-2020] : 
+[23-06-2020] : FoodCourt [08:26:37] --> Ali's Nasi Kandar [17:58:08] --> 
+[24-06-2020] : KTM Station [06:03:01] --> FoodCourt [08:25:22] --> 
+[25-06-2020] : MRT Station [06:02:35] --> FoodCourt [08:24:34] --> 
+[26-06-2020] : FoodCourt [08:24:00] --> JanBank [17:56:28] --> 
+[27-06-2020] : KTM Station [06:03:37] --> FoodCourt [08:26:53] --> 
+[28-06-2020] : FoodCourt [08:24:56] --> Fibre [17:56:16] --> 
+[29-06-2020] : MRT Station [06:03:32] --> FoodCourt [08:26:29] --> 
+[30-06-2020] : KTM Station [06:02:50] --> FoodCourt [08:26:20] --> 
+[01-07-2020] : FoodCourt [08:25:55] --> Ali's Nasi Kandar [13:15:21] --> 
+[02-07-2020] : FoodCourt [08:25:25] --> Fibre [13:11:54] --> 

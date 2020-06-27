@@ -1,0 +1,17 @@
+HUMAN ID: 08766     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [08:38:00] --> JanBank [18:12:32] --> Library [20:34:20] --> 
+[20-06-2020] : Library [20:34:02] --> 
+[21-06-2020] : JanBank [10:59:01] --> Museum [20:32:06] --> 
+[22-06-2020] : MRT Station [08:37:00] --> 
+[23-06-2020] : MRT Station [08:36:31] --> FoodCourt [13:22:39] --> MoonBucks [18:08:31] --> 
+[24-06-2020] : MRT Station [08:35:12] --> Pharmarcy [10:58:51] --> 
+[25-06-2020] : MRT Station [08:35:08] --> Ali's Nasi Kandar [10:57:37] --> Ali's Nasi Kandar [13:21:05] --> GayaGrocery [18:08:21] --> 
+[26-06-2020] : MRT Station [08:33:59] --> Ali's Nasi Kandar [13:19:14] --> 
+[27-06-2020] : IKEY [20:31:30] --> 
+[28-06-2020] : MoonBucks [18:06:43] --> Museum [20:31:05] --> 
+[29-06-2020] : MRT Station [08:36:46] --> Ali's Nasi Kandar [13:25:44] --> 
+[30-06-2020] : MRT Station [08:36:22] --> MoonBucks [13:24:03] --> 
+[01-07-2020] : MRT Station [08:36:06] --> Ali's Nasi Kandar [13:25:34] --> 
+[02-07-2020] : MRT Station [08:35:41] --> SlowMart [10:58:25] --> Ali's Nasi Kandar [13:22:04] --> GayaGrocery [18:09:20] --> 

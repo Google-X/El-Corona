@@ -1,0 +1,17 @@
+HUMAN ID: 05273     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [05:44:32] --> Airport [08:08:34] --> Fibre [10:32:41] --> FoodCourt [12:56:44] --> Park [20:05:27] --> 
+[20-06-2020] : 
+[21-06-2020] : 
+[22-06-2020] : Airport [08:07:55] --> SlowMart [10:31:26] --> FoodCourt [12:55:15] --> 
+[23-06-2020] : MRT Station [05:44:18] --> Airport [08:07:31] --> Ali's Nasi Kandar [10:31:02] --> 
+[24-06-2020] : Airport [08:06:20] --> Ali's Nasi Kandar [12:53:00] --> 
+[25-06-2020] : KTM Station [05:43:43] --> Airport [08:05:36] --> Police Station [10:27:37] --> MoonBucks [12:52:06] --> 
+[26-06-2020] : Airport [08:05:47] --> Ali's Nasi Kandar [12:50:41] --> 2 Akhir [20:00:58] --> 
+[27-06-2020] : Library [20:02:30] --> 
+[28-06-2020] : Moonlings [20:01:14] --> 
+[29-06-2020] : MRT Station [05:44:16] --> Airport [08:08:16] --> 
+[30-06-2020] : Airport [08:07:50] --> 
+[01-07-2020] : Airport [08:06:53] --> MoonBucks [12:56:07] --> 
+[02-07-2020] : Airport [08:06:26] --> MoonBucks [12:52:58] --> 

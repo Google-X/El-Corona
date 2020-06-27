@@ -1,0 +1,17 @@
+HUMAN ID: 01077     GENDER: Female     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : Post Office [09:57:34] --> 
+[20-06-2020] : Post Office [09:56:01] --> 
+[21-06-2020] : Post Office [09:55:01] --> 
+[22-06-2020] : Post Office [09:56:34] --> 
+[23-06-2020] : KTM Station [07:32:36] --> Post Office [09:55:40] --> 
+[24-06-2020] : Post Office [09:54:00] --> JJPTRv2 [17:06:22] --> 
+[25-06-2020] : MRT Station [07:31:42] --> Post Office [09:54:01] --> Police Station [17:04:07] --> 
+[26-06-2020] : Post Office [09:53:05] --> 
+[27-06-2020] : Post Office [09:57:24] --> 
+[28-06-2020] : KTM Station [07:30:56] --> Post Office [09:54:28] --> 
+[29-06-2020] : KTM Station [07:33:32] --> Post Office [09:55:41] --> Post Office [17:08:18] --> 
+[30-06-2020] : KTM Station [07:33:14] --> Post Office [09:56:13] --> 
+[01-07-2020] : Post Office [09:56:03] --> Pharmarcy [17:10:05] --> 
+[02-07-2020] : KTM Station [07:31:48] --> Post Office [09:54:39] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 05909     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Shopping Centre Retailer
+========================================================================================
+
+[19-06-2020] : Moonlings [08:14:00] --> RHP [13:01:47] --> 
+[20-06-2020] : Moonlings [08:13:13] --> Pharmarcy [17:47:06] --> 
+[21-06-2020] : Moonlings [08:12:24] --> 
+[22-06-2020] : Moonlings [08:13:02] --> Ali's Nasi Kandar [13:00:41] --> Fibre [17:48:07] --> 
+[23-06-2020] : Moonlings [08:12:59] --> Police Station [17:44:29] --> 
+[24-06-2020] : Moonlings [08:11:43] --> JJPTRv2 [17:47:12] --> 
+[25-06-2020] : Moonlings [08:10:28] --> 
+[26-06-2020] : Moonlings [08:10:59] --> 
+[27-06-2020] : Moonlings [08:13:28] --> 
+[28-06-2020] : Moonlings [08:11:13] --> JJPTRv2 [17:42:57] --> 
+[29-06-2020] : 
+[30-06-2020] : Moonlings [08:12:45] --> 
+[01-07-2020] : Moonlings [08:12:41] --> GayaGrocery [13:01:21] --> Police Station [17:49:30] --> 
+[02-07-2020] : Moonlings [08:11:50] --> 

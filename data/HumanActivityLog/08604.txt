@@ -1,0 +1,17 @@
+HUMAN ID: 08604     GENDER: Male     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : MoonBucks [08:36:47] --> 
+[20-06-2020] : MRT Station [06:12:53] --> MoonBucks [08:35:32] --> Post Office [13:22:36] --> 
+[21-06-2020] : MRT Station [06:11:33] --> MoonBucks [08:34:10] --> 
+[22-06-2020] : KTM Station [06:11:17] --> MoonBucks [08:35:40] --> Post Office [13:23:56] --> 
+[23-06-2020] : MoonBucks [08:35:17] --> 
+[24-06-2020] : MRT Station [06:11:20] --> MoonBucks [08:33:56] --> FoodCourt [13:21:46] --> 
+[25-06-2020] : MoonBucks [08:33:56] --> 
+[26-06-2020] : MRT Station [06:10:55] --> MoonBucks [08:32:49] --> 
+[27-06-2020] : MoonBucks [08:35:52] --> 
+[28-06-2020] : MoonBucks [08:33:58] --> MoonBucks [13:19:33] --> 
+[29-06-2020] : KTM Station [06:12:24] --> MoonBucks [08:35:22] --> 
+[30-06-2020] : MoonBucks [08:34:54] --> 
+[01-07-2020] : MoonBucks [08:34:49] --> Post Office [13:24:15] --> 
+[02-07-2020] : MoonBucks [08:34:32] --> 

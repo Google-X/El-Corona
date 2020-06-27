@@ -1,0 +1,17 @@
+HUMAN ID: 06099     GENDER: Female     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:15:31] --> 
+[20-06-2020] : Police Station [08:14:34] --> 
+[21-06-2020] : Police Station [08:14:04] --> 
+[22-06-2020] : Police Station [08:14:29] --> SlowMart [13:02:17] --> 
+[23-06-2020] : Police Station [08:14:34] --> 
+[24-06-2020] : 
+[25-06-2020] : Police Station [08:12:01] --> 
+[26-06-2020] : Police Station [08:12:41] --> 
+[27-06-2020] : Police Station [08:15:04] --> 
+[28-06-2020] : Police Station [08:12:43] --> 
+[29-06-2020] : Police Station [08:14:40] --> Pharmarcy [13:03:21] --> 
+[30-06-2020] : Police Station [08:14:23] --> 
+[01-07-2020] : Police Station [08:14:16] --> 
+[02-07-2020] : Police Station [08:13:28] --> 

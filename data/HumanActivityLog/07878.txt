@@ -1,0 +1,17 @@
+HUMAN ID: 07878     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [06:06:27] --> Petrocad [08:30:25] --> Fibre [10:54:48] --> FoodCourt [13:18:07] --> JJPTRv2 [18:05:31] --> Museum [20:26:54] --> 
+[20-06-2020] : Fibre [10:52:32] --> JanBank [18:03:28] --> IKEY [20:26:39] --> 
+[21-06-2020] : Museum [20:25:04] --> 
+[22-06-2020] : Petrocad [08:29:32] --> JJPTRv2 [10:53:35] --> MoonBucks [13:17:40] --> Pharmarcy [18:04:03] --> 
+[23-06-2020] : Petrocad [08:29:17] --> 
+[24-06-2020] : KTM Station [06:05:33] --> Petrocad [08:27:59] --> FoodCourt [10:51:26] --> FoodCourt [13:16:00] --> 
+[25-06-2020] : Petrocad [08:27:26] --> MoonBucks [13:13:43] --> 
+[26-06-2020] : Petrocad [08:26:53] --> FoodCourt [13:11:19] --> 
+[27-06-2020] : Moonlings [13:14:52] --> JJPTRv2 [18:00:31] --> IKEY [20:24:15] --> 
+[28-06-2020] : 
+[29-06-2020] : KTM Station [06:06:20] --> Petrocad [08:29:16] --> RHP [10:53:54] --> MoonBucks [13:18:39] --> Pharmarcy [18:04:51] --> 
+[30-06-2020] : MRT Station [06:05:39] --> Petrocad [08:29:16] --> Pharmarcy [10:53:05] --> Ali's Nasi Kandar [13:16:37] --> 
+[01-07-2020] : KTM Station [06:05:10] --> Petrocad [08:28:45] --> Post Office [10:53:58] --> MoonBucks [13:18:16] --> 
+[02-07-2020] : Petrocad [08:28:13] --> FoodCourt [13:14:41] --> 

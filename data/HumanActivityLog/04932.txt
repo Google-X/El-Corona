@@ -1,0 +1,17 @@
+HUMAN ID: 04932     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:05:43] --> 
+[20-06-2020] : Police Station [08:05:27] --> SlowMart [17:39:28] --> 
+[21-06-2020] : Police Station [08:04:29] --> 
+[22-06-2020] : Police Station [08:04:50] --> 
+[23-06-2020] : Police Station [08:04:56] --> 
+[24-06-2020] : Police Station [08:03:19] --> 
+[25-06-2020] : Police Station [08:02:38] --> 
+[26-06-2020] : Police Station [08:02:55] --> 
+[27-06-2020] : Police Station [08:05:29] --> 
+[28-06-2020] : Police Station [08:02:55] --> 
+[29-06-2020] : Police Station [08:05:27] --> 
+[30-06-2020] : Police Station [08:04:59] --> 
+[01-07-2020] : Police Station [08:03:55] --> 
+[02-07-2020] : Police Station [08:03:19] --> 

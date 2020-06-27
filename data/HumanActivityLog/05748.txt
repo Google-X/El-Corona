@@ -1,0 +1,17 @@
+HUMAN ID: 05748     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : Moonlings [08:12:35] --> GayaGrocery [13:00:30] --> Ali's Nasi Kandar [17:47:39] --> 
+[20-06-2020] : Moonlings [08:11:59] --> 
+[21-06-2020] : Moonlings [08:11:06] --> SlowMart [17:44:15] --> 
+[22-06-2020] : Moonlings [08:11:50] --> 
+[23-06-2020] : Moonlings [08:11:44] --> MoonBucks [17:43:10] --> 
+[24-06-2020] : Moonlings [08:10:28] --> 
+[25-06-2020] : Moonlings [08:09:07] --> SlowMart [17:43:08] --> 
+[26-06-2020] : Moonlings [08:09:43] --> GayaGrocery [17:42:25] --> 
+[27-06-2020] : Moonlings [08:12:07] --> GayaGrocery [17:43:09] --> 
+[28-06-2020] : Moonlings [08:09:43] --> 
+[29-06-2020] : Moonlings [08:12:01] --> Pharmarcy [13:00:25] --> 
+[30-06-2020] : Moonlings [08:11:24] --> 
+[01-07-2020] : Moonlings [08:11:14] --> 
+[02-07-2020] : 

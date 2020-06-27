@@ -1,0 +1,17 @@
+HUMAN ID: 08463     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : KTM Station [06:11:11] --> Airport [08:35:36] --> Moonlings [20:31:36] --> 
+[20-06-2020] : Museum [13:21:21] --> 
+[21-06-2020] : Post Office [10:56:39] --> Park [13:19:36] --> 
+[22-06-2020] : Airport [08:34:40] --> JanBank [18:08:44] --> 
+[23-06-2020] : KTM Station [06:11:12] --> Airport [08:34:00] --> Ali's Nasi Kandar [13:20:13] --> Pharmarcy [18:05:52] --> 
+[24-06-2020] : Airport [08:32:51] --> 
+[25-06-2020] : KTM Station [06:10:07] --> Airport [08:32:39] --> 
+[26-06-2020] : MRT Station [06:09:54] --> Airport [08:31:37] --> FoodCourt [13:16:30] --> FoodCourt [18:04:14] --> 
+[27-06-2020] : IKEY [20:28:57] --> 
+[28-06-2020] : Museum [20:28:38] --> 
+[29-06-2020] : Airport [08:34:15] --> FoodCourt [13:23:07] --> 
+[30-06-2020] : MRT Station [06:11:00] --> Airport [08:33:47] --> Ali's Nasi Kandar [13:21:25] --> JJPTRv2 [18:08:42] --> 
+[01-07-2020] : Airport [08:33:28] --> Ali's Nasi Kandar [10:58:54] --> MoonBucks [13:23:00] --> 
+[02-07-2020] : KTM Station [06:10:59] --> Airport [08:33:14] --> JJPTRv2 [10:55:53] --> FoodCourt [13:19:35] --> 

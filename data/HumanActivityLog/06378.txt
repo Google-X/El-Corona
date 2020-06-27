@@ -1,0 +1,17 @@
+HUMAN ID: 06378     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [05:53:50] --> Library [08:17:51] --> JanBank [10:41:43] --> 
+[20-06-2020] : Library [20:13:58] --> 
+[21-06-2020] : IKEY [20:11:42] --> 
+[22-06-2020] : MRT Station [05:52:46] --> Library [08:16:50] --> MoonBucks [13:04:39] --> 
+[23-06-2020] : Library [08:16:55] --> GayaGrocery [10:39:31] --> MoonBucks [13:02:51] --> 
+[24-06-2020] : KTM Station [05:53:27] --> Library [08:15:29] --> Ali's Nasi Kandar [13:02:56] --> 
+[25-06-2020] : MRT Station [05:52:42] --> Library [08:14:36] --> Police Station [10:37:30] --> FoodCourt [13:01:16] --> 
+[26-06-2020] : MRT Station [05:52:13] --> Library [08:14:45] --> FoodCourt [10:36:47] --> 
+[27-06-2020] : SlowMart [10:41:08] --> IKEY [13:02:21] --> Park [20:11:36] --> 
+[28-06-2020] : MoonBucks [10:38:13] --> Moonlings [20:10:38] --> 
+[29-06-2020] : KTM Station [05:53:46] --> Library [08:16:53] --> 
+[30-06-2020] : MRT Station [05:53:04] --> Library [08:16:31] --> 
+[01-07-2020] : KTM Station [05:52:40] --> Library [08:16:32] --> Pharmarcy [10:40:33] --> 
+[02-07-2020] : KTM Station [05:53:30] --> Library [08:15:28] --> FoodCourt [13:02:22] --> 

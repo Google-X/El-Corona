@@ -1,0 +1,17 @@
+HUMAN ID: 07566     GENDER: Female     AGE CATEGORY: Adult     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : Pharmarcy [08:27:30] --> 
+[20-06-2020] : Pharmarcy [08:26:22] --> 
+[21-06-2020] : MRT Station [06:03:09] --> 
+[22-06-2020] : Pharmarcy [08:26:56] --> 
+[23-06-2020] : Pharmarcy [08:26:53] --> JanBank [13:12:45] --> Police Station [17:58:22] --> 
+[24-06-2020] : Pharmarcy [08:25:34] --> 
+[25-06-2020] : Pharmarcy [08:24:49] --> 
+[26-06-2020] : KTM Station [06:02:25] --> Pharmarcy [08:24:11] --> 
+[27-06-2020] : Pharmarcy [08:27:05] --> MoonBucks [13:12:07] --> FoodCourt [17:58:06] --> 
+[28-06-2020] : Pharmarcy [08:25:07] --> MoonBucks [13:10:51] --> Post Office [17:56:28] --> 
+[29-06-2020] : Pharmarcy [08:26:43] --> 
+[30-06-2020] : MRT Station [06:03:03] --> Pharmarcy [08:26:30] --> 
+[01-07-2020] : KTM Station [06:02:31] --> Fibre [13:15:35] --> 
+[02-07-2020] : MRT Station [06:03:46] --> Pharmarcy [08:25:35] --> Pharmarcy [13:12:07] --> RHP [17:59:19] --> 

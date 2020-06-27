@@ -1,0 +1,17 @@
+HUMAN ID: 07691     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:28:37] --> 
+[20-06-2020] : Police Station [08:27:22] --> 
+[21-06-2020] : Police Station [08:27:03] --> 
+[22-06-2020] : Police Station [08:27:58] --> 
+[23-06-2020] : Police Station [08:27:49] --> Post Office [13:13:48] --> 
+[24-06-2020] : Police Station [08:26:31] --> 
+[25-06-2020] : Police Station [08:25:50] --> 
+[26-06-2020] : Police Station [08:25:24] --> 
+[27-06-2020] : Police Station [08:28:11] --> 
+[28-06-2020] : Police Station [08:26:21] --> 
+[29-06-2020] : Police Station [08:27:47] --> 
+[30-06-2020] : Police Station [08:27:36] --> 
+[01-07-2020] : Police Station [08:27:05] --> 
+[02-07-2020] : Police Station [08:26:37] --> 

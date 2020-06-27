@@ -1,0 +1,17 @@
+HUMAN ID: 01260     GENDER: Female     AGE CATEGORY: Adult     ROLE: Shopping Centre Retailer
+========================================================================================
+
+[19-06-2020] : MRT Station [07:34:41] --> Moonlings [09:59:11] --> Pharmarcy [17:10:01] --> 
+[20-06-2020] : 
+[21-06-2020] : KTM Station [07:34:06] --> Moonlings [09:56:30] --> RHP [17:06:53] --> 
+[22-06-2020] : Moonlings [09:58:03] --> 
+[23-06-2020] : MRT Station [07:34:09] --> Moonlings [09:57:08] --> 
+[24-06-2020] : Moonlings [09:55:29] --> 
+[25-06-2020] : MRT Station [07:33:18] --> Moonlings [09:55:30] --> Police Station [17:05:32] --> 
+[26-06-2020] : Moonlings [09:54:30] --> 
+[27-06-2020] : Moonlings [09:58:54] --> 
+[28-06-2020] : Moonlings [09:56:00] --> 
+[29-06-2020] : Moonlings [09:57:19] --> Fibre [17:09:54] --> 
+[30-06-2020] : Moonlings [09:57:46] --> SlowMart [17:08:01] --> 
+[01-07-2020] : KTM Station [07:33:32] --> Moonlings [09:57:38] --> JanBank [17:11:30] --> 
+[02-07-2020] : Moonlings [09:56:13] --> Ali's Nasi Kandar [17:06:40] --> 

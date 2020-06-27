@@ -1,0 +1,17 @@
+HUMAN ID: 07752     GENDER: Female     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : Library [08:29:16] --> 
+[20-06-2020] : Library [08:27:58] --> 
+[21-06-2020] : KTM Station [06:04:35] --> Library [08:27:33] --> Police Station [13:13:41] --> 
+[22-06-2020] : Library [08:28:26] --> Ali's Nasi Kandar [13:16:30] --> 
+[23-06-2020] : Library [08:28:18] --> Pharmarcy [13:14:19] --> 
+[24-06-2020] : Library [08:27:01] --> 
+[25-06-2020] : Library [08:26:22] --> Post Office [17:59:37] --> 
+[26-06-2020] : Library [08:25:57] --> FoodCourt [13:10:14] --> 
+[27-06-2020] : MRT Station [06:05:10] --> Library [08:28:41] --> Police Station [13:13:47] --> 
+[28-06-2020] : KTM Station [06:03:08] --> Library [08:26:58] --> Fibre [13:12:30] --> Ali's Nasi Kandar [17:58:06] --> 
+[29-06-2020] : KTM Station [06:05:13] --> Library [08:28:15] --> 
+[30-06-2020] : Library [08:28:09] --> Post Office [13:15:37] --> 
+[01-07-2020] : KTM Station [06:04:10] --> Library [08:27:42] --> 
+[02-07-2020] : KTM Station [06:05:01] --> Library [08:27:08] --> RHP [13:13:45] --> 

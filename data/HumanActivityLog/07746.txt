@@ -1,0 +1,17 @@
+HUMAN ID: 07746     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [06:05:18] --> Kindergarden [08:29:10] --> FoodCourt [13:17:00] --> 
+[20-06-2020] : 
+[21-06-2020] : Museum [20:23:59] --> 
+[22-06-2020] : KTM Station [06:04:03] --> Kindergarden [08:28:24] --> SlowMart [10:52:22] --> Ali's Nasi Kandar [13:16:25] --> Post Office [18:02:54] --> 
+[23-06-2020] : Kindergarden [08:28:13] --> 
+[24-06-2020] : MRT Station [06:04:38] --> Kindergarden [08:26:59] --> GayaGrocery [10:50:27] --> Ali's Nasi Kandar [13:14:48] --> 
+[25-06-2020] : MRT Station [06:04:12] --> Kindergarden [08:26:19] --> Pharmarcy [10:49:15] --> Ali's Nasi Kandar [13:12:37] --> 
+[26-06-2020] : MRT Station [06:03:58] --> Kindergarden [08:25:53] --> Park [20:22:04] --> 
+[27-06-2020] : IKEY [20:23:13] --> 
+[28-06-2020] : Pharmarcy [10:49:22] --> Museum [20:22:33] --> 
+[29-06-2020] : MRT Station [06:05:09] --> Kindergarden [08:28:15] --> Pharmarcy [10:52:44] --> FoodCourt [13:17:35] --> 
+[30-06-2020] : MRT Station [06:04:32] --> Kindergarden [08:28:05] --> RHP [18:02:43] --> 
+[01-07-2020] : MRT Station [06:04:06] --> Kindergarden [08:27:37] --> FoodCourt [13:17:08] --> GayaGrocery [18:05:15] --> 
+[02-07-2020] : Kindergarden [08:27:03] --> SlowMart [10:49:50] --> MoonBucks [13:13:41] --> 

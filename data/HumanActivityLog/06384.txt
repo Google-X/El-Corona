@@ -1,0 +1,17 @@
+HUMAN ID: 06384     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Clinic [08:17:54] --> Ali's Nasi Kandar [13:05:48] --> 
+[20-06-2020] : Library [13:03:16] --> 
+[21-06-2020] : Park [13:02:27] --> Park [20:11:44] --> 
+[22-06-2020] : Clinic [08:16:54] --> Police Station [10:40:29] --> MoonBucks [13:04:41] --> 
+[23-06-2020] : MRT Station [05:53:56] --> Clinic [08:16:58] --> Police Station [10:39:34] --> Ali's Nasi Kandar [13:02:54] --> 
+[24-06-2020] : Clinic [08:15:33] --> Ali's Nasi Kandar [13:02:59] --> 
+[25-06-2020] : KTM Station [05:52:46] --> Clinic [08:14:41] --> RHP [10:37:34] --> FoodCourt [13:01:19] --> 
+[26-06-2020] : Clinic [08:14:47] --> Ali's Nasi Kandar [12:59:32] --> IKEY [20:10:30] --> 
+[27-06-2020] : MoonBucks [10:41:11] --> Museum [20:11:40] --> 
+[28-06-2020] : Library [20:10:41] --> 
+[29-06-2020] : MRT Station [05:53:48] --> Clinic [08:16:54] --> Ali's Nasi Kandar [13:05:49] --> 
+[30-06-2020] : MRT Station [05:53:06] --> Clinic [08:16:36] --> 
+[01-07-2020] : KTM Station [05:52:44] --> Clinic [08:16:36] --> 
+[02-07-2020] : MRT Station [05:53:34] --> Clinic [08:15:32] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 06439     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [08:18:22] --> FoodCourt [10:42:14] --> 
+[20-06-2020] : Moonlings [13:03:44] --> Park [20:14:28] --> 
+[21-06-2020] : 2 Akhir [20:12:22] --> 
+[22-06-2020] : MRT Station [08:17:19] --> Ali's Nasi Kandar [13:05:09] --> 
+[23-06-2020] : MRT Station [08:17:25] --> Ali's Nasi Kandar [13:03:17] --> 
+[24-06-2020] : MRT Station [08:16:01] --> GayaGrocery [10:39:41] --> Ali's Nasi Kandar [13:03:21] --> 
+[25-06-2020] : MRT Station [08:15:12] --> Ali's Nasi Kandar [13:01:44] --> 
+[26-06-2020] : MRT Station [08:15:15] --> FoodCourt [13:00:02] --> 
+[27-06-2020] : 
+[28-06-2020] : RHP [10:38:44] --> 
+[29-06-2020] : MRT Station [08:17:20] --> Police Station [10:41:30] --> 
+[30-06-2020] : MRT Station [08:16:58] --> 
+[01-07-2020] : MRT Station [08:16:57] --> 
+[02-07-2020] : MRT Station [08:16:04] --> JJPTRv2 [10:39:03] --> Ali's Nasi Kandar [13:02:50] --> 

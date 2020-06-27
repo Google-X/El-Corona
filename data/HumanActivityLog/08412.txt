@@ -1,0 +1,17 @@
+HUMAN ID: 08412     GENDER: Male     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : KTM Station [06:10:44] --> FoodCourt [08:35:15] --> 
+[20-06-2020] : MRT Station [06:11:22] --> FoodCourt [08:33:55] --> Police Station [13:20:55] --> 
+[21-06-2020] : FoodCourt [08:32:47] --> Ali's Nasi Kandar [13:19:13] --> 
+[22-06-2020] : FoodCourt [08:34:14] --> 
+[23-06-2020] : FoodCourt [08:33:33] --> 
+[24-06-2020] : KTM Station [06:09:48] --> FoodCourt [08:32:30] --> Pharmarcy [13:20:07] --> 
+[25-06-2020] : MRT Station [06:09:44] --> FoodCourt [08:32:09] --> 
+[26-06-2020] : FoodCourt [08:31:09] --> Fibre [13:15:56] --> 
+[27-06-2020] : KTM Station [06:10:44] --> FoodCourt [08:34:24] --> 
+[28-06-2020] : MRT Station [06:08:37] --> FoodCourt [08:32:18] --> Police Station [13:17:56] --> 
+[29-06-2020] : MRT Station [06:10:47] --> 
+[30-06-2020] : FoodCourt [08:33:23] --> 
+[01-07-2020] : FoodCourt [08:33:02] --> Ali's Nasi Kandar [13:22:37] --> 
+[02-07-2020] : FoodCourt [08:32:44] --> Post Office [13:19:09] --> 

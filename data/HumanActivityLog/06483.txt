@@ -1,0 +1,17 @@
+HUMAN ID: 06483     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [08:18:36] --> Fibre [10:42:42] --> MoonBucks [13:06:36] --> 
+[20-06-2020] : Pharmarcy [10:41:14] --> Library [20:14:51] --> 
+[21-06-2020] : JanBank [10:40:17] --> Museum [20:12:48] --> 
+[22-06-2020] : MRT Station [08:17:43] --> 
+[23-06-2020] : MRT Station [08:17:51] --> FoodCourt [13:03:39] --> 
+[24-06-2020] : MRT Station [08:16:23] --> 
+[25-06-2020] : MRT Station [08:15:30] --> Ali's Nasi Kandar [13:02:04] --> 
+[26-06-2020] : MRT Station [08:15:38] --> Ali's Nasi Kandar [13:00:19] --> 
+[27-06-2020] : Library [20:12:26] --> 
+[28-06-2020] : Moonlings [20:11:33] --> 
+[29-06-2020] : MRT Station [08:17:40] --> FoodCourt [13:06:33] --> 
+[30-06-2020] : MRT Station [08:17:18] --> GayaGrocery [10:41:29] --> FoodCourt [13:05:19] --> 
+[01-07-2020] : MRT Station [08:17:14] --> Fibre [10:41:26] --> FoodCourt [13:06:00] --> 
+[02-07-2020] : MRT Station [08:16:30] --> FoodCourt [10:39:23] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 08134     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [08:32:42] --> Police Station [18:07:34] --> 
+[20-06-2020] : Moonlings [13:18:27] --> 
+[21-06-2020] : Moonlings [13:16:52] --> 2 Akhir [20:27:05] --> 
+[22-06-2020] : MRT Station [08:32:00] --> JanBank [10:55:45] --> MoonBucks [13:19:47] --> 
+[23-06-2020] : MRT Station [08:31:25] --> SlowMart [10:54:05] --> MoonBucks [13:17:36] --> 
+[24-06-2020] : MRT Station [08:30:11] --> Post Office [10:53:31] --> MoonBucks [13:18:00] --> 
+[25-06-2020] : MRT Station [08:29:39] --> Ali's Nasi Kandar [13:15:40] --> FoodCourt [18:02:45] --> 
+[26-06-2020] : MRT Station [08:28:54] --> Ali's Nasi Kandar [10:51:32] --> MoonBucks [13:13:36] --> Museum [20:25:24] --> 
+[27-06-2020] : Library [13:17:12] --> 
+[28-06-2020] : Museum [20:25:50] --> 
+[29-06-2020] : MRT Station [08:31:30] --> MoonBucks [13:20:43] --> 
+[30-06-2020] : MRT Station [08:31:18] --> GayaGrocery [10:55:13] --> JJPTRv2 [18:05:56] --> 
+[01-07-2020] : MRT Station [08:30:43] --> Ali's Nasi Kandar [13:20:24] --> Ali's Nasi Kandar [18:08:37] --> 
+[02-07-2020] : MRT Station [08:30:22] --> FoodCourt [10:52:56] --> Ali's Nasi Kandar [13:16:57] --> Post Office [18:04:04] --> 

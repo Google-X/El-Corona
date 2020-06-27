@@ -1,0 +1,17 @@
+HUMAN ID: 06634     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Shopping Centre Retailer
+========================================================================================
+
+[19-06-2020] : Moonlings [08:19:52] --> Fibre [17:55:10] --> 
+[20-06-2020] : Moonlings [08:18:53] --> GayaGrocery [13:05:15] --> 
+[21-06-2020] : Moonlings [08:18:43] --> 
+[22-06-2020] : Moonlings [08:19:04] --> FoodCourt [17:54:03] --> 
+[23-06-2020] : Moonlings [08:18:55] --> 
+[24-06-2020] : Moonlings [08:17:50] --> 
+[25-06-2020] : 
+[26-06-2020] : Moonlings [08:16:43] --> RHP [17:49:18] --> 
+[27-06-2020] : JJPTRv2 [17:50:27] --> 
+[28-06-2020] : Moonlings [08:17:12] --> 
+[29-06-2020] : Moonlings [08:18:59] --> GayaGrocery [13:07:51] --> Police Station [17:53:49] --> 
+[30-06-2020] : Moonlings [08:18:42] --> JanBank [17:52:45] --> 
+[01-07-2020] : Moonlings [08:18:26] --> 
+[02-07-2020] : Moonlings [08:17:47] --> MoonBucks [13:04:35] --> 

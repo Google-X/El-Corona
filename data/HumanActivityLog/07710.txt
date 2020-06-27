@@ -1,0 +1,17 @@
+HUMAN ID: 07710     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:28:47] --> Police Station [13:16:41] --> 
+[20-06-2020] : Police Station [08:27:32] --> GayaGrocery [18:02:04] --> 
+[21-06-2020] : Police Station [08:27:08] --> 
+[22-06-2020] : Police Station [08:28:08] --> 
+[23-06-2020] : Police Station [08:27:56] --> 
+[24-06-2020] : Police Station [08:26:41] --> 
+[25-06-2020] : Police Station [08:26:02] --> 
+[26-06-2020] : Police Station [08:25:32] --> 
+[27-06-2020] : Police Station [08:28:23] --> 
+[28-06-2020] : Police Station [08:26:30] --> 
+[29-06-2020] : Police Station [08:27:53] --> 
+[30-06-2020] : Police Station [08:27:47] --> 
+[01-07-2020] : Police Station [08:27:15] --> 
+[02-07-2020] : Police Station [08:26:47] --> 

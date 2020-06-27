@@ -1,0 +1,17 @@
+HUMAN ID: 00409     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [09:51:54] --> 
+[20-06-2020] : Police Station [09:50:31] --> 
+[21-06-2020] : Police Station [09:49:16] --> 
+[22-06-2020] : 
+[23-06-2020] : Police Station [09:50:14] --> 
+[24-06-2020] : Police Station [09:48:22] --> 
+[25-06-2020] : Police Station [09:48:48] --> 
+[26-06-2020] : Police Station [09:47:40] --> 
+[27-06-2020] : Police Station [09:51:31] --> 
+[28-06-2020] : Police Station [09:49:07] --> 
+[29-06-2020] : Police Station [09:49:59] --> 
+[30-06-2020] : Police Station [09:50:45] --> 
+[01-07-2020] : 
+[02-07-2020] : Police Station [09:48:53] --> 

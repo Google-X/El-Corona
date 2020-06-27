@@ -1,0 +1,17 @@
+HUMAN ID: 06350     GENDER: Male     AGE CATEGORY: Adult     ROLE: Shopping Centre Retailer
+========================================================================================
+
+[19-06-2020] : Moonlings [08:17:36] --> MoonBucks [17:52:35] --> 
+[20-06-2020] : 
+[21-06-2020] : Moonlings [08:16:14] --> Police Station [17:49:06] --> 
+[22-06-2020] : Moonlings [08:16:37] --> FoodCourt [17:51:39] --> 
+[23-06-2020] : Moonlings [08:16:42] --> Police Station [13:02:36] --> 
+[24-06-2020] : Moonlings [08:15:12] --> 
+[25-06-2020] : Moonlings [08:14:24] --> 
+[26-06-2020] : Moonlings [08:14:28] --> Police Station [17:47:15] --> 
+[27-06-2020] : Moonlings [08:16:58] --> Post Office [13:02:08] --> 
+[28-06-2020] : Moonlings [08:14:49] --> JanBank [13:00:48] --> 
+[29-06-2020] : Moonlings [08:16:45] --> Post Office [13:05:33] --> FoodCourt [17:51:41] --> 
+[30-06-2020] : Moonlings [08:16:17] --> FoodCourt [13:04:11] --> 
+[01-07-2020] : Moonlings [08:16:19] --> Pharmarcy [13:04:50] --> 
+[02-07-2020] : Moonlings [08:15:15] --> 

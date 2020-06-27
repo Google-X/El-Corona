@@ -1,0 +1,17 @@
+HUMAN ID: 05542     GENDER: Female     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:10:52] --> 
+[20-06-2020] : Police Station [08:10:17] --> 
+[21-06-2020] : Police Station [08:09:34] --> 
+[22-06-2020] : Police Station [08:10:01] --> 
+[23-06-2020] : Police Station [08:10:00] --> 
+[24-06-2020] : Police Station [08:08:32] --> 
+[25-06-2020] : Police Station [08:07:37] --> 
+[26-06-2020] : Police Station [08:08:06] --> 
+[27-06-2020] : Police Station [08:10:26] --> 
+[28-06-2020] : Police Station [08:07:59] --> 
+[29-06-2020] : Police Station [08:10:31] --> 
+[30-06-2020] : Police Station [08:09:56] --> 
+[01-07-2020] : Police Station [08:09:17] --> 
+[02-07-2020] : Police Station [08:08:42] --> 

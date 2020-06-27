@@ -1,0 +1,17 @@
+HUMAN ID: 06138     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [05:52:00] --> Airport [08:15:49] --> MoonBucks [13:03:43] --> 
+[20-06-2020] : 2 Akhir [13:01:07] --> Moonlings [20:11:59] --> 
+[21-06-2020] : Library [13:00:31] --> 
+[22-06-2020] : MRT Station [05:50:50] --> Airport [08:14:47] --> JanBank [10:38:09] --> 
+[23-06-2020] : Airport [08:14:49] --> 
+[24-06-2020] : KTM Station [05:51:22] --> Airport [08:13:36] --> FoodCourt [13:00:53] --> 
+[25-06-2020] : KTM Station [05:50:52] --> Airport [08:12:26] --> Police Station [10:35:14] --> MoonBucks [12:59:13] --> 
+[26-06-2020] : Airport [08:12:55] --> FoodCourt [12:57:38] --> 
+[27-06-2020] : IKEY [13:00:26] --> 2 Akhir [20:09:40] --> 
+[28-06-2020] : Fibre [10:36:23] --> Library [12:59:02] --> 
+[29-06-2020] : Airport [08:15:04] --> Police Station [10:38:58] --> FoodCourt [13:03:37] --> 
+[30-06-2020] : MRT Station [05:51:13] --> Airport [08:14:41] --> Ali's Nasi Kandar [13:02:18] --> 
+[01-07-2020] : Airport [08:14:36] --> MoonBucks [13:03:11] --> 
+[02-07-2020] : KTM Station [05:51:28] --> Airport [08:13:43] --> 

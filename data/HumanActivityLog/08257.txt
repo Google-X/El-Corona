@@ -1,0 +1,17 @@
+HUMAN ID: 08257     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : KTM Station [06:09:32] --> Petrocad [08:33:48] --> 2 Akhir [20:29:53] --> 
+[20-06-2020] : Moonlings [20:29:58] --> 
+[21-06-2020] : JJPTRv2 [18:04:55] --> 
+[22-06-2020] : KTM Station [06:08:15] --> Petrocad [08:32:53] --> Ali's Nasi Kandar [13:20:44] --> 
+[23-06-2020] : KTM Station [06:09:31] --> Petrocad [08:32:23] --> FoodCourt [13:18:36] --> 
+[24-06-2020] : MRT Station [06:08:38] --> Petrocad [08:31:16] --> Ali's Nasi Kandar [13:18:55] --> 
+[25-06-2020] : Petrocad [08:30:51] --> GayaGrocery [18:03:52] --> 
+[26-06-2020] : MRT Station [06:08:01] --> Petrocad [08:29:59] --> 
+[27-06-2020] : GayaGrocery [18:03:45] --> Park [20:27:21] --> 
+[28-06-2020] : GayaGrocery [10:53:27] --> 2 Akhir [20:26:53] --> 
+[29-06-2020] : Petrocad [08:32:26] --> Pharmarcy [10:57:06] --> Ali's Nasi Kandar [13:21:35] --> 
+[30-06-2020] : Petrocad [08:32:17] --> MoonBucks [10:56:02] --> MoonBucks [13:19:37] --> 
+[01-07-2020] : Petrocad [08:31:48] --> 
+[02-07-2020] : KTM Station [06:09:14] --> Petrocad [08:31:23] --> MoonBucks [10:53:57] --> MoonBucks [13:17:58] --> 

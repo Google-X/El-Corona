@@ -1,0 +1,17 @@
+HUMAN ID: 08237     GENDER: Male     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : MRT Station [06:09:24] --> FoodCourt [08:33:37] --> 
+[20-06-2020] : FoodCourt [08:32:31] --> Fibre [13:19:28] --> 
+[21-06-2020] : MRT Station [06:08:29] --> FoodCourt [08:31:28] --> 
+[22-06-2020] : KTM Station [06:08:08] --> FoodCourt [08:32:47] --> 
+[23-06-2020] : FoodCourt [08:32:16] --> 
+[24-06-2020] : MRT Station [06:08:28] --> FoodCourt [08:31:05] --> FoodCourt [13:18:44] --> 
+[25-06-2020] : FoodCourt [08:30:36] --> 
+[26-06-2020] : MRT Station [06:07:50] --> FoodCourt [08:29:48] --> Post Office [13:14:30] --> 
+[27-06-2020] : MRT Station [06:09:18] --> FoodCourt [08:33:02] --> 
+[28-06-2020] : FoodCourt [08:30:59] --> 
+[29-06-2020] : FoodCourt [08:32:20] --> 
+[30-06-2020] : MRT Station [06:08:59] --> FoodCourt [08:32:08] --> JJPTRv2 [13:19:27] --> 
+[01-07-2020] : FoodCourt [08:31:37] --> Pharmarcy [13:21:14] --> 
+[02-07-2020] : MRT Station [06:09:02] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 02921     GENDER: Male     AGE CATEGORY: Adult     ROLE: Accountant
+========================================================================================
+
+[19-06-2020] : KTM Station [05:24:49] --> 2 Akhir [19:46:51] --> 
+[20-06-2020] : RHP [10:11:01] --> Library [19:45:45] --> 
+[21-06-2020] : Moonlings [19:43:46] --> 
+[22-06-2020] : MRT Station [05:24:19] --> FoodCourt [12:36:20] --> 
+[23-06-2020] : MRT Station [05:24:06] --> Ali's Nasi Kandar [12:34:09] --> 
+[24-06-2020] : KTM Station [05:24:51] --> Ali's Nasi Kandar [12:33:34] --> 
+[25-06-2020] : Ali's Nasi Kandar [12:32:21] --> 
+[26-06-2020] : KTM Station [05:23:23] --> MoonBucks [12:31:34] --> Library [19:40:55] --> 
+[27-06-2020] : Library [19:43:09] --> 
+[28-06-2020] : Museum [19:41:21] --> 
+[29-06-2020] : MRT Station [05:24:03] --> FoodCourt [10:11:40] --> Ali's Nasi Kandar [12:37:06] --> 
+[30-06-2020] : KTM Station [05:24:00] --> 
+[01-07-2020] : KTM Station [05:23:45] --> 
+[02-07-2020] : MRT Station [05:24:20] --> FoodCourt [12:33:16] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 08299     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : Orange [08:34:11] --> JJPTRv2 [18:08:46] --> 
+[20-06-2020] : Park [20:30:22] --> 
+[21-06-2020] : 
+[22-06-2020] : MRT Station [06:08:35] --> Orange [08:33:12] --> MoonBucks [13:21:07] --> Ali's Nasi Kandar [18:07:23] --> 
+[23-06-2020] : KTM Station [06:09:51] --> Orange [08:32:45] --> FoodCourt [13:18:58] --> Pharmarcy [18:04:29] --> 
+[24-06-2020] : MRT Station [06:08:55] --> Orange [08:31:35] --> RHP [10:54:52] --> FoodCourt [13:19:09] --> GayaGrocery [18:07:03] --> 
+[25-06-2020] : MRT Station [06:08:49] --> Orange [08:31:15] --> Ali's Nasi Kandar [13:17:03] --> GayaGrocery [18:04:10] --> 
+[26-06-2020] : Orange [08:30:19] --> Ali's Nasi Kandar [18:02:48] --> IKEY [20:26:50] --> 
+[27-06-2020] : Park [20:27:43] --> 
+[28-06-2020] : SlowMart [18:02:40] --> Park [20:27:11] --> 
+[29-06-2020] : KTM Station [06:09:50] --> Orange [08:32:45] --> MoonBucks [13:21:55] --> RHP [18:08:21] --> 
+[30-06-2020] : KTM Station [06:09:26] --> Orange [08:32:33] --> JJPTRv2 [18:07:08] --> 
+[01-07-2020] : Orange [08:32:01] --> JJPTRv2 [10:57:22] --> 
+[02-07-2020] : KTM Station [06:09:33] --> Orange [08:31:40] --> Fibre [10:54:23] --> Ali's Nasi Kandar [13:18:15] --> SlowMart [18:05:24] --> 

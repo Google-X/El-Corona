@@ -1,0 +1,17 @@
+HUMAN ID: 06249     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : 
+[20-06-2020] : Police Station [08:15:45] --> JanBank [17:49:53] --> 
+[21-06-2020] : Police Station [08:15:19] --> 
+[22-06-2020] : Police Station [08:15:39] --> Police Station [13:03:30] --> 
+[23-06-2020] : 
+[24-06-2020] : Police Station [08:14:23] --> Police Station [13:01:46] --> 
+[25-06-2020] : MoonBucks [13:00:13] --> 
+[26-06-2020] : Police Station [08:13:50] --> 
+[27-06-2020] : Police Station [08:16:18] --> 
+[28-06-2020] : Police Station [08:13:56] --> 
+[29-06-2020] : Police Station [08:15:59] --> 
+[30-06-2020] : Police Station [08:15:31] --> Post Office [13:03:19] --> 
+[01-07-2020] : MoonBucks [13:04:02] --> 
+[02-07-2020] : Police Station [08:14:28] --> Police Station [13:01:23] --> 

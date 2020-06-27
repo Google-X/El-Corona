@@ -1,0 +1,17 @@
+HUMAN ID: 08330     GENDER: Male     AGE CATEGORY: Adult     ROLE: Accountant
+========================================================================================
+
+[19-06-2020] : MRT Station [06:10:05] --> JJPTRv2 [08:34:28] --> Police Station [18:09:00] --> 
+[20-06-2020] : 2 Akhir [13:20:08] --> Library [20:30:34] --> 
+[21-06-2020] : 2 Akhir [13:18:36] --> Moonlings [20:28:39] --> 
+[22-06-2020] : MRT Station [06:08:52] --> JJPTRv2 [08:33:29] --> Ali's Nasi Kandar [13:21:25] --> 
+[23-06-2020] : JJPTRv2 [08:32:59] --> FoodCourt [18:04:44] --> 
+[24-06-2020] : JJPTRv2 [08:31:48] --> JJPTRv2 [10:55:07] --> FoodCourt [13:19:29] --> 
+[25-06-2020] : MRT Station [06:09:04] --> JJPTRv2 [08:31:31] --> Police Station [18:04:30] --> 
+[26-06-2020] : JJPTRv2 [08:30:31] --> FoodCourt [10:53:05] --> Ali's Nasi Kandar [13:15:18] --> Police Station [18:03:04] --> IKEY [20:27:02] --> 
+[27-06-2020] : Post Office [10:57:03] --> Park [20:27:55] --> 
+[28-06-2020] : Moonlings [13:17:20] --> IKEY [20:27:24] --> 
+[29-06-2020] : MRT Station [06:10:10] --> JJPTRv2 [08:33:02] --> RHP [10:57:44] --> MoonBucks [13:22:10] --> Police Station [18:08:39] --> 
+[30-06-2020] : KTM Station [06:09:46] --> JJPTRv2 [08:32:45] --> FoodCourt [13:20:19] --> 
+[01-07-2020] : KTM Station [06:09:09] --> JJPTRv2 [08:32:18] --> MoonBucks [13:22:04] --> 
+[02-07-2020] : JJPTRv2 [08:31:57] --> Police Station [10:54:45] --> Ali's Nasi Kandar [13:18:33] --> Pharmarcy [18:05:36] --> 

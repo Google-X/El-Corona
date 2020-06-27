@@ -1,0 +1,17 @@
+HUMAN ID: 01412     GENDER: Male     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : JJPTRv2 [17:11:23] --> 
+[20-06-2020] : MRT Station [07:35:54] --> Ali's Nasi Kandar [09:58:47] --> 
+[21-06-2020] : Ali's Nasi Kandar [09:57:52] --> 
+[22-06-2020] : Ali's Nasi Kandar [09:59:17] --> JanBank [17:10:16] --> 
+[23-06-2020] : Ali's Nasi Kandar [09:58:21] --> 
+[24-06-2020] : Ali's Nasi Kandar [09:56:48] --> RHP [17:09:21] --> 
+[25-06-2020] : Ali's Nasi Kandar [09:56:35] --> Post Office [17:06:47] --> 
+[26-06-2020] : Ali's Nasi Kandar [09:55:43] --> 
+[27-06-2020] : Police Station [17:07:29] --> 
+[28-06-2020] : Ali's Nasi Kandar [09:57:11] --> 
+[29-06-2020] : Ali's Nasi Kandar [09:58:44] --> 
+[30-06-2020] : KTM Station [07:35:55] --> Ali's Nasi Kandar [09:59:01] --> 
+[01-07-2020] : Ali's Nasi Kandar [09:58:46] --> GayaGrocery [17:12:45] --> 
+[02-07-2020] : Ali's Nasi Kandar [09:57:21] --> JanBank [17:07:56] --> 

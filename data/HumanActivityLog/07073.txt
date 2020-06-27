@@ -1,0 +1,17 @@
+HUMAN ID: 07073     GENDER: Female     AGE CATEGORY: Adult     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : MRT Station [08:23:35] --> RHP [13:11:33] --> JanBank [17:59:02] --> 
+[20-06-2020] : MRT Station [08:22:26] --> JJPTRv2 [13:09:18] --> 
+[21-06-2020] : MRT Station [08:22:06] --> MoonBucks [17:55:19] --> 
+[22-06-2020] : MRT Station [08:22:58] --> GayaGrocery [17:57:34] --> 
+[23-06-2020] : MRT Station [08:22:31] --> MoonBucks [17:54:25] --> 
+[24-06-2020] : MRT Station [08:21:19] --> GayaGrocery [13:08:38] --> Fibre [17:56:28] --> 
+[25-06-2020] : Fibre [17:54:13] --> 
+[26-06-2020] : MRT Station [08:20:21] --> Police Station [13:04:56] --> 
+[27-06-2020] : MRT Station [08:22:58] --> Post Office [17:54:09] --> 
+[28-06-2020] : MRT Station [08:20:55] --> Police Station [17:52:07] --> 
+[29-06-2020] : MRT Station [08:22:37] --> Ali's Nasi Kandar [13:11:34] --> 
+[30-06-2020] : MRT Station [08:22:18] --> Post Office [13:10:02] --> 
+[01-07-2020] : JanBank [13:11:25] --> 
+[02-07-2020] : MRT Station [08:21:26] --> MoonBucks [13:08:08] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 07145     GENDER: Male     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : MRT Station [08:24:20] --> 
+[20-06-2020] : MRT Station [08:22:54] --> Pharmarcy [13:09:58] --> 
+[21-06-2020] : MRT Station [08:22:45] --> JJPTRv2 [13:08:50] --> 
+[22-06-2020] : MRT Station [08:23:35] --> Pharmarcy [17:58:07] --> 
+[23-06-2020] : MRT Station [08:23:08] --> 
+[24-06-2020] : MRT Station [08:22:01] --> MoonBucks [17:57:08] --> 
+[25-06-2020] : Ali's Nasi Kandar [13:07:29] --> 
+[26-06-2020] : MRT Station [08:20:53] --> Ali's Nasi Kandar [17:53:15] --> 
+[27-06-2020] : MRT Station [08:23:32] --> 
+[28-06-2020] : MRT Station [08:21:30] --> Ali's Nasi Kandar [13:07:27] --> SlowMart [17:52:45] --> 
+[29-06-2020] : KTM Station [06:00:22] --> MRT Station [08:23:16] --> 
+[30-06-2020] : MRT Station [08:22:57] --> 
+[01-07-2020] : MRT Station [08:22:37] --> 
+[02-07-2020] : MRT Station [06:00:13] --> MRT Station [08:22:04] --> SlowMart [13:08:47] --> 

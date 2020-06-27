@@ -1,0 +1,17 @@
+HUMAN ID: 08263     GENDER: Male     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [08:33:52] --> SlowMart [13:21:14] --> 
+[20-06-2020] : Ali's Nasi Kandar [08:32:40] --> 
+[21-06-2020] : Ali's Nasi Kandar [08:31:38] --> 
+[22-06-2020] : MRT Station [06:08:18] --> Ali's Nasi Kandar [08:32:55] --> 
+[23-06-2020] : Ali's Nasi Kandar [08:32:28] --> RHP [13:18:41] --> 
+[24-06-2020] : 
+[25-06-2020] : Ali's Nasi Kandar [08:30:54] --> MoonBucks [13:16:44] --> 
+[26-06-2020] : Ali's Nasi Kandar [08:30:02] --> 
+[27-06-2020] : Ali's Nasi Kandar [08:33:16] --> RHP [13:18:19] --> 
+[28-06-2020] : Ali's Nasi Kandar [08:31:12] --> Post Office [13:16:42] --> 
+[29-06-2020] : MRT Station [06:09:39] --> Ali's Nasi Kandar [08:32:30] --> 
+[30-06-2020] : MRT Station [06:09:07] --> Ali's Nasi Kandar [08:32:20] --> 
+[01-07-2020] : Ali's Nasi Kandar [08:31:51] --> Police Station [13:21:27] --> 
+[02-07-2020] : KTM Station [06:09:16] --> Ali's Nasi Kandar [08:31:25] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 06421     GENDER: Female     AGE CATEGORY: Adult     ROLE: Shopping Centre Retailer
+========================================================================================
+
+[19-06-2020] : Moonlings [08:18:14] --> 
+[20-06-2020] : MoonBucks [13:03:36] --> Post Office [17:51:20] --> 
+[21-06-2020] : Moonlings [08:16:47] --> FoodCourt [13:02:46] --> 
+[22-06-2020] : Moonlings [08:17:10] --> 
+[23-06-2020] : RHP [13:03:10] --> MoonBucks [17:48:46] --> 
+[24-06-2020] : Moonlings [08:15:50] --> 
+[25-06-2020] : Moonlings [08:15:04] --> 
+[26-06-2020] : Moonlings [08:15:05] --> Police Station [17:47:41] --> 
+[27-06-2020] : Moonlings [08:17:36] --> FoodCourt [13:02:44] --> MoonBucks [17:48:48] --> 
+[28-06-2020] : Moonlings [08:15:24] --> FoodCourt [13:01:25] --> MoonBucks [17:47:15] --> 
+[29-06-2020] : Moonlings [08:17:11] --> MoonBucks [13:06:01] --> 
+[30-06-2020] : 
+[01-07-2020] : Moonlings [08:16:50] --> JJPTRv2 [13:05:29] --> Fibre [17:54:05] --> 
+[02-07-2020] : Moonlings [08:15:51] --> JJPTRv2 [13:02:43] --> Fibre [17:50:05] --> 

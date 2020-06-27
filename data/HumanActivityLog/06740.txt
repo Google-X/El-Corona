@@ -1,0 +1,17 @@
+HUMAN ID: 06740     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:20:54] --> 
+[20-06-2020] : Police Station [08:19:42] --> RHP [17:53:57] --> 
+[21-06-2020] : Police Station [08:19:42] --> FoodCourt [17:52:28] --> 
+[22-06-2020] : Police Station [08:19:59] --> 
+[23-06-2020] : Police Station [08:19:47] --> SlowMart [13:05:54] --> 
+[24-06-2020] : Police Station [08:18:45] --> 
+[25-06-2020] : Police Station [08:17:33] --> 
+[26-06-2020] : Police Station [08:17:31] --> 
+[27-06-2020] : 
+[28-06-2020] : Police Station [08:18:12] --> Ali's Nasi Kandar [17:49:41] --> 
+[29-06-2020] : Police Station [08:19:55] --> 
+[30-06-2020] : Police Station [08:19:29] --> Fibre [13:07:24] --> 
+[01-07-2020] : Police Station [08:19:23] --> 
+[02-07-2020] : Police Station [08:18:42] --> 

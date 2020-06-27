@@ -1,0 +1,17 @@
+HUMAN ID: 05850     GENDER: Female     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:13:29] --> 
+[20-06-2020] : Police Station [08:12:48] --> 
+[21-06-2020] : Police Station [08:11:55] --> 
+[22-06-2020] : Police Station [08:12:33] --> 
+[23-06-2020] : Police Station [08:12:29] --> 
+[24-06-2020] : 
+[25-06-2020] : Police Station [08:10:01] --> 
+[26-06-2020] : Police Station [08:10:35] --> 
+[27-06-2020] : Police Station [08:12:56] --> 
+[28-06-2020] : Police Station [08:10:38] --> 
+[29-06-2020] : 
+[30-06-2020] : Police Station [08:12:20] --> 
+[01-07-2020] : Police Station [08:12:13] --> 
+[02-07-2020] : Police Station [08:11:16] --> 

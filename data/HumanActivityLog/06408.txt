@@ -1,0 +1,17 @@
+HUMAN ID: 06408     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [08:18:08] --> 
+[20-06-2020] : Ali's Nasi Kandar [08:16:58] --> MoonBucks [17:51:12] --> 
+[21-06-2020] : Ali's Nasi Kandar [08:16:39] --> 
+[22-06-2020] : Ali's Nasi Kandar [08:17:03] --> 
+[23-06-2020] : Ali's Nasi Kandar [08:17:08] --> JanBank [13:03:04] --> JJPTRv2 [17:48:40] --> 
+[24-06-2020] : Ali's Nasi Kandar [08:15:45] --> Police Station [17:51:10] --> 
+[25-06-2020] : Ali's Nasi Kandar [08:14:56] --> 
+[26-06-2020] : Ali's Nasi Kandar [08:15:00] --> 
+[27-06-2020] : Ali's Nasi Kandar [08:17:29] --> JJPTRv2 [13:02:38] --> Ali's Nasi Kandar [17:48:42] --> 
+[28-06-2020] : Ali's Nasi Kandar [08:15:16] --> Police Station [13:01:17] --> JanBank [17:47:07] --> 
+[29-06-2020] : Ali's Nasi Kandar [08:17:05] --> 
+[30-06-2020] : Ali's Nasi Kandar [08:16:45] --> Post Office [13:04:40] --> 
+[01-07-2020] : Ali's Nasi Kandar [08:16:47] --> 
+[02-07-2020] : Ali's Nasi Kandar [08:15:43] --> 

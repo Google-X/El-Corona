@@ -1,0 +1,17 @@
+HUMAN ID: 08156     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Post Office [08:32:52] --> RHP [10:56:56] --> MoonBucks [13:20:20] --> FoodCourt [18:07:47] --> Library [20:29:02] --> 
+[20-06-2020] : RHP [18:05:43] --> 2 Akhir [20:29:08] --> 
+[21-06-2020] : Museum [13:17:04] --> 
+[22-06-2020] : KTM Station [06:07:19] --> Post Office [08:32:11] --> MoonBucks [13:20:04] --> 
+[23-06-2020] : KTM Station [06:08:35] --> Post Office [08:31:33] --> FoodCourt [13:17:46] --> Post Office [18:03:14] --> 
+[24-06-2020] : Post Office [08:30:23] --> Ali's Nasi Kandar [10:53:41] --> Ali's Nasi Kandar [13:18:07] --> Pharmarcy [18:05:37] --> 
+[25-06-2020] : Post Office [08:29:53] --> MoonBucks [10:52:32] --> FoodCourt [13:15:53] --> Pharmarcy [18:03:00] --> 
+[26-06-2020] : KTM Station [06:07:14] --> Post Office [08:29:05] --> Ali's Nasi Kandar [10:51:41] --> FoodCourt [13:13:46] --> Park [20:25:35] --> 
+[27-06-2020] : Park [13:17:20] --> IKEY [20:26:33] --> 
+[28-06-2020] : Pharmarcy [10:52:42] --> 2 Akhir [20:26:00] --> 
+[29-06-2020] : MRT Station [06:08:45] --> Post Office [08:31:42] --> MoonBucks [10:56:17] --> 
+[30-06-2020] : Post Office [08:31:28] --> MoonBucks [13:18:53] --> 
+[01-07-2020] : Post Office [08:30:59] --> 
+[02-07-2020] : MRT Station [06:08:18] --> Post Office [08:30:32] --> Ali's Nasi Kandar [18:04:17] --> 

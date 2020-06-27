@@ -1,0 +1,17 @@
+HUMAN ID: 05695     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Engineer
+========================================================================================
+
+[19-06-2020] : KTM Station [08:12:08] --> 
+[20-06-2020] : Fibre [10:34:18] --> 
+[21-06-2020] : Museum [20:06:10] --> 
+[22-06-2020] : KTM Station [08:11:19] --> GayaGrocery [10:34:41] --> FoodCourt [12:58:48] --> 
+[23-06-2020] : KTM Station [08:11:22] --> FoodCourt [12:56:50] --> 
+[24-06-2020] : KTM Station [08:09:59] --> Post Office [10:33:11] --> FoodCourt [12:56:46] --> 
+[25-06-2020] : KTM Station [08:08:45] --> Post Office [10:31:26] --> MoonBucks [12:55:28] --> 
+[26-06-2020] : KTM Station [08:09:20] --> 
+[27-06-2020] : 
+[28-06-2020] : Library [20:05:02] --> 
+[29-06-2020] : KTM Station [08:11:33] --> Ali's Nasi Kandar [10:35:09] --> FoodCourt [13:00:03] --> 
+[30-06-2020] : KTM Station [08:10:56] --> 
+[01-07-2020] : KTM Station [08:10:39] --> RHP [10:34:33] --> MoonBucks [12:59:29] --> 
+[02-07-2020] : KTM Station [08:10:02] --> SlowMart [10:33:13] --> FoodCourt [12:56:46] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 06007     GENDER: Male     AGE CATEGORY: Adult     ROLE: Engineer
+========================================================================================
+
+[19-06-2020] : KTM Station [08:14:49] --> MoonBucks [13:02:34] --> Museum [20:11:29] --> 
+[20-06-2020] : Ali's Nasi Kandar [10:37:03] --> 
+[21-06-2020] : MoonBucks [10:36:33] --> Moonlings [20:08:35] --> 
+[22-06-2020] : KTM Station [08:13:43] --> JJPTRv2 [10:37:11] --> 
+[23-06-2020] : KTM Station [08:13:48] --> RHP [10:36:35] --> Ali's Nasi Kandar [12:59:42] --> 
+[24-06-2020] : KTM Station [08:12:34] --> FoodCourt [12:59:39] --> 
+[25-06-2020] : KTM Station [08:11:17] --> Pharmarcy [10:34:03] --> FoodCourt [12:58:01] --> 
+[26-06-2020] : KTM Station [08:11:53] --> Fibre [10:33:44] --> MoonBucks [12:56:30] --> Moonlings [20:07:13] --> 
+[27-06-2020] : MoonBucks [10:37:52] --> 
+[28-06-2020] : Ali's Nasi Kandar [10:35:14] --> 
+[29-06-2020] : KTM Station [08:14:00] --> Ali's Nasi Kandar [10:37:52] --> Ali's Nasi Kandar [13:02:34] --> 
+[30-06-2020] : KTM Station [08:13:35] --> 
+[01-07-2020] : KTM Station [08:13:32] --> JanBank [10:37:16] --> MoonBucks [13:01:55] --> 
+[02-07-2020] : KTM Station [08:12:42] --> GayaGrocery [10:35:43] --> 

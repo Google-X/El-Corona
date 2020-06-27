@@ -1,0 +1,17 @@
+HUMAN ID: 07410     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:26:21] --> 
+[20-06-2020] : Police Station [08:25:03] --> 
+[21-06-2020] : Police Station [08:24:45] --> 
+[22-06-2020] : Police Station [08:25:46] --> 
+[23-06-2020] : Police Station [08:25:26] --> 
+[24-06-2020] : Police Station [08:24:06] --> 
+[25-06-2020] : Police Station [08:23:19] --> 
+[26-06-2020] : Police Station [08:22:57] --> 
+[27-06-2020] : Police Station [08:25:53] --> 
+[28-06-2020] : Police Station [08:23:48] --> JanBank [17:55:11] --> 
+[29-06-2020] : Police Station [08:25:26] --> 
+[30-06-2020] : Police Station [08:25:21] --> 
+[01-07-2020] : Police Station [08:24:52] --> 
+[02-07-2020] : Police Station [08:24:12] --> 

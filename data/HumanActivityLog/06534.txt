@@ -1,0 +1,17 @@
+HUMAN ID: 06534     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [05:55:09] --> Moonlings [08:19:04] --> Ali's Nasi Kandar [13:07:02] --> Park [20:15:52] --> 
+[20-06-2020] : Museum [20:15:13] --> 
+[21-06-2020] : 2 Akhir [13:03:41] --> Park [20:13:09] --> 
+[22-06-2020] : Moonlings [08:18:12] --> RHP [10:41:40] --> FoodCourt [13:05:53] --> 
+[23-06-2020] : KTM Station [05:55:15] --> Moonlings [08:18:14] --> FoodCourt [13:04:07] --> 
+[24-06-2020] : Moonlings [08:16:46] --> MoonBucks [10:40:28] --> Ali's Nasi Kandar [13:04:13] --> 
+[25-06-2020] : KTM Station [05:54:05] --> Moonlings [08:15:50] --> FoodCourt [13:02:31] --> 
+[26-06-2020] : Moonlings [08:16:03] --> Ali's Nasi Kandar [10:38:00] --> 
+[27-06-2020] : Park [13:03:43] --> Library [20:12:53] --> 
+[28-06-2020] : Park [20:11:59] --> 
+[29-06-2020] : KTM Station [05:55:15] --> Moonlings [08:18:10] --> 
+[30-06-2020] : Moonlings [08:17:50] --> Pharmarcy [10:41:57] --> 
+[01-07-2020] : Moonlings [08:17:40] --> MoonBucks [13:06:29] --> 
+[02-07-2020] : KTM Station [05:54:51] --> Moonlings [08:16:54] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 09066     GENDER: Female     AGE CATEGORY: Adult     ROLE: Accountant
+========================================================================================
+
+[19-06-2020] : KTM Station [06:16:28] --> AccSol [08:40:46] --> FoodCourt [18:14:58] --> 
+[20-06-2020] : Park [13:26:11] --> Museum [20:36:24] --> 
+[21-06-2020] : Park [20:35:03] --> 
+[22-06-2020] : KTM Station [06:15:00] --> AccSol [08:39:33] --> MoonBucks [18:13:51] --> 
+[23-06-2020] : AccSol [08:39:06] --> Ali's Nasi Kandar [13:25:11] --> 
+[24-06-2020] : MRT Station [06:14:50] --> AccSol [08:37:35] --> Ali's Nasi Kandar [13:25:37] --> 
+[25-06-2020] : MRT Station [06:15:15] --> AccSol [08:37:26] --> Ali's Nasi Kandar [13:23:23] --> Pharmarcy [18:10:56] --> 
+[26-06-2020] : MRT Station [06:14:35] --> AccSol [08:36:21] --> MoonBucks [13:21:29] --> Moonlings [20:32:57] --> 
+[27-06-2020] : IKEY [20:34:10] --> 
+[28-06-2020] : 
+[29-06-2020] : AccSol [08:39:05] --> Ali's Nasi Kandar [13:28:11] --> Fibre [18:14:55] --> 
+[30-06-2020] : AccSol [08:39:07] --> Ali's Nasi Kandar [13:26:30] --> JJPTRv2 [18:13:41] --> 
+[01-07-2020] : KTM Station [06:15:23] --> AccSol [08:38:38] --> MoonBucks [13:28:08] --> RHP [18:16:15] --> 
+[02-07-2020] : AccSol [08:38:02] --> FoodCourt [13:24:53] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 07467     GENDER: Female     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : MRT Station [08:26:50] --> 
+[20-06-2020] : MRT Station [08:25:34] --> 
+[21-06-2020] : MRT Station [06:02:22] --> SlowMart [17:58:32] --> 
+[22-06-2020] : MRT Station [08:26:06] --> 
+[23-06-2020] : KTM Station [06:02:48] --> MRT Station [08:25:57] --> 
+[24-06-2020] : KTM Station [06:02:18] --> MRT Station [08:24:40] --> GayaGrocery [17:59:48] --> 
+[25-06-2020] : MRT Station [08:23:56] --> JanBank [13:10:24] --> 
+[26-06-2020] : MRT Station [08:23:24] --> 
+[27-06-2020] : JanBank [13:11:19] --> Ali's Nasi Kandar [17:57:18] --> 
+[28-06-2020] : MRT Station [08:24:21] --> JanBank [13:10:06] --> Pharmarcy [17:55:34] --> 
+[29-06-2020] : MRT Station [06:02:54] --> MRT Station [08:25:52] --> Fibre [13:15:13] --> 
+[30-06-2020] : MRT Station [08:25:43] --> 
+[01-07-2020] : MRT Station [08:25:16] --> JanBank [13:14:38] --> 
+[02-07-2020] : GayaGrocery [13:11:18] --> RHP [17:58:37] --> 

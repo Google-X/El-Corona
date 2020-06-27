@@ -1,0 +1,17 @@
+HUMAN ID: 08225     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [08:33:28] --> FoodCourt [18:08:14] --> 
+[20-06-2020] : Police Station [10:55:31] --> 
+[21-06-2020] : 
+[22-06-2020] : MRT Station [08:32:43] --> Pharmarcy [10:56:33] --> MoonBucks [13:20:32] --> 
+[23-06-2020] : MRT Station [08:32:11] --> JanBank [10:54:47] --> MoonBucks [13:18:20] --> Post Office [18:03:51] --> 
+[24-06-2020] : MRT Station [08:30:56] --> Post Office [10:54:20] --> FoodCourt [13:18:38] --> MoonBucks [18:06:20] --> 
+[25-06-2020] : MRT Station [08:30:30] --> MoonBucks [13:16:29] --> Fibre [18:03:32] --> 
+[26-06-2020] : MRT Station [08:29:39] --> RHP [10:52:16] --> Ali's Nasi Kandar [13:14:24] --> 
+[27-06-2020] : Fibre [10:56:11] --> Park [13:17:56] --> 2 Akhir [20:27:08] --> 
+[28-06-2020] : SlowMart [10:53:13] --> 
+[29-06-2020] : MRT Station [08:32:17] --> JanBank [10:56:55] --> 
+[30-06-2020] : MRT Station [08:32:03] --> 
+[01-07-2020] : MRT Station [08:31:32] --> Ali's Nasi Kandar [13:21:08] --> JanBank [18:09:20] --> 
+[02-07-2020] : MRT Station [08:31:06] --> JJPTRv2 [10:53:45] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 05340     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : AccSol [08:09:07] --> Library [20:05:58] --> 
+[20-06-2020] : Museum [20:05:26] --> 
+[21-06-2020] : 2 Akhir [12:53:54] --> 
+[22-06-2020] : KTM Station [05:44:17] --> AccSol [08:08:29] --> Fibre [10:32:02] --> FoodCourt [12:55:54] --> 
+[23-06-2020] : KTM Station [05:44:54] --> AccSol [08:08:13] --> FoodCourt [12:53:56] --> 
+[24-06-2020] : AccSol [08:06:50] --> Ali's Nasi Kandar [12:53:36] --> 
+[25-06-2020] : MRT Station [05:44:21] --> AccSol [08:06:00] --> 
+[26-06-2020] : AccSol [08:06:20] --> Ali's Nasi Kandar [10:28:08] --> Ali's Nasi Kandar [12:51:12] --> 
+[27-06-2020] : Library [12:53:59] --> IKEY [20:03:04] --> 
+[28-06-2020] : Ali's Nasi Kandar [10:29:27] --> Library [20:01:51] --> 
+[29-06-2020] : MRT Station [05:44:50] --> AccSol [08:08:51] --> MoonBucks [12:57:26] --> 
+[30-06-2020] : MRT Station [05:44:23] --> AccSol [08:08:21] --> 
+[01-07-2020] : AccSol [08:07:25] --> FoodCourt [12:56:42] --> 
+[02-07-2020] : KTM Station [05:44:40] --> AccSol [08:07:02] --> Ali's Nasi Kandar [12:53:39] --> 

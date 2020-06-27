@@ -1,0 +1,17 @@
+HUMAN ID: 08613     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : KTM Station [06:12:34] --> AccSol [08:36:51] --> MoonBucks [13:24:00] --> Police Station [18:11:11] --> 
+[20-06-2020] : Museum [20:32:39] --> 
+[21-06-2020] : IKEY [13:20:47] --> SlowMart [18:07:59] --> 
+[22-06-2020] : KTM Station [06:11:19] --> AccSol [08:35:46] --> MoonBucks [13:24:02] --> 
+[23-06-2020] : MRT Station [06:12:21] --> AccSol [08:35:25] --> MoonBucks [10:58:10] --> RHP [18:07:07] --> 
+[24-06-2020] : MRT Station [06:11:26] --> AccSol [08:34:01] --> Post Office [10:57:32] --> 
+[25-06-2020] : MRT Station [06:11:20] --> AccSol [08:33:59] --> JJPTRv2 [10:56:28] --> FoodCourt [13:19:44] --> MoonBucks [18:06:59] --> 
+[26-06-2020] : AccSol [08:32:54] --> Post Office [10:55:43] --> Ali's Nasi Kandar [13:17:55] --> Park [20:29:06] --> 
+[27-06-2020] : IKEY [13:21:12] --> Library [20:30:11] --> 
+[28-06-2020] : Museum [20:29:51] --> 
+[29-06-2020] : KTM Station [06:12:28] --> AccSol [08:35:27] --> Ali's Nasi Kandar [13:24:33] --> JJPTRv2 [18:11:09] --> 
+[30-06-2020] : KTM Station [06:12:04] --> AccSol [08:34:57] --> FoodCourt [13:22:38] --> 
+[01-07-2020] : AccSol [08:34:54] --> FoodCourt [13:24:21] --> JJPTRv2 [18:12:50] --> 
+[02-07-2020] : AccSol [08:34:36] --> FoodCourt [13:20:46] --> Police Station [18:08:00] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 08300     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Moonlings [08:34:12] --> FoodCourt [13:21:31] --> Police Station [18:08:47] --> 2 Akhir [20:30:12] --> 
+[20-06-2020] : Moonlings [20:30:22] --> 
+[21-06-2020] : IKEY [20:28:20] --> 
+[22-06-2020] : KTM Station [06:08:36] --> Moonlings [08:33:13] --> MoonBucks [13:21:07] --> JanBank [18:07:23] --> 
+[23-06-2020] : MRT Station [06:09:51] --> Moonlings [08:32:45] --> JJPTRv2 [10:55:25] --> 
+[24-06-2020] : MRT Station [06:08:56] --> Moonlings [08:31:36] --> Police Station [10:54:53] --> FoodCourt [13:19:09] --> FoodCourt [18:07:04] --> 
+[25-06-2020] : Moonlings [08:31:16] --> Ali's Nasi Kandar [13:17:04] --> GayaGrocery [18:04:11] --> 
+[26-06-2020] : Moonlings [08:30:19] --> Ali's Nasi Kandar [13:14:59] --> Police Station [18:02:48] --> 
+[27-06-2020] : Library [20:27:44] --> 
+[28-06-2020] : 
+[29-06-2020] : MRT Station [06:09:50] --> Moonlings [08:32:45] --> JanBank [18:08:22] --> 
+[30-06-2020] : MRT Station [06:09:26] --> Moonlings [08:32:33] --> MoonBucks [13:20:03] --> 
+[01-07-2020] : Moonlings [08:32:01] --> Ali's Nasi Kandar [13:21:49] --> 
+[02-07-2020] : KTM Station [06:09:34] --> Moonlings [08:31:41] --> MoonBucks [13:18:16] --> FoodCourt [18:05:24] --> 

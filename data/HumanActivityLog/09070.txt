@@ -1,0 +1,17 @@
+HUMAN ID: 09070     GENDER: Female     AGE CATEGORY: Adult     ROLE: Teacher
+========================================================================================
+
+[19-06-2020] : Secondary [06:16:31] --> Ali's Nasi Kandar [11:04:39] --> 
+[20-06-2020] : GayaGrocery [11:02:45] --> 
+[21-06-2020] : 
+[22-06-2020] : Secondary [06:15:02] --> Police Station [11:03:11] --> 
+[23-06-2020] : Secondary [06:16:14] --> 
+[24-06-2020] : Secondary [06:14:52] --> FoodCourt [11:01:34] --> 
+[25-06-2020] : Secondary [06:15:18] --> Ali's Nasi Kandar [11:00:13] --> 
+[26-06-2020] : Secondary [06:14:36] --> MoonBucks [10:59:43] --> 
+[27-06-2020] : FoodCourt [11:03:09] --> Library [18:10:27] --> 
+[28-06-2020] : Museum [18:09:21] --> 
+[29-06-2020] : Secondary [06:16:36] --> Ali's Nasi Kandar [11:03:55] --> 
+[30-06-2020] : Secondary [06:15:59] --> MoonBucks [11:02:49] --> 
+[01-07-2020] : Secondary [06:15:26] --> 
+[02-07-2020] : Secondary [06:15:47] --> MoonBucks [11:01:01] --> 

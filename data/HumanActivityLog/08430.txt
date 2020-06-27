@@ -1,0 +1,17 @@
+HUMAN ID: 08430     GENDER: Female     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : FoodCourt [08:35:23] --> 
+[20-06-2020] : KTM Station [06:11:33] --> FoodCourt [08:34:04] --> 
+[21-06-2020] : FoodCourt [08:32:53] --> 
+[22-06-2020] : FoodCourt [08:34:23] --> 
+[23-06-2020] : FoodCourt [08:33:46] --> JanBank [13:20:01] --> 
+[24-06-2020] : MRT Station [06:09:58] --> FoodCourt [08:32:37] --> Post Office [13:20:20] --> 
+[25-06-2020] : FoodCourt [08:32:18] --> JJPTRv2 [13:18:09] --> 
+[26-06-2020] : FoodCourt [08:31:20] --> 
+[27-06-2020] : KTM Station [06:10:58] --> FoodCourt [08:34:33] --> 
+[28-06-2020] : MRT Station [06:08:47] --> FoodCourt [08:32:24] --> Post Office [13:18:05] --> 
+[29-06-2020] : MRT Station [06:10:56] --> FoodCourt [08:33:57] --> 
+[30-06-2020] : KTM Station [06:10:39] --> FoodCourt [08:33:30] --> 
+[01-07-2020] : KTM Station [06:09:59] --> FoodCourt [08:33:14] --> 
+[02-07-2020] : MRT Station [06:10:45] --> FoodCourt [08:32:56] --> JanBank [13:19:18] --> 

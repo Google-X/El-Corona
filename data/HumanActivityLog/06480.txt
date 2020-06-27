@@ -1,0 +1,17 @@
+HUMAN ID: 06480     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [17:53:51] --> 
+[20-06-2020] : Moonlings [08:17:33] --> Ali's Nasi Kandar [13:04:05] --> 
+[21-06-2020] : Moonlings [08:17:20] --> 
+[22-06-2020] : Moonlings [08:17:43] --> JJPTRv2 [13:05:26] --> 
+[23-06-2020] : Moonlings [08:17:49] --> 
+[24-06-2020] : Moonlings [08:16:21] --> Police Station [13:03:39] --> 
+[25-06-2020] : Moonlings [08:15:29] --> MoonBucks [17:49:21] --> 
+[26-06-2020] : Moonlings [08:15:35] --> 
+[27-06-2020] : Moonlings [08:18:09] --> 
+[28-06-2020] : Moonlings [08:15:52] --> SlowMart [13:02:01] --> 
+[29-06-2020] : Moonlings [08:17:40] --> Post Office [13:06:33] --> 
+[30-06-2020] : Moonlings [08:17:18] --> 
+[01-07-2020] : Moonlings [08:17:14] --> Police Station [13:05:58] --> 
+[02-07-2020] : Moonlings [08:16:28] --> GayaGrocery [13:03:07] --> 

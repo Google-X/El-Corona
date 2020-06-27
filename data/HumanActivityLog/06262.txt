@@ -1,0 +1,17 @@
+HUMAN ID: 06262     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:16:53] --> 
+[20-06-2020] : Police Station [08:15:48] --> 
+[21-06-2020] : Police Station [08:15:26] --> 
+[22-06-2020] : Police Station [08:15:46] --> 
+[23-06-2020] : Police Station [08:15:59] --> 
+[24-06-2020] : Police Station [08:14:30] --> FoodCourt [13:01:51] --> 
+[25-06-2020] : Police Station [08:13:36] --> 
+[26-06-2020] : Police Station [08:13:54] --> 
+[27-06-2020] : Police Station [08:16:23] --> RHP [17:47:24] --> 
+[28-06-2020] : Police Station [08:14:02] --> 
+[29-06-2020] : Police Station [08:16:05] --> 
+[30-06-2020] : Police Station [08:15:38] --> Fibre [13:03:27] --> 
+[01-07-2020] : Police Station [08:15:31] --> 
+[02-07-2020] : Police Station [08:14:32] --> Pharmarcy [13:01:29] --> 

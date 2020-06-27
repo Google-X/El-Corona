@@ -1,0 +1,17 @@
+HUMAN ID: 08669     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : KTM Station [06:13:00] --> Pharmarcy [08:37:12] --> Ali's Nasi Kandar [13:24:33] --> Museum [20:33:33] --> 
+[20-06-2020] : Park [13:23:00] --> Museum [20:33:04] --> 
+[21-06-2020] : IKEY [13:21:10] --> Museum [20:31:27] --> 
+[22-06-2020] : Pharmarcy [08:36:10] --> 
+[23-06-2020] : KTM Station [06:13:01] --> Pharmarcy [08:35:51] --> GayaGrocery [10:58:41] --> 
+[24-06-2020] : Pharmarcy [08:34:31] --> Post Office [18:10:09] --> 
+[25-06-2020] : MRT Station [06:11:48] --> Pharmarcy [08:34:26] --> MoonBucks [13:20:18] --> 
+[26-06-2020] : MRT Station [06:11:30] --> Pharmarcy [08:33:12] --> JanBank [10:56:14] --> FoodCourt [13:18:27] --> FoodCourt [18:06:03] --> 
+[27-06-2020] : Library [20:30:39] --> 
+[28-06-2020] : SlowMart [10:56:49] --> Museum [13:20:10] --> Park [20:30:19] --> 
+[29-06-2020] : KTM Station [06:13:02] --> Pharmarcy [08:35:57] --> FoodCourt [13:24:58] --> 
+[30-06-2020] : Pharmarcy [08:35:30] --> Ali's Nasi Kandar [13:23:08] --> Pharmarcy [18:10:20] --> 
+[01-07-2020] : Pharmarcy [08:35:20] --> FoodCourt [13:24:46] --> 
+[02-07-2020] : Pharmarcy [08:35:01] --> FoodCourt [13:21:11] --> Fibre [18:08:25] --> 

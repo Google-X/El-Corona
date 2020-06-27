@@ -1,0 +1,17 @@
+HUMAN ID: 07413     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : KTM Station [06:02:34] --> Library [08:26:21] --> JJPTRv2 [10:50:40] --> Ali's Nasi Kandar [13:14:14] --> GayaGrocery [18:01:36] --> 
+[20-06-2020] : SlowMart [10:48:34] --> 2 Akhir [20:22:50] --> 
+[21-06-2020] : Moonlings [20:20:48] --> 
+[22-06-2020] : Library [08:25:46] --> Ali's Nasi Kandar [13:13:33] --> JanBank [18:00:20] --> 
+[23-06-2020] : MRT Station [06:02:23] --> Library [08:25:26] --> 
+[24-06-2020] : Library [08:24:08] --> Ali's Nasi Kandar [13:11:45] --> 
+[25-06-2020] : KTM Station [06:01:30] --> Library [08:23:19] --> 
+[26-06-2020] : MRT Station [06:01:10] --> Library [08:22:59] --> MoonBucks [13:07:34] --> Library [20:19:09] --> 
+[27-06-2020] : Fibre [10:50:07] --> IKEY [20:20:16] --> 
+[28-06-2020] : JanBank [10:46:52] --> 2 Akhir [13:09:38] --> 
+[29-06-2020] : Library [08:25:27] --> MoonBucks [13:14:41] --> JJPTRv2 [18:00:42] --> 
+[30-06-2020] : Library [08:25:24] --> MoonBucks [13:12:46] --> 
+[01-07-2020] : KTM Station [06:01:24] --> Library [08:24:54] --> Ali's Nasi Kandar [13:14:13] --> Post Office [18:02:25] --> 
+[02-07-2020] : Library [08:24:14] --> MoonBucks [10:46:54] --> 

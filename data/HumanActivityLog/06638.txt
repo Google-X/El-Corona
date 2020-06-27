@@ -1,0 +1,17 @@
+HUMAN ID: 06638     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Firefighter
+========================================================================================
+
+[19-06-2020] : Fire Station [08:19:55] --> SlowMart [13:07:53] --> 
+[20-06-2020] : Fire Station [08:18:54] --> 
+[21-06-2020] : Fire Station [08:18:47] --> 
+[22-06-2020] : Fire Station [08:19:05] --> 
+[23-06-2020] : Fire Station [08:18:59] --> 
+[24-06-2020] : Fire Station [08:17:52] --> 
+[25-06-2020] : Fire Station [08:16:40] --> 
+[26-06-2020] : Fire Station [08:16:47] --> 
+[27-06-2020] : Fire Station [08:19:22] --> 
+[28-06-2020] : Fire Station [08:17:14] --> 
+[29-06-2020] : Fire Station [08:19:03] --> 
+[30-06-2020] : Fire Station [08:18:45] --> 
+[01-07-2020] : Fire Station [08:18:27] --> Fibre [13:07:24] --> 
+[02-07-2020] : Fire Station [08:17:49] --> 

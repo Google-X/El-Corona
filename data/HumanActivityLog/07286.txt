@@ -1,0 +1,17 @@
+HUMAN ID: 07286     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:25:24] --> FoodCourt [13:13:13] --> 
+[20-06-2020] : Ali's Nasi Kandar [17:58:18] --> 
+[21-06-2020] : Police Station [08:23:43] --> 
+[22-06-2020] : Police Station [08:24:45] --> 
+[23-06-2020] : Police Station [08:24:29] --> 
+[24-06-2020] : Police Station [08:23:09] --> 
+[25-06-2020] : Police Station [08:22:21] --> Post Office [13:08:52] --> 
+[26-06-2020] : Police Station [08:22:01] --> Fibre [13:06:37] --> 
+[27-06-2020] : Police Station [08:24:44] --> Pharmarcy [17:55:53] --> 
+[28-06-2020] : Police Station [08:22:37] --> FoodCourt [17:53:59] --> 
+[29-06-2020] : Police Station [08:24:23] --> 
+[30-06-2020] : Police Station [08:24:15] --> 
+[01-07-2020] : Police Station [08:23:54] --> GayaGrocery [13:13:09] --> 
+[02-07-2020] : Police Station [08:23:08] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 07642     GENDER: Female     AGE CATEGORY: Adult     ROLE: Waiter
+========================================================================================
+
+[19-06-2020] : KTM Station [06:04:29] --> MoonBucks [08:28:12] --> 
+[20-06-2020] : MRT Station [06:04:38] --> 
+[21-06-2020] : KTM Station [06:03:41] --> MoonBucks [08:26:41] --> Post Office [13:12:53] --> 
+[22-06-2020] : MoonBucks [08:27:34] --> 
+[23-06-2020] : MoonBucks [08:27:23] --> 
+[24-06-2020] : MoonBucks [08:26:08] --> GayaGrocery [13:13:44] --> 
+[25-06-2020] : MoonBucks [08:25:24] --> SlowMart [17:58:55] --> 
+[26-06-2020] : KTM Station [06:03:01] --> MoonBucks [08:24:58] --> GayaGrocery [17:57:26] --> 
+[27-06-2020] : MRT Station [06:04:25] --> MoonBucks [08:27:45] --> SlowMart [13:12:47] --> FoodCourt [17:58:38] --> 
+[28-06-2020] : KTM Station [06:02:16] --> MoonBucks [08:25:52] --> Ali's Nasi Kandar [13:11:37] --> SlowMart [17:57:11] --> 
+[29-06-2020] : KTM Station [06:04:18] --> MoonBucks [08:27:22] --> 
+[30-06-2020] : MoonBucks [08:27:11] --> 
+[01-07-2020] : KTM Station [06:03:10] --> MoonBucks [08:26:41] --> GayaGrocery [13:16:12] --> 
+[02-07-2020] : MoonBucks [08:26:12] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 08511     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Clinic [08:35:57] --> Ali's Nasi Kandar [13:23:14] --> Ali's Nasi Kandar [18:10:31] --> 
+[20-06-2020] : GayaGrocery [10:58:05] --> 
+[21-06-2020] : JJPTRv2 [10:57:08] --> IKEY [20:30:14] --> 
+[22-06-2020] : MRT Station [06:10:26] --> Clinic [08:35:03] --> FoodCourt [13:22:58] --> Ali's Nasi Kandar [18:09:07] --> 
+[23-06-2020] : KTM Station [06:11:33] --> Clinic [08:34:23] --> JanBank [10:57:11] --> 
+[24-06-2020] : Clinic [08:33:13] --> GayaGrocery [10:56:42] --> 
+[25-06-2020] : Clinic [08:33:00] --> Ali's Nasi Kandar [13:18:48] --> 
+[26-06-2020] : MRT Station [06:10:19] --> Clinic [08:32:00] --> MoonBucks [13:16:57] --> 
+[27-06-2020] : 2 Akhir [13:20:22] --> 
+[28-06-2020] : SlowMart [10:55:28] --> 2 Akhir [20:29:02] --> 
+[29-06-2020] : Clinic [08:34:42] --> Ali's Nasi Kandar [13:23:33] --> 
+[30-06-2020] : Clinic [08:34:14] --> FoodCourt [13:21:43] --> SlowMart [18:09:05] --> 
+[01-07-2020] : Clinic [08:33:57] --> JJPTRv2 [10:59:18] --> Police Station [18:11:52] --> 
+[02-07-2020] : KTM Station [06:11:19] --> Clinic [08:33:35] --> JJPTRv2 [18:07:05] --> 

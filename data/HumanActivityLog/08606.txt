@@ -1,0 +1,17 @@
+HUMAN ID: 08606     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : MRT Station [06:12:30] --> Kindergarden [08:36:49] --> Ali's Nasi Kandar [18:11:08] --> 
+[20-06-2020] : Moonlings [13:22:36] --> Post Office [18:09:19] --> IKEY [20:32:38] --> 
+[21-06-2020] : GayaGrocery [10:57:45] --> 
+[22-06-2020] : Kindergarden [08:35:41] --> FoodCourt [13:23:57] --> 
+[23-06-2020] : MRT Station [06:12:17] --> Kindergarden [08:35:19] --> Post Office [10:58:06] --> 
+[24-06-2020] : Kindergarden [08:33:56] --> FoodCourt [13:21:46] --> 
+[25-06-2020] : Kindergarden [08:33:58] --> Ali's Nasi Kandar [13:19:38] --> 
+[26-06-2020] : KTM Station [06:10:55] --> Kindergarden [08:32:50] --> GayaGrocery [10:55:41] --> MoonBucks [13:17:51] --> Moonlings [20:29:03] --> 
+[27-06-2020] : Library [13:21:10] --> 
+[28-06-2020] : 2 Akhir [20:29:48] --> 
+[29-06-2020] : KTM Station [06:12:24] --> Kindergarden [08:35:23] --> 
+[30-06-2020] : MRT Station [06:12:00] --> Kindergarden [08:34:55] --> Police Station [10:59:09] --> 
+[01-07-2020] : Kindergarden [08:34:50] --> JJPTRv2 [18:12:46] --> 
+[02-07-2020] : MRT Station [06:12:03] --> Kindergarden [08:34:33] --> 

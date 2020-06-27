@@ -1,0 +1,17 @@
+HUMAN ID: 07164     GENDER: Male     AGE CATEGORY: Adult     ROLE: Waiter
+========================================================================================
+
+[19-06-2020] : MRT Station [06:00:28] --> MoonBucks [08:24:31] --> 
+[20-06-2020] : KTM Station [06:00:18] --> MoonBucks [08:23:02] --> 
+[21-06-2020] : MoonBucks [08:22:55] --> 
+[22-06-2020] : MoonBucks [08:23:43] --> 
+[23-06-2020] : KTM Station [06:00:27] --> MoonBucks [08:23:19] --> Ali's Nasi Kandar [13:09:25] --> 
+[24-06-2020] : MoonBucks [08:22:12] --> 
+[25-06-2020] : MoonBucks [08:21:19] --> 
+[26-06-2020] : MoonBucks [08:21:01] --> JanBank [17:53:26] --> 
+[27-06-2020] : MRT Station [06:00:29] --> MoonBucks [08:23:43] --> MoonBucks [17:54:50] --> 
+[28-06-2020] : MoonBucks [08:21:39] --> 
+[29-06-2020] : MoonBucks [08:23:24] --> Ali's Nasi Kandar [17:58:18] --> 
+[30-06-2020] : MoonBucks [08:23:10] --> FoodCourt [17:57:35] --> 
+[01-07-2020] : MoonBucks [08:22:49] --> Police Station [13:12:11] --> 
+[02-07-2020] : KTM Station [06:00:21] --> MoonBucks [08:22:15] --> 

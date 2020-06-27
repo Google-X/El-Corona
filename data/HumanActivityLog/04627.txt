@@ -1,0 +1,17 @@
+HUMAN ID: 04627     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [08:03:07] --> Police Station [10:27:22] --> 
+[20-06-2020] : Moonlings [19:59:44] --> 
+[21-06-2020] : FoodCourt [10:24:36] --> 
+[22-06-2020] : MRT Station [08:02:14] --> Police Station [10:26:06] --> Ali's Nasi Kandar [12:50:08] --> 
+[23-06-2020] : MRT Station [08:02:20] --> Post Office [10:25:35] --> FoodCourt [12:48:11] --> 
+[24-06-2020] : MRT Station [08:00:57] --> Police Station [10:23:46] --> 
+[25-06-2020] : MRT Station [08:00:15] --> 
+[26-06-2020] : MRT Station [08:00:11] --> MoonBucks [12:45:19] --> 2 Akhir [19:55:33] --> 
+[27-06-2020] : 2 Akhir [12:48:00] --> 
+[28-06-2020] : 
+[29-06-2020] : MRT Station [08:02:55] --> Ali's Nasi Kandar [12:51:32] --> 
+[30-06-2020] : MRT Station [08:02:12] --> FoodCourt [12:49:02] --> 
+[01-07-2020] : MRT Station [08:01:19] --> 
+[02-07-2020] : MRT Station [08:00:28] --> FoodCourt [12:47:41] --> 

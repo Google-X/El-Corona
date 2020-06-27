@@ -1,0 +1,17 @@
+HUMAN ID: 01235     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [09:59:00] --> 
+[20-06-2020] : Police Station [09:57:13] --> Fibre [17:08:05] --> 
+[21-06-2020] : 
+[22-06-2020] : Police Station [09:57:51] --> 
+[23-06-2020] : Police Station [09:56:56] --> 
+[24-06-2020] : Police Station [09:55:21] --> 
+[25-06-2020] : Police Station [09:55:18] --> 
+[26-06-2020] : Police Station [09:54:21] --> 
+[27-06-2020] : Police Station [09:58:44] --> Pharmarcy [17:06:13] --> 
+[28-06-2020] : Police Station [09:55:46] --> 
+[29-06-2020] : Police Station [09:57:07] --> 
+[30-06-2020] : Police Station [09:57:37] --> 
+[01-07-2020] : Police Station [09:57:25] --> 
+[02-07-2020] : Police Station [09:55:58] --> 

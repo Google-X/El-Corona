@@ -1,0 +1,17 @@
+HUMAN ID: 08759     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Hospital [08:37:55] --> FoodCourt [13:25:25] --> JJPTRv2 [18:12:28] --> Park [20:34:16] --> 
+[20-06-2020] : Moonlings [20:33:56] --> 
+[21-06-2020] : Library [13:21:59] --> 
+[22-06-2020] : Hospital [08:36:56] --> Ali's Nasi Kandar [13:25:17] --> 
+[23-06-2020] : Hospital [08:36:27] --> Ali's Nasi Kandar [13:22:36] --> 
+[24-06-2020] : Hospital [08:35:07] --> Ali's Nasi Kandar [10:58:49] --> Ali's Nasi Kandar [13:22:58] --> 
+[25-06-2020] : Hospital [08:35:03] --> MoonBucks [13:20:59] --> MoonBucks [18:08:17] --> 
+[26-06-2020] : Hospital [08:33:56] --> Pharmarcy [10:57:04] --> Ali's Nasi Kandar [13:19:13] --> Park [20:30:17] --> 
+[27-06-2020] : 
+[28-06-2020] : 2 Akhir [13:20:57] --> Police Station [18:06:41] --> 2 Akhir [20:31:02] --> 
+[29-06-2020] : KTM Station [06:13:43] --> Hospital [08:36:43] --> FoodCourt [13:25:39] --> Post Office [18:12:20] --> 
+[30-06-2020] : Hospital [08:36:18] --> Ali's Nasi Kandar [13:24:00] --> 
+[01-07-2020] : Hospital [08:36:04] --> Ali's Nasi Kandar [18:13:50] --> 
+[02-07-2020] : KTM Station [06:13:13] --> Hospital [08:35:39] --> GayaGrocery [10:58:22] --> Ali's Nasi Kandar [13:21:57] --> 

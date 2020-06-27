@@ -1,0 +1,17 @@
+HUMAN ID: 00929     GENDER: Male     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : MRT Station [09:56:19] --> FoodCourt [17:07:02] --> 
+[20-06-2020] : KTM Station [07:31:49] --> MRT Station [09:54:55] --> Fibre [17:05:11] --> 
+[21-06-2020] : MRT Station [09:53:48] --> FoodCourt [17:04:03] --> 
+[22-06-2020] : KTM Station [07:31:25] --> MRT Station [09:55:11] --> 
+[23-06-2020] : KTM Station [07:31:27] --> 
+[24-06-2020] : MRT Station [09:52:45] --> 
+[25-06-2020] : 
+[26-06-2020] : MRT Station [07:30:00] --> 
+[27-06-2020] : MRT Station [09:56:10] --> Post Office [17:03:31] --> 
+[28-06-2020] : MRT Station [09:53:24] --> Pharmarcy [17:01:24] --> 
+[29-06-2020] : MRT Station [07:32:26] --> MRT Station [09:54:33] --> Police Station [17:06:57] --> 
+[30-06-2020] : MRT Station [07:32:04] --> MRT Station [09:55:04] --> 
+[01-07-2020] : MRT Station [09:54:39] --> 
+[02-07-2020] : MRT Station [09:53:18] --> 

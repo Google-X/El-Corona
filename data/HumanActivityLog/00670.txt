@@ -1,0 +1,17 @@
+HUMAN ID: 00670     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [09:54:16] --> 
+[20-06-2020] : Police Station [09:52:51] --> 
+[21-06-2020] : Police Station [09:51:30] --> 
+[22-06-2020] : 
+[23-06-2020] : Police Station [09:52:17] --> 
+[24-06-2020] : Police Station [09:50:27] --> 
+[25-06-2020] : Police Station [09:50:47] --> 
+[26-06-2020] : Police Station [09:49:39] --> 
+[27-06-2020] : Police Station [09:53:43] --> 
+[28-06-2020] : Police Station [09:51:17] --> 
+[29-06-2020] : Police Station [09:52:12] --> 
+[30-06-2020] : Police Station [09:53:00] --> 
+[01-07-2020] : Police Station [09:52:14] --> 
+[02-07-2020] : Police Station [09:51:05] --> 

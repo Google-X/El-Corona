@@ -1,0 +1,17 @@
+HUMAN ID: 06842     GENDER: Male     AGE CATEGORY: Senior Citizen     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [05:57:53] --> Petrocad [08:21:41] --> Police Station [10:45:45] --> Ali's Nasi Kandar [13:09:38] --> 
+[20-06-2020] : Museum [20:17:51] --> 
+[21-06-2020] : Museum [13:06:23] --> Park [20:15:57] --> 
+[22-06-2020] : KTM Station [05:56:44] --> Petrocad [08:20:46] --> 
+[23-06-2020] : KTM Station [05:57:52] --> Petrocad [08:20:36] --> FoodCourt [13:06:45] --> 
+[24-06-2020] : Petrocad [08:19:31] --> FoodCourt [10:43:00] --> Ali's Nasi Kandar [13:06:48] --> 
+[25-06-2020] : KTM Station [05:56:32] --> Petrocad [08:18:26] --> GayaGrocery [10:41:22] --> 
+[26-06-2020] : MRT Station [05:56:15] --> Petrocad [08:18:20] --> Ali's Nasi Kandar [13:03:17] --> 
+[27-06-2020] : Police Station [10:45:02] --> Moonlings [20:15:37] --> 
+[28-06-2020] : Museum [13:04:59] --> Park [20:14:29] --> 
+[29-06-2020] : KTM Station [05:57:52] --> Petrocad [08:20:43] --> Ali's Nasi Kandar [13:09:40] --> 
+[30-06-2020] : MRT Station [05:56:52] --> Petrocad [08:20:19] --> SlowMart [10:44:26] --> MoonBucks [13:08:06] --> 
+[01-07-2020] : Petrocad [08:20:08] --> Ali's Nasi Kandar [10:44:44] --> FoodCourt [13:09:10] --> 
+[02-07-2020] : MRT Station [05:57:29] --> Petrocad [08:19:22] --> 

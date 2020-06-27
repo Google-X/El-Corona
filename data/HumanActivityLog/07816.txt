@@ -1,0 +1,17 @@
+HUMAN ID: 07816     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Post Office [08:29:47] --> Pharmarcy [10:54:13] --> IKEY [20:26:25] --> 
+[20-06-2020] : Fibre [10:52:03] --> 
+[21-06-2020] : 
+[22-06-2020] : MRT Station [06:04:40] --> Post Office [08:29:05] --> JanBank [10:52:59] --> FoodCourt [13:17:07] --> 
+[23-06-2020] : MRT Station [06:05:46] --> Post Office [08:28:45] --> MoonBucks [13:14:56] --> Ali's Nasi Kandar [18:00:32] --> 
+[24-06-2020] : KTM Station [06:05:07] --> Post Office [08:27:27] --> Fibre [10:51:01] --> 
+[25-06-2020] : Post Office [08:26:56] --> MoonBucks [13:13:11] --> 
+[26-06-2020] : Post Office [08:26:27] --> Ali's Nasi Kandar [13:10:51] --> 
+[27-06-2020] : GayaGrocery [18:00:07] --> IKEY [20:23:47] --> 
+[28-06-2020] : Library [13:13:05] --> Museum [20:23:13] --> 
+[29-06-2020] : Post Office [08:28:45] --> MoonBucks [13:18:10] --> JanBank [18:04:22] --> 
+[30-06-2020] : Post Office [08:28:46] --> JanBank [10:52:37] --> Ali's Nasi Kandar [13:16:06] --> GayaGrocery [18:03:17] --> 
+[01-07-2020] : KTM Station [06:04:36] --> Post Office [08:28:13] --> Post Office [10:53:28] --> Ali's Nasi Kandar [13:17:44] --> JanBank [18:05:53] --> 
+[02-07-2020] : Post Office [08:27:43] --> 

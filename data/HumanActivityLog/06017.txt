@@ -1,0 +1,17 @@
+HUMAN ID: 06017     GENDER: Male     AGE CATEGORY: Adult     ROLE: Engineer
+========================================================================================
+
+[19-06-2020] : Petrocad [08:14:55] --> GayaGrocery [10:38:43] --> MoonBucks [13:02:41] --> 
+[20-06-2020] : Moonlings [13:00:08] --> 
+[21-06-2020] : Moonlings [12:59:33] --> 
+[22-06-2020] : KTM Station [05:49:48] --> Petrocad [08:13:46] --> JJPTRv2 [10:37:18] --> 
+[23-06-2020] : Petrocad [08:13:52] --> JanBank [10:36:41] --> FoodCourt [12:59:50] --> 
+[24-06-2020] : Petrocad [08:12:37] --> Ali's Nasi Kandar [12:59:45] --> 
+[25-06-2020] : Petrocad [08:11:22] --> 
+[26-06-2020] : MRT Station [05:49:09] --> Petrocad [08:11:58] --> Ali's Nasi Kandar [12:56:36] --> 2 Akhir [20:07:16] --> 
+[27-06-2020] : GayaGrocery [10:37:55] --> Moonlings [20:08:38] --> 
+[28-06-2020] : 
+[29-06-2020] : MRT Station [05:50:39] --> Petrocad [08:14:02] --> Post Office [10:37:56] --> 
+[30-06-2020] : Petrocad [08:13:42] --> JJPTRv2 [10:37:29] --> MoonBucks [13:01:07] --> 
+[01-07-2020] : MRT Station [05:49:46] --> Petrocad [08:13:37] --> MoonBucks [10:37:25] --> Ali's Nasi Kandar [13:02:01] --> 
+[02-07-2020] : MRT Station [05:50:31] --> Petrocad [08:12:47] --> MoonBucks [12:59:19] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 06400     GENDER: Female     AGE CATEGORY: Adult     ROLE: Engineer
+========================================================================================
+
+[19-06-2020] : KTM Station [05:53:59] --> Petrocad [08:18:03] --> Fibre [10:41:53] --> Moonlings [20:14:58] --> 
+[20-06-2020] : IKEY [20:14:11] --> 
+[21-06-2020] : Library [13:02:36] --> 
+[22-06-2020] : KTM Station [05:52:59] --> Petrocad [08:17:00] --> FoodCourt [10:40:38] --> 
+[23-06-2020] : KTM Station [05:54:04] --> Petrocad [08:17:06] --> JanBank [10:39:40] --> Ali's Nasi Kandar [13:02:59] --> 
+[24-06-2020] : MRT Station [05:53:36] --> Petrocad [08:15:41] --> Ali's Nasi Kandar [13:03:03] --> 
+[25-06-2020] : KTM Station [05:52:54] --> Petrocad [08:14:52] --> 
+[26-06-2020] : Petrocad [08:14:56] --> RHP [10:36:54] --> Ali's Nasi Kandar [12:59:41] --> 
+[27-06-2020] : Moonlings [13:02:34] --> 
+[28-06-2020] : SlowMart [10:38:24] --> 
+[29-06-2020] : KTM Station [05:53:56] --> Petrocad [08:17:01] --> JJPTRv2 [10:41:11] --> Ali's Nasi Kandar [13:05:52] --> 
+[30-06-2020] : Petrocad [08:16:42] --> Ali's Nasi Kandar [13:04:37] --> 
+[01-07-2020] : MRT Station [05:52:53] --> Petrocad [08:16:41] --> 
+[02-07-2020] : Petrocad [08:15:38] --> 

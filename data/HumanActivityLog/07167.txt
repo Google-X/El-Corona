@@ -1,0 +1,17 @@
+HUMAN ID: 07167     GENDER: Female     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:24:33] --> 
+[20-06-2020] : Police Station [08:23:03] --> FoodCourt [17:57:21] --> 
+[21-06-2020] : Police Station [08:22:56] --> 
+[22-06-2020] : Police Station [08:23:45] --> 
+[23-06-2020] : Police Station [08:23:21] --> 
+[24-06-2020] : Police Station [08:22:13] --> 
+[25-06-2020] : Police Station [08:21:19] --> FoodCourt [13:07:42] --> 
+[26-06-2020] : Police Station [08:21:02] --> FoodCourt [13:05:40] --> 
+[27-06-2020] : Police Station [08:23:44] --> 
+[28-06-2020] : Police Station [08:21:39] --> Pharmarcy [17:52:55] --> 
+[29-06-2020] : Police Station [08:23:24] --> 
+[30-06-2020] : Police Station [08:23:12] --> FoodCourt [13:10:39] --> 
+[01-07-2020] : Police Station [08:22:51] --> 
+[02-07-2020] : Police Station [08:22:17] --> 

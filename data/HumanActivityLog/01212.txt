@@ -1,0 +1,17 @@
+HUMAN ID: 01212     GENDER: Male     AGE CATEGORY: Adult     ROLE: Shopping Centre Retailer
+========================================================================================
+
+[19-06-2020] : MRT Station [07:34:20] --> Moonlings [09:58:47] --> 
+[20-06-2020] : Moonlings [09:57:04] --> FoodCourt [17:07:51] --> 
+[21-06-2020] : MRT Station [07:33:44] --> Moonlings [09:56:04] --> JanBank [17:06:33] --> 
+[22-06-2020] : Moonlings [09:57:40] --> 
+[23-06-2020] : Moonlings [09:56:48] --> Pharmarcy [17:05:03] --> 
+[24-06-2020] : 
+[25-06-2020] : MRT Station [07:32:54] --> Moonlings [09:55:08] --> RHP [17:05:11] --> 
+[26-06-2020] : Moonlings [09:54:11] --> 
+[27-06-2020] : Moonlings [09:58:35] --> JanBank [17:06:04] --> 
+[28-06-2020] : Moonlings [09:55:29] --> 
+[29-06-2020] : Moonlings [09:56:51] --> MoonBucks [17:09:32] --> 
+[30-06-2020] : Moonlings [09:57:22] --> 
+[01-07-2020] : Moonlings [09:57:12] --> 
+[02-07-2020] : KTM Station [07:32:58] --> Moonlings [09:55:49] --> Post Office [17:06:19] --> 

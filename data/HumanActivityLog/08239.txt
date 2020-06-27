@@ -1,0 +1,17 @@
+HUMAN ID: 08239     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [08:33:39] --> 
+[20-06-2020] : Ali's Nasi Kandar [18:06:23] --> 
+[21-06-2020] : Museum [13:17:50] --> Ali's Nasi Kandar [18:04:44] --> Park [20:27:47] --> 
+[22-06-2020] : KTM Station [08:32:47] --> Ali's Nasi Kandar [10:56:40] --> FoodCourt [13:20:38] --> 
+[23-06-2020] : KTM Station [08:32:16] --> Ali's Nasi Kandar [18:03:56] --> 
+[24-06-2020] : KTM Station [08:31:05] --> FoodCourt [13:18:45] --> 
+[25-06-2020] : KTM Station [08:30:37] --> Police Station [10:53:14] --> MoonBucks [13:16:35] --> 
+[26-06-2020] : KTM Station [08:29:48] --> Moonlings [20:26:18] --> 
+[27-06-2020] : Park [13:18:04] --> 
+[28-06-2020] : MoonBucks [10:53:20] --> 
+[29-06-2020] : KTM Station [08:32:20] --> FoodCourt [13:21:26] --> 
+[30-06-2020] : KTM Station [08:32:09] --> Post Office [10:56:00] --> 
+[01-07-2020] : KTM Station [08:31:37] --> GayaGrocery [18:09:30] --> 
+[02-07-2020] : KTM Station [08:31:14] --> GayaGrocery [18:04:55] --> 

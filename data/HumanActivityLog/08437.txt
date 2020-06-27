@@ -1,0 +1,17 @@
+HUMAN ID: 08437     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : Orange [08:35:26] --> Post Office [10:59:15] --> Post Office [18:10:01] --> 
+[20-06-2020] : Park [13:21:07] --> JanBank [18:07:53] --> Museum [20:31:23] --> 
+[21-06-2020] : 
+[22-06-2020] : MRT Station [06:09:48] --> Orange [08:34:26] --> MoonBucks [13:22:13] --> 
+[23-06-2020] : MRT Station [06:10:59] --> Orange [08:33:49] --> 
+[24-06-2020] : KTM Station [06:10:03] --> Orange [08:32:40] --> FoodCourt [13:20:24] --> 
+[25-06-2020] : MRT Station [06:09:52] --> Orange [08:32:23] --> Ali's Nasi Kandar [18:05:24] --> 
+[26-06-2020] : Orange [08:31:23] --> Ali's Nasi Kandar [13:16:11] --> FoodCourt [18:04:02] --> 
+[27-06-2020] : Museum [20:28:44] --> 
+[28-06-2020] : Police Station [10:54:54] --> 2 Akhir [20:28:25] --> 
+[29-06-2020] : Orange [08:34:02] --> FoodCourt [13:22:55] --> 
+[30-06-2020] : MRT Station [06:10:44] --> Orange [08:33:34] --> MoonBucks [13:21:09] --> Post Office [18:08:29] --> 
+[01-07-2020] : Orange [08:33:19] --> Ali's Nasi Kandar [13:22:48] --> Pharmarcy [18:11:07] --> 
+[02-07-2020] : Orange [08:33:00] --> 

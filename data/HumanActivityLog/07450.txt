@@ -1,0 +1,17 @@
+HUMAN ID: 07450     GENDER: Male     AGE CATEGORY: Adult     ROLE: Waiter
+========================================================================================
+
+[19-06-2020] : MRT Station [06:02:52] --> Moonlings [08:26:41] --> MoonBucks [13:14:33] --> 
+[20-06-2020] : KTM Station [06:03:02] --> Moonlings [08:25:24] --> JJPTRv2 [17:59:45] --> 
+[21-06-2020] : Moonlings [08:25:08] --> JJPTRv2 [13:11:21] --> Post Office [17:58:22] --> 
+[22-06-2020] : Moonlings [08:26:00] --> JanBank [13:13:51] --> 
+[23-06-2020] : MRT Station [06:02:41] --> Moonlings [08:25:47] --> 
+[24-06-2020] : MRT Station [06:02:10] --> Moonlings [08:24:30] --> JanBank [17:59:37] --> 
+[25-06-2020] : MRT Station [06:01:48] --> Moonlings [08:23:45] --> MoonBucks [13:10:12] --> 
+[26-06-2020] : MRT Station [06:01:27] --> Moonlings [08:23:16] --> Pharmarcy [13:07:49] --> 
+[27-06-2020] : Moonlings [08:26:10] --> 
+[28-06-2020] : Moonlings [08:24:10] --> MoonBucks [13:09:57] --> 
+[29-06-2020] : 
+[30-06-2020] : Moonlings [08:25:37] --> MoonBucks [13:13:03] --> 
+[01-07-2020] : Moonlings [08:25:09] --> 
+[02-07-2020] : Moonlings [08:24:33] --> Post Office [17:58:28] --> 

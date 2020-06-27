@@ -1,0 +1,17 @@
+HUMAN ID: 08305     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [08:34:15] --> FoodCourt [18:08:49] --> Moonlings [20:30:16] --> 
+[20-06-2020] : Pharmarcy [10:56:17] --> Museum [20:30:26] --> 
+[21-06-2020] : GayaGrocery [18:05:18] --> Moonlings [20:28:23] --> 
+[22-06-2020] : KTM Station [08:33:15] --> SlowMart [10:57:07] --> 
+[23-06-2020] : KTM Station [08:32:47] --> 
+[24-06-2020] : KTM Station [08:31:39] --> 
+[25-06-2020] : KTM Station [08:31:18] --> 
+[26-06-2020] : KTM Station [08:30:20] --> Post Office [18:02:51] --> 
+[27-06-2020] : JJPTRv2 [10:56:51] --> Museum [13:18:41] --> 
+[28-06-2020] : SlowMart [18:02:44] --> Moonlings [20:27:15] --> 
+[29-06-2020] : KTM Station [08:32:48] --> FoodCourt [13:22:00] --> 
+[30-06-2020] : KTM Station [08:32:35] --> MoonBucks [10:56:25] --> MoonBucks [13:20:04] --> 
+[01-07-2020] : KTM Station [08:32:04] --> FoodCourt [13:21:54] --> FoodCourt [18:10:11] --> 
+[02-07-2020] : KTM Station [08:31:44] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 06665     GENDER: Female     AGE CATEGORY: Adult     ROLE: Waiter
+========================================================================================
+
+[19-06-2020] : Police Station [13:08:05] --> JanBank [17:55:27] --> 
+[20-06-2020] : FoodCourt [08:19:10] --> JanBank [17:53:15] --> 
+[21-06-2020] : FoodCourt [08:19:02] --> SlowMart [17:51:55] --> 
+[22-06-2020] : FoodCourt [08:19:21] --> SlowMart [17:54:22] --> 
+[23-06-2020] : FoodCourt [08:19:09] --> SlowMart [17:51:02] --> 
+[24-06-2020] : FoodCourt [08:18:08] --> Ali's Nasi Kandar [13:05:27] --> 
+[25-06-2020] : FoodCourt [08:16:57] --> 
+[26-06-2020] : FoodCourt [08:16:59] --> 
+[27-06-2020] : FoodCourt [08:19:33] --> GayaGrocery [13:04:47] --> 
+[28-06-2020] : FoodCourt [08:17:30] --> MoonBucks [13:03:32] --> SlowMart [17:49:04] --> 
+[29-06-2020] : FoodCourt [08:19:18] --> JJPTRv2 [13:08:12] --> Post Office [17:54:05] --> 
+[30-06-2020] : FoodCourt [08:18:58] --> 
+[01-07-2020] : FoodCourt [08:18:43] --> 
+[02-07-2020] : FoodCourt [08:18:04] --> MoonBucks [17:52:01] --> 

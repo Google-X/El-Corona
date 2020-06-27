@@ -1,0 +1,17 @@
+HUMAN ID: 07485     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [06:03:15] --> Airport [08:26:56] --> Pharmarcy [10:51:17] --> MoonBucks [13:14:47] --> 
+[20-06-2020] : 2 Akhir [13:12:53] --> Moonlings [20:23:24] --> 
+[21-06-2020] : 2 Akhir [20:21:30] --> 
+[22-06-2020] : MRT Station [06:02:06] --> Airport [08:26:12] --> JanBank [10:50:05] --> Ali's Nasi Kandar [18:00:57] --> 
+[23-06-2020] : MRT Station [06:02:56] --> Airport [08:26:05] --> Police Station [10:48:36] --> 
+[24-06-2020] : KTM Station [06:02:26] --> Airport [08:24:50] --> Pharmarcy [10:48:08] --> FoodCourt [13:12:23] --> 
+[25-06-2020] : Airport [08:24:07] --> 
+[26-06-2020] : Airport [08:23:31] --> Police Station [10:46:29] --> 
+[27-06-2020] : 2 Akhir [13:11:26] --> Library [20:20:58] --> 
+[28-06-2020] : IKEY [20:20:10] --> 
+[29-06-2020] : Airport [08:25:57] --> JanBank [10:50:29] --> 
+[30-06-2020] : MRT Station [06:02:19] --> Airport [08:25:53] --> FoodCourt [13:13:17] --> 
+[01-07-2020] : Airport [08:25:24] --> MoonBucks [13:14:49] --> 
+[02-07-2020] : Airport [08:24:56] --> FoodCourt [13:11:24] --> 

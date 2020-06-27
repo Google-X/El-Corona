@@ -1,0 +1,17 @@
+HUMAN ID: 07407     GENDER: Female     AGE CATEGORY: Adult     ROLE: Waiter
+========================================================================================
+
+[19-06-2020] : KTM Station [06:02:32] --> SlowMart [13:14:10] --> 
+[20-06-2020] : Moonlings [08:25:02] --> 
+[21-06-2020] : Moonlings [08:24:43] --> JanBank [13:10:59] --> 
+[22-06-2020] : KTM Station [06:01:35] --> Moonlings [08:25:44] --> 
+[23-06-2020] : MRT Station [06:02:18] --> Moonlings [08:25:23] --> Pharmarcy [13:11:31] --> 
+[24-06-2020] : Moonlings [08:24:05] --> RHP [17:59:18] --> 
+[25-06-2020] : Moonlings [08:23:17] --> Ali's Nasi Kandar [13:09:53] --> Post Office [17:57:02] --> 
+[26-06-2020] : Moonlings [08:22:56] --> Pharmarcy [17:55:17] --> 
+[27-06-2020] : MRT Station [06:02:29] --> Moonlings [08:25:51] --> MoonBucks [17:56:55] --> 
+[28-06-2020] : KTM Station [06:00:18] --> Moonlings [08:23:47] --> Fibre [13:09:36] --> 
+[29-06-2020] : KTM Station [06:02:25] --> Moonlings [08:25:25] --> 
+[30-06-2020] : Moonlings [08:25:20] --> 
+[01-07-2020] : MRT Station [06:01:20] --> Moonlings [08:24:50] --> 
+[02-07-2020] : Moonlings [08:24:10] --> FoodCourt [13:10:45] --> MoonBucks [17:58:07] --> 

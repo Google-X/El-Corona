@@ -1,0 +1,17 @@
+HUMAN ID: 06339     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : Airport [08:17:30] --> Police Station [10:41:24] --> FoodCourt [13:05:25] --> Park [20:14:27] --> 
+[20-06-2020] : 
+[21-06-2020] : MoonBucks [10:39:13] --> 
+[22-06-2020] : KTM Station [05:52:27] --> Airport [08:16:29] --> MoonBucks [13:04:20] --> 
+[23-06-2020] : KTM Station [05:53:30] --> Airport [08:16:35] --> Ali's Nasi Kandar [13:02:31] --> 
+[24-06-2020] : MRT Station [05:53:04] --> Airport [08:15:05] --> MoonBucks [13:02:32] --> 
+[25-06-2020] : Airport [08:14:20] --> MoonBucks [13:00:54] --> 
+[26-06-2020] : KTM Station [05:51:50] --> Airport [08:14:24] --> Ali's Nasi Kandar [10:36:27] --> 2 Akhir [20:10:04] --> 
+[27-06-2020] : Museum [13:02:00] --> 
+[28-06-2020] : FoodCourt [10:37:56] --> IKEY [13:00:45] --> Moonlings [20:10:21] --> 
+[29-06-2020] : Airport [08:16:42] --> Fibre [10:40:43] --> MoonBucks [13:05:28] --> 
+[30-06-2020] : MRT Station [05:52:49] --> Airport [08:16:10] --> 
+[01-07-2020] : Airport [08:16:10] --> 
+[02-07-2020] : MRT Station [05:53:11] --> Airport [08:15:10] --> 

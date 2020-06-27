@@ -1,0 +1,17 @@
+HUMAN ID: 05082     GENDER: Male     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : KTM Station [05:42:53] --> Pharmarcy [08:06:55] --> JanBank [10:31:12] --> MoonBucks [12:55:13] --> 2 Akhir [20:04:00] --> 
+[20-06-2020] : JJPTRv2 [10:29:01] --> IKEY [20:03:35] --> 
+[21-06-2020] : Pharmarcy [10:28:23] --> 
+[22-06-2020] : Pharmarcy [08:06:13] --> RHP [10:29:44] --> MoonBucks [12:53:43] --> 
+[23-06-2020] : KTM Station [05:42:47] --> Pharmarcy [08:06:04] --> JanBank [10:29:33] --> FoodCourt [12:51:55] --> 
+[24-06-2020] : Pharmarcy [08:04:43] --> 
+[25-06-2020] : MRT Station [05:42:13] --> Pharmarcy [08:03:51] --> MoonBucks [12:50:26] --> 
+[26-06-2020] : MRT Station [05:41:02] --> Pharmarcy [08:04:07] --> 
+[27-06-2020] : Library [20:00:56] --> 
+[28-06-2020] : Library [19:59:44] --> 
+[29-06-2020] : Pharmarcy [08:06:41] --> FoodCourt [12:55:30] --> 
+[30-06-2020] : KTM Station [05:42:14] --> Pharmarcy [08:06:14] --> Police Station [10:29:49] --> 
+[01-07-2020] : Pharmarcy [08:05:12] --> Police Station [10:29:33] --> Ali's Nasi Kandar [12:54:35] --> 
+[02-07-2020] : MRT Station [05:42:30] --> Pharmarcy [08:04:31] --> Ali's Nasi Kandar [12:51:18] --> 

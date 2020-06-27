@@ -1,0 +1,17 @@
+HUMAN ID: 08815     GENDER: Male     AGE CATEGORY: Adult     ROLE: Teacher
+========================================================================================
+
+[19-06-2020] : Kindergarden [06:14:12] --> 
+[20-06-2020] : Park [18:11:15] --> 
+[21-06-2020] : SlowMart [10:59:29] --> Museum [18:09:44] --> 
+[22-06-2020] : Kindergarden [06:12:52] --> Ali's Nasi Kandar [11:01:09] --> 
+[23-06-2020] : Kindergarden [06:14:11] --> Ali's Nasi Kandar [10:59:44] --> 
+[24-06-2020] : Kindergarden [06:12:54] --> Police Station [10:59:18] --> 
+[25-06-2020] : Kindergarden [06:13:08] --> Ali's Nasi Kandar [10:58:04] --> 
+[26-06-2020] : Kindergarden [06:12:41] --> RHP [10:57:34] --> 
+[27-06-2020] : Park [18:08:20] --> 
+[28-06-2020] : SlowMart [10:58:15] --> Moonlings [18:07:13] --> 
+[29-06-2020] : Kindergarden [06:14:10] --> Pharmarcy [11:01:45] --> 
+[30-06-2020] : Kindergarden [06:13:49] --> SlowMart [11:00:51] --> 
+[01-07-2020] : Kindergarden [06:13:09] --> 
+[02-07-2020] : Kindergarden [06:13:44] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 07111     GENDER: Female     AGE CATEGORY: Adult     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : MoonBucks [08:24:02] --> JanBank [13:11:49] --> 
+[20-06-2020] : MoonBucks [08:22:43] --> 
+[21-06-2020] : MoonBucks [08:22:30] --> 
+[22-06-2020] : MoonBucks [08:23:19] --> Ali's Nasi Kandar [17:57:47] --> 
+[23-06-2020] : MoonBucks [08:22:50] --> JJPTRv2 [13:09:00] --> SlowMart [17:54:45] --> 
+[24-06-2020] : MoonBucks [08:21:41] --> 
+[25-06-2020] : MoonBucks [08:20:49] --> GayaGrocery [13:07:11] --> 
+[26-06-2020] : MoonBucks [08:20:35] --> MoonBucks [13:05:17] --> JJPTRv2 [17:52:59] --> 
+[27-06-2020] : MoonBucks [08:23:19] --> Ali's Nasi Kandar [17:54:24] --> 
+[28-06-2020] : MoonBucks [08:21:17] --> Ali's Nasi Kandar [13:07:09] --> 
+[29-06-2020] : MoonBucks [08:22:56] --> MoonBucks [17:57:56] --> 
+[30-06-2020] : MoonBucks [08:22:39] --> 
+[01-07-2020] : MoonBucks [08:22:21] --> FoodCourt [17:59:38] --> 
+[02-07-2020] : MoonBucks [08:21:45] --> GayaGrocery [13:08:27] --> 

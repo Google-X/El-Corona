@@ -1,0 +1,17 @@
+HUMAN ID: 08732     GENDER: Male     AGE CATEGORY: Adult     ROLE: Teacher
+========================================================================================
+
+[19-06-2020] : Kindergarden [06:13:36] --> MoonBucks [11:01:43] --> 
+[20-06-2020] : SlowMart [10:59:52] --> IKEY [18:10:26] --> 
+[21-06-2020] : Library [18:09:02] --> 
+[22-06-2020] : Kindergarden [06:12:12] --> Ali's Nasi Kandar [11:00:34] --> 
+[23-06-2020] : Kindergarden [06:13:31] --> 
+[24-06-2020] : Kindergarden [06:12:19] --> Fibre [10:58:34] --> 
+[25-06-2020] : Kindergarden [06:12:24] --> Ali's Nasi Kandar [10:57:18] --> 
+[26-06-2020] : Kindergarden [06:11:54] --> Fibre [10:56:50] --> 
+[27-06-2020] : Library [18:07:40] --> 
+[28-06-2020] : SlowMart [10:57:23] --> 
+[29-06-2020] : Kindergarden [06:13:28] --> MoonBucks [11:01:00] --> 
+[30-06-2020] : Kindergarden [06:13:08] --> 
+[01-07-2020] : Kindergarden [06:12:23] --> Pharmarcy [11:01:00] --> 
+[02-07-2020] : Kindergarden [06:12:57] --> 

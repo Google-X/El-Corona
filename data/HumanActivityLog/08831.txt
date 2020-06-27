@@ -1,0 +1,17 @@
+HUMAN ID: 08831     GENDER: Male     AGE CATEGORY: Adult     ROLE: Accountant
+========================================================================================
+
+[19-06-2020] : JanBank [08:38:31] --> FoodCourt [13:26:02] --> Library [20:34:53] --> 
+[20-06-2020] : Museum [13:24:02] --> 
+[21-06-2020] : IKEY [20:32:49] --> 
+[22-06-2020] : MRT Station [06:13:03] --> JanBank [08:37:31] --> FoodCourt [18:11:53] --> 
+[23-06-2020] : JanBank [08:37:06] --> FoodCourt [13:23:16] --> 
+[24-06-2020] : MRT Station [06:13:02] --> JanBank [08:35:37] --> Ali's Nasi Kandar [13:23:34] --> 
+[25-06-2020] : MRT Station [06:13:18] --> JanBank [08:35:39] --> SlowMart [10:58:11] --> 
+[26-06-2020] : KTM Station [06:12:46] --> JanBank [08:34:30] --> FoodCourt [13:19:39] --> Library [20:30:54] --> 
+[27-06-2020] : IKEY [13:22:53] --> 
+[28-06-2020] : SlowMart [10:58:21] --> 
+[29-06-2020] : MRT Station [06:14:21] --> JanBank [08:37:15] --> Ali's Nasi Kandar [13:26:11] --> MoonBucks [18:12:45] --> 
+[30-06-2020] : JanBank [08:36:59] --> 
+[01-07-2020] : JanBank [08:36:41] --> 
+[02-07-2020] : KTM Station [06:13:50] --> JanBank [08:36:13] --> MoonBucks [10:59:00] --> Ali's Nasi Kandar [13:22:44] --> RHP [18:09:55] --> 

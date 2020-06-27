@@ -1,0 +1,17 @@
+HUMAN ID: 06100     GENDER: Female     AGE CATEGORY: Adult     ROLE: Chef
+========================================================================================
+
+[19-06-2020] : Moonlings [08:15:32] --> FoodCourt [17:50:25] --> 
+[20-06-2020] : Moonlings [08:14:35] --> JJPTRv2 [13:00:48] --> 
+[21-06-2020] : Moonlings [08:14:05] --> JJPTRv2 [13:00:13] --> Fibre [17:46:56] --> 
+[22-06-2020] : Moonlings [08:14:30] --> SlowMart [13:02:17] --> SlowMart [17:49:35] --> 
+[23-06-2020] : Moonlings [08:14:34] --> 
+[24-06-2020] : Moonlings [08:13:20] --> Post Office [13:00:31] --> Pharmarcy [17:48:36] --> 
+[25-06-2020] : Moonlings [08:12:02] --> GayaGrocery [17:46:14] --> 
+[26-06-2020] : Moonlings [08:12:41] --> Ali's Nasi Kandar [17:45:18] --> 
+[27-06-2020] : Moonlings [08:15:05] --> 
+[28-06-2020] : Moonlings [08:12:44] --> Post Office [17:44:39] --> 
+[29-06-2020] : Moonlings [08:14:40] --> MoonBucks [13:03:21] --> MoonBucks [17:49:42] --> 
+[30-06-2020] : Moonlings [08:14:23] --> 
+[01-07-2020] : Moonlings [08:14:17] --> Police Station [17:51:18] --> 
+[02-07-2020] : Moonlings [08:13:28] --> 

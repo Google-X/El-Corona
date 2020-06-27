@@ -1,0 +1,17 @@
+HUMAN ID: 05220     GENDER: Male     AGE CATEGORY: Adult     ROLE: Policeman
+========================================================================================
+
+[19-06-2020] : Police Station [08:08:04] --> 
+[20-06-2020] : Police Station [08:07:48] --> 
+[21-06-2020] : Police Station [08:06:46] --> 
+[22-06-2020] : Police Station [08:07:24] --> 
+[23-06-2020] : Police Station [08:07:09] --> 
+[24-06-2020] : Police Station [08:05:51] --> 
+[25-06-2020] : Police Station [08:05:08] --> 
+[26-06-2020] : 
+[27-06-2020] : Police Station [08:07:43] --> 
+[28-06-2020] : Police Station [08:05:17] --> 
+[29-06-2020] : Police Station [08:07:52] --> 
+[30-06-2020] : Police Station [08:07:20] --> 
+[01-07-2020] : Police Station [08:06:23] --> 
+[02-07-2020] : Police Station [08:05:53] --> 

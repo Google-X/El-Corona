@@ -1,0 +1,17 @@
+HUMAN ID: 08754     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : KTM Station [08:37:52] --> Museum [20:34:14] --> 
+[20-06-2020] : Ali's Nasi Kandar [18:10:40] --> IKEY [20:33:52] --> 
+[21-06-2020] : Museum [20:32:02] --> 
+[22-06-2020] : KTM Station [08:36:54] --> GayaGrocery [18:11:20] --> 
+[23-06-2020] : KTM Station [08:36:25] --> Pharmarcy [18:08:26] --> 
+[24-06-2020] : KTM Station [08:35:06] --> Post Office [18:10:54] --> 
+[25-06-2020] : KTM Station [08:35:02] --> Pharmarcy [10:57:30] --> Police Station [18:08:14] --> 
+[26-06-2020] : KTM Station [08:33:53] --> JanBank [18:06:46] --> 
+[27-06-2020] : Post Office [18:07:53] --> Museum [20:31:23] --> 
+[28-06-2020] : Park [13:20:52] --> Library [20:31:00] --> 
+[29-06-2020] : KTM Station [08:36:39] --> FoodCourt [13:25:37] --> 
+[30-06-2020] : KTM Station [08:36:17] --> SlowMart [18:11:01] --> 
+[01-07-2020] : KTM Station [08:36:01] --> MoonBucks [13:25:27] --> RHP [18:13:49] --> 
+[02-07-2020] : KTM Station [08:35:38] --> Ali's Nasi Kandar [13:21:55] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 05907     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Secondary [08:13:59] --> 
+[20-06-2020] : IKEY [12:59:08] --> Moonlings [20:09:59] --> 
+[21-06-2020] : 
+[22-06-2020] : Secondary [08:13:00] --> JanBank [10:36:24] --> 
+[23-06-2020] : MRT Station [05:49:39] --> Secondary [08:12:57] --> MoonBucks [10:35:43] --> Ali's Nasi Kandar [12:58:46] --> 
+[24-06-2020] : Secondary [08:11:43] --> Pharmarcy [10:34:56] --> 
+[25-06-2020] : MRT Station [05:49:19] --> Secondary [08:10:27] --> Ali's Nasi Kandar [12:57:07] --> 
+[26-06-2020] : MRT Station [05:48:06] --> Secondary [08:10:59] --> MoonBucks [12:55:48] --> Moonlings [20:06:27] --> 
+[27-06-2020] : 
+[28-06-2020] : 2 Akhir [20:06:38] --> 
+[29-06-2020] : MRT Station [05:49:40] --> Secondary [08:13:13] --> MoonBucks [13:01:43] --> 
+[30-06-2020] : KTM Station [05:49:07] --> Secondary [08:12:44] --> GayaGrocery [10:36:31] --> FoodCourt [13:00:09] --> 
+[01-07-2020] : KTM Station [05:48:52] --> Secondary [08:12:40] --> Fibre [10:36:25] --> 
+[02-07-2020] : Secondary [08:11:48] --> 

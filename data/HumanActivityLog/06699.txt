@@ -1,0 +1,17 @@
+HUMAN ID: 06699     GENDER: Female     AGE CATEGORY: Adult     ROLE: Accountant
+========================================================================================
+
+[19-06-2020] : JanBank [08:20:28] --> GayaGrocery [10:44:35] --> 
+[20-06-2020] : 
+[21-06-2020] : Moonlings [13:05:08] --> 
+[22-06-2020] : JanBank [08:19:44] --> Fibre [10:43:14] --> MoonBucks [13:07:12] --> 
+[23-06-2020] : KTM Station [05:56:41] --> JanBank [08:19:27] --> 
+[24-06-2020] : MRT Station [05:55:54] --> JanBank [08:18:29] --> MoonBucks [10:41:49] --> 
+[25-06-2020] : MRT Station [05:55:22] --> JanBank [08:17:14] --> Ali's Nasi Kandar [13:03:53] --> 
+[26-06-2020] : JanBank [08:17:15] --> MoonBucks [13:02:13] --> Museum [20:12:55] --> 
+[27-06-2020] : 
+[28-06-2020] : 2 Akhir [13:03:44] --> Library [20:13:25] --> 
+[29-06-2020] : KTM Station [05:56:42] --> JanBank [08:19:35] --> 
+[30-06-2020] : JanBank [08:19:14] --> Police Station [10:43:20] --> Ali's Nasi Kandar [13:07:04] --> 
+[01-07-2020] : KTM Station [05:55:12] --> JanBank [08:19:00] --> Pharmarcy [10:43:27] --> FoodCourt [13:07:57] --> 
+[02-07-2020] : KTM Station [05:56:18] --> JanBank [08:18:23] --> Fibre [10:41:12] --> MoonBucks [13:05:09] --> 

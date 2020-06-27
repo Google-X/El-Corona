@@ -1,0 +1,17 @@
+HUMAN ID: 06752     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : Airport [08:20:59] --> Moonlings [20:17:48] --> 
+[20-06-2020] : IKEY [20:17:08] --> 
+[21-06-2020] : Moonlings [13:05:39] --> Museum [20:15:08] --> 
+[22-06-2020] : Airport [08:20:04] --> Post Office [10:43:46] --> 
+[23-06-2020] : Airport [08:19:52] --> GayaGrocery [10:42:34] --> FoodCourt [13:06:00] --> 
+[24-06-2020] : KTM Station [05:56:21] --> Airport [08:18:49] --> MoonBucks [13:06:15] --> 
+[25-06-2020] : KTM Station [05:55:44] --> Airport [08:17:37] --> MoonBucks [13:04:17] --> 
+[26-06-2020] : Airport [08:17:36] --> Ali's Nasi Kandar [13:02:38] --> 
+[27-06-2020] : Library [13:05:28] --> 
+[28-06-2020] : IKEY [20:13:53] --> 
+[29-06-2020] : Airport [08:20:01] --> 
+[30-06-2020] : KTM Station [05:56:08] --> Airport [08:19:36] --> Ali's Nasi Kandar [13:07:29] --> 
+[01-07-2020] : KTM Station [05:55:36] --> Airport [08:19:29] --> Ali's Nasi Kandar [13:08:23] --> 
+[02-07-2020] : KTM Station [05:56:43] --> Airport [08:18:45] --> GayaGrocery [10:41:36] --> 

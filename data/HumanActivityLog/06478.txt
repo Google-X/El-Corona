@@ -1,0 +1,17 @@
+HUMAN ID: 06478     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Manager
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [08:18:34] --> 
+[20-06-2020] : Ali's Nasi Kandar [08:17:31] --> Pharmarcy [17:51:49] --> 
+[21-06-2020] : Ali's Nasi Kandar [08:17:20] --> GayaGrocery [13:03:14] --> 
+[22-06-2020] : Ali's Nasi Kandar [08:17:43] --> SlowMart [13:05:25] --> 
+[23-06-2020] : Ali's Nasi Kandar [08:17:48] --> 
+[24-06-2020] : Ali's Nasi Kandar [08:16:19] --> 
+[25-06-2020] : 
+[26-06-2020] : Ali's Nasi Kandar [08:15:33] --> GayaGrocery [13:00:17] --> GayaGrocery [17:48:09] --> 
+[27-06-2020] : Ali's Nasi Kandar [08:18:08] --> 
+[28-06-2020] : Ali's Nasi Kandar [08:15:51] --> 
+[29-06-2020] : Ali's Nasi Kandar [08:17:38] --> 
+[30-06-2020] : Ali's Nasi Kandar [08:17:17] --> 
+[01-07-2020] : Ali's Nasi Kandar [08:17:13] --> Police Station [13:05:57] --> 
+[02-07-2020] : Ali's Nasi Kandar [08:16:26] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 08361     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : Orange [08:34:46] --> MoonBucks [13:21:56] --> 
+[20-06-2020] : 
+[21-06-2020] : Museum [13:18:52] --> Library [20:28:55] --> 
+[22-06-2020] : Orange [08:33:46] --> MoonBucks [13:21:42] --> 
+[23-06-2020] : MRT Station [06:10:27] --> Orange [08:33:10] --> FoodCourt [13:19:30] --> 
+[24-06-2020] : KTM Station [06:09:31] --> Orange [08:32:05] --> Ali's Nasi Kandar [13:19:42] --> Fibre [18:07:41] --> 
+[25-06-2020] : MRT Station [06:09:15] --> Orange [08:31:44] --> Post Office [10:54:22] --> Ali's Nasi Kandar [13:17:35] --> Ali's Nasi Kandar [18:04:44] --> 
+[26-06-2020] : KTM Station [06:08:58] --> Orange [08:30:45] --> GayaGrocery [10:53:26] --> Museum [20:27:20] --> 
+[27-06-2020] : IKEY [13:19:09] --> Moonlings [20:28:10] --> 
+[28-06-2020] : JanBank [10:54:20] --> Moonlings [13:17:30] --> Moonlings [20:27:42] --> 
+[29-06-2020] : MRT Station [06:10:26] --> Orange [08:33:16] --> FoodCourt [13:22:20] --> 
+[30-06-2020] : Orange [08:32:58] --> 
+[01-07-2020] : Orange [08:32:36] --> Ali's Nasi Kandar [13:22:17] --> 
+[02-07-2020] : MRT Station [06:10:07] --> Orange [08:32:17] --> FoodCourt [13:18:46] --> JJPTRv2 [18:05:52] --> 

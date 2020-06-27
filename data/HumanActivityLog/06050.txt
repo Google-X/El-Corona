@@ -1,0 +1,17 @@
+HUMAN ID: 06050     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [08:15:08] --> Fibre [10:39:06] --> FoodCourt [13:02:57] --> 
+[20-06-2020] : 
+[21-06-2020] : Ali's Nasi Kandar [10:36:54] --> 
+[22-06-2020] : MRT Station [08:14:05] --> MoonBucks [13:01:56] --> 
+[23-06-2020] : MRT Station [08:14:08] --> 
+[24-06-2020] : MRT Station [08:12:53] --> FoodCourt [13:00:02] --> 
+[25-06-2020] : MRT Station [08:11:37] --> Ali's Nasi Kandar [12:58:24] --> 
+[26-06-2020] : MRT Station [08:12:14] --> MoonBucks [12:56:53] --> 
+[27-06-2020] : Pharmarcy [10:38:13] --> 2 Akhir [20:08:55] --> 
+[28-06-2020] : 
+[29-06-2020] : MRT Station [08:14:16] --> JanBank [10:38:15] --> MoonBucks [13:02:55] --> 
+[30-06-2020] : MRT Station [08:13:58] --> JJPTRv2 [10:37:43] --> 
+[01-07-2020] : MRT Station [08:13:56] --> MoonBucks [10:37:44] --> 
+[02-07-2020] : MRT Station [08:13:03] --> Ali's Nasi Kandar [12:59:36] --> 

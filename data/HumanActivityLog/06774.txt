@@ -1,0 +1,17 @@
+HUMAN ID: 06774     GENDER: Female     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : MRT Station [08:21:09] --> GayaGrocery [10:45:12] --> 
+[20-06-2020] : 
+[21-06-2020] : 2 Akhir [20:15:19] --> 
+[22-06-2020] : MRT Station [08:20:14] --> 
+[23-06-2020] : MRT Station [08:20:00] --> 
+[24-06-2020] : MRT Station [08:18:59] --> Fibre [10:42:30] --> FoodCourt [13:06:21] --> 
+[25-06-2020] : MRT Station [08:17:51] --> FoodCourt [13:04:25] --> 
+[26-06-2020] : MRT Station [08:17:45] --> Police Station [10:40:06] --> 2 Akhir [20:13:37] --> 
+[27-06-2020] : Post Office [10:44:30] --> IKEY [20:15:03] --> 
+[28-06-2020] : 
+[29-06-2020] : MRT Station [08:20:14] --> GayaGrocery [10:44:30] --> Ali's Nasi Kandar [13:09:02] --> 
+[30-06-2020] : MRT Station [08:19:44] --> 
+[01-07-2020] : MRT Station [08:19:37] --> GayaGrocery [10:44:07] --> MoonBucks [13:08:33] --> 
+[02-07-2020] : MRT Station [08:18:58] --> MoonBucks [13:05:38] --> 

@@ -1,0 +1,17 @@
+HUMAN ID: 06485     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Cashier
+========================================================================================
+
+[19-06-2020] : GayaGrocery [08:18:38] --> 
+[20-06-2020] : GayaGrocery [08:17:36] --> 
+[21-06-2020] : GayaGrocery [08:17:22] --> 
+[22-06-2020] : GayaGrocery [08:17:43] --> Post Office [13:05:29] --> 
+[23-06-2020] : GayaGrocery [08:17:52] --> JanBank [13:03:40] --> 
+[24-06-2020] : GayaGrocery [08:16:24] --> FoodCourt [13:03:42] --> 
+[25-06-2020] : GayaGrocery [08:15:30] --> 
+[26-06-2020] : GayaGrocery [08:15:40] --> 
+[27-06-2020] : GayaGrocery [08:18:11] --> 
+[28-06-2020] : GayaGrocery [08:15:56] --> Police Station [13:02:03] --> 
+[29-06-2020] : GayaGrocery [08:17:41] --> JJPTRv2 [13:06:33] --> 
+[30-06-2020] : GayaGrocery [08:17:20] --> 
+[01-07-2020] : GayaGrocery [08:17:15] --> SlowMart [17:54:28] --> 
+[02-07-2020] : GayaGrocery [08:16:30] --> Post Office [13:03:11] --> JJPTRv2 [17:50:40] --> 

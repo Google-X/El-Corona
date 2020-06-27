@@ -1,0 +1,17 @@
+HUMAN ID: 00859     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Post Office [09:55:49] --> 
+[20-06-2020] : 
+[21-06-2020] : Library [19:26:41] --> 
+[22-06-2020] : MRT Station [05:07:14] --> Post Office [09:54:34] --> 
+[23-06-2020] : KTM Station [05:06:59] --> Post Office [09:53:48] --> Ali's Nasi Kandar [12:17:06] --> 
+[24-06-2020] : KTM Station [05:07:25] --> Post Office [09:52:11] --> Ali's Nasi Kandar [12:16:42] --> 
+[25-06-2020] : MRT Station [05:06:46] --> Post Office [09:52:09] --> 
+[26-06-2020] : MRT Station [05:06:58] --> Post Office [09:51:10] --> MoonBucks [12:14:49] --> IKEY [19:23:43] --> 
+[27-06-2020] : Museum [12:17:18] --> IKEY [19:26:09] --> 
+[28-06-2020] : 
+[29-06-2020] : MRT Station [05:07:27] --> Post Office [09:53:56] --> 
+[30-06-2020] : MRT Station [05:07:06] --> Post Office [09:54:34] --> 
+[01-07-2020] : Post Office [09:53:55] --> 
+[02-07-2020] : Post Office [09:52:46] --> Ali's Nasi Kandar [12:15:54] --> 

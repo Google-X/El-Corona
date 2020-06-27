@@ -1,0 +1,17 @@
+HUMAN ID: 08290     GENDER: Male     AGE CATEGORY: Adult     ROLE: Technician
+========================================================================================
+
+[19-06-2020] : KTM Station [06:09:44] --> Petrocad [08:34:06] --> GayaGrocery [18:08:43] --> 
+[20-06-2020] : 
+[21-06-2020] : Park [13:18:15] --> Pharmarcy [18:05:11] --> Library [20:28:15] --> 
+[22-06-2020] : MRT Station [06:08:32] --> Petrocad [08:33:08] --> MoonBucks [10:56:58] --> FoodCourt [13:21:00] --> 
+[23-06-2020] : Petrocad [08:32:42] --> Ali's Nasi Kandar [13:18:55] --> 
+[24-06-2020] : KTM Station [06:08:50] --> Petrocad [08:31:31] --> JJPTRv2 [18:06:57] --> 
+[25-06-2020] : Petrocad [08:31:09] --> FoodCourt [10:53:41] --> FoodCourt [13:17:00] --> 
+[26-06-2020] : MRT Station [06:08:19] --> Petrocad [08:30:13] --> JanBank [10:52:47] --> FoodCourt [13:14:54] --> MoonBucks [18:02:44] --> 
+[27-06-2020] : 2 Akhir [13:18:35] --> Museum [20:27:38] --> 
+[28-06-2020] : 
+[29-06-2020] : Petrocad [08:32:40] --> FoodCourt [13:21:51] --> JanBank [18:08:15] --> 
+[30-06-2020] : Petrocad [08:32:29] --> 
+[01-07-2020] : Petrocad [08:32:00] --> 
+[02-07-2020] : KTM Station [06:09:27] --> Petrocad [08:31:35] --> Police Station [10:54:19] --> GayaGrocery [18:05:18] --> 

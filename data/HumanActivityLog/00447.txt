@@ -1,0 +1,17 @@
+HUMAN ID: 00447     GENDER: Male     AGE CATEGORY: Adult     ROLE: Shopping Centre Retailer
+========================================================================================
+
+[19-06-2020] : KTM Station [07:27:55] --> Moonlings [09:52:15] --> 
+[20-06-2020] : Moonlings [09:50:51] --> Post Office [17:01:13] --> 
+[21-06-2020] : Moonlings [09:49:37] --> 
+[22-06-2020] : Moonlings [09:51:00] --> 
+[23-06-2020] : KTM Station [07:27:24] --> Moonlings [09:50:27] --> 
+[24-06-2020] : Moonlings [09:48:37] --> 
+[25-06-2020] : KTM Station [07:26:36] --> Moonlings [09:49:06] --> 
+[26-06-2020] : Moonlings [09:47:57] --> 
+[27-06-2020] : Moonlings [09:51:44] --> 
+[28-06-2020] : Moonlings [09:49:28] --> 
+[29-06-2020] : KTM Station [07:28:13] --> Moonlings [09:50:17] --> 
+[30-06-2020] : KTM Station [07:28:00] --> Moonlings [09:51:02] --> 
+[01-07-2020] : Moonlings [09:50:25] --> 
+[02-07-2020] : Moonlings [09:49:14] --> 

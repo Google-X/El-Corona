@@ -1,0 +1,17 @@
+HUMAN ID: 01899     GENDER: Female     AGE CATEGORY: Adult     ROLE: Accountant
+========================================================================================
+
+[19-06-2020] : Ali's Nasi Kandar [12:29:03] --> 
+[20-06-2020] : Library [12:26:50] --> 
+[21-06-2020] : MoonBucks [10:02:00] --> 
+[22-06-2020] : JanBank [10:03:18] --> Ali's Nasi Kandar [12:27:29] --> 
+[23-06-2020] : Ali's Nasi Kandar [10:02:40] --> MoonBucks [12:25:43] --> 
+[24-06-2020] : MRT Station [05:16:14] --> MoonBucks [12:25:18] --> 
+[25-06-2020] : MRT Station [05:15:29] --> 
+[26-06-2020] : AccSol [09:59:31] --> 
+[27-06-2020] : IKEY [19:34:48] --> 
+[28-06-2020] : Museum [12:24:20] --> 
+[29-06-2020] : KTM Station [05:15:31] --> MoonBucks [10:03:06] --> 
+[30-06-2020] : MRT Station [05:15:38] --> GayaGrocery [10:03:09] --> Ali's Nasi Kandar [12:26:41] --> 
+[01-07-2020] : Police Station [10:03:05] --> Ali's Nasi Kandar [12:27:22] --> 
+[02-07-2020] : Post Office [10:01:16] --> 

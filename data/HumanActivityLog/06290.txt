@@ -1,0 +1,17 @@
+HUMAN ID: 06290     GENDER: Female     AGE CATEGORY: Adult     ROLE: Engineer
+========================================================================================
+
+[19-06-2020] : KTM Station [08:17:07] --> Ali's Nasi Kandar [13:04:57] --> Library [20:13:59] --> 
+[20-06-2020] : 2 Akhir [20:13:10] --> 
+[21-06-2020] : 
+[22-06-2020] : KTM Station [08:16:02] --> Ali's Nasi Kandar [10:39:30] --> FoodCourt [13:03:53] --> 
+[23-06-2020] : KTM Station [08:16:08] --> MoonBucks [10:38:49] --> MoonBucks [13:02:09] --> 
+[24-06-2020] : KTM Station [08:14:42] --> MoonBucks [13:02:06] --> 
+[25-06-2020] : KTM Station [08:13:56] --> MoonBucks [13:00:33] --> 
+[26-06-2020] : KTM Station [08:14:05] --> 
+[27-06-2020] : 
+[28-06-2020] : IKEY [20:09:53] --> 
+[29-06-2020] : KTM Station [08:16:17] --> Ali's Nasi Kandar [13:05:01] --> 
+[30-06-2020] : KTM Station [08:15:49] --> 
+[01-07-2020] : KTM Station [08:15:45] --> Ali's Nasi Kandar [13:04:20] --> 
+[02-07-2020] : KTM Station [08:14:50] --> 

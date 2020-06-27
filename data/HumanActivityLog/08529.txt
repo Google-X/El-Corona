@@ -1,0 +1,17 @@
+HUMAN ID: 08529     GENDER: Female     AGE CATEGORY: Adult     ROLE: Clerk
+========================================================================================
+
+[19-06-2020] : Post Office [08:36:06] --> FoodCourt [18:10:36] --> Moonlings [20:32:15] --> 
+[20-06-2020] : Moonlings [20:32:05] --> 
+[21-06-2020] : Library [13:20:06] --> Museum [20:30:22] --> 
+[22-06-2020] : MRT Station [06:10:37] --> Post Office [08:35:08] --> FoodCourt [13:23:08] --> 
+[23-06-2020] : Post Office [08:34:33] --> Ali's Nasi Kandar [13:20:46] --> 
+[24-06-2020] : KTM Station [06:10:47] --> Post Office [08:33:20] --> 
+[25-06-2020] : Post Office [08:33:08] --> Ali's Nasi Kandar [13:18:59] --> 
+[26-06-2020] : Post Office [08:32:11] --> Ali's Nasi Kandar [13:17:08] --> JanBank [18:04:50] --> 
+[27-06-2020] : Park [13:20:30] --> Pharmarcy [18:06:02] --> Moonlings [20:29:28] --> 
+[28-06-2020] : Park [13:18:52] --> 
+[29-06-2020] : MRT Station [06:11:41] --> Post Office [08:34:47] --> 
+[30-06-2020] : Post Office [08:34:24] --> RHP [10:58:24] --> Ali's Nasi Kandar [13:21:56] --> SlowMart [18:09:14] --> 
+[01-07-2020] : Post Office [08:34:04] --> 
+[02-07-2020] : KTM Station [06:11:28] --> Post Office [08:33:45] --> MoonBucks [13:20:02] --> Pharmarcy [18:07:16] --> 

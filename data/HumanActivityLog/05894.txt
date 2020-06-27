@@ -1,0 +1,17 @@
+HUMAN ID: 05894     GENDER: Female     AGE CATEGORY: Senior Citizen     ROLE: Accountant
+========================================================================================
+
+[19-06-2020] : MRT Station [05:49:48] --> AccSol [08:13:52] --> 
+[20-06-2020] : 2 Akhir [20:09:53] --> 
+[21-06-2020] : IKEY [20:07:38] --> 
+[22-06-2020] : MRT Station [05:48:45] --> AccSol [08:12:50] --> RHP [10:36:19] --> Ali's Nasi Kandar [13:00:33] --> 
+[23-06-2020] : MRT Station [05:49:36] --> AccSol [08:12:51] --> MoonBucks [10:35:36] --> Ali's Nasi Kandar [12:58:41] --> 
+[24-06-2020] : AccSol [08:11:40] --> 
+[25-06-2020] : AccSol [08:10:22] --> 
+[26-06-2020] : KTM Station [05:47:58] --> AccSol [08:10:54] --> Ali's Nasi Kandar [12:55:39] --> 
+[27-06-2020] : 2 Akhir [20:07:29] --> 
+[28-06-2020] : Library [20:06:33] --> 
+[29-06-2020] : MRT Station [05:49:35] --> AccSol [08:13:05] --> Police Station [10:36:50] --> FoodCourt [13:01:38] --> 
+[30-06-2020] : MRT Station [05:49:01] --> AccSol [08:12:39] --> Ali's Nasi Kandar [13:00:04] --> 
+[01-07-2020] : AccSol [08:12:33] --> Ali's Nasi Kandar [10:36:18] --> Ali's Nasi Kandar [13:01:12] --> 
+[02-07-2020] : AccSol [08:11:42] --> JJPTRv2 [10:34:50] --> Ali's Nasi Kandar [12:58:19] --> 
